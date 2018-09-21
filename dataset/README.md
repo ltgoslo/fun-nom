@@ -160,7 +160,7 @@ None of the LDC-licensed files in NomBank (i.e. _COMNOM.1.0_ and
 _nombank.1.0.print_) were used.
 
 The functor relations of the PCEDT were extracted from the PCEDT 2.0 dependency
-annotation of the English data is [licensed under the terms of of CC-BY-NC-SA
+annotation of the English data which is [licensed under the terms of of CC-BY-NC-SA
 3.0.](https://lindat.mff.cuni.cz/repository/xmlui/page/license-pcedt2)
  
 The noun–noun compound dataset itself is licensed under a [Creative Commons
