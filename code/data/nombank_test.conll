@@ -1,0 +1,5277 @@
+2	capital	capital	NN	_	_	_	ARGM-MNR
+3	commitments	commitment	NNS	_	_	_	ARGM-MNR
+
+2	trade	trade	NN	_	_	_	ARG1
+3	relations	relation	NNS	_	_	_	ARG1
+
+2	office	office	NN	_	_	_	ARG3
+3	products	product	NNS	_	_	_	ARG3
+
+2	tourist	tourist	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	trash	trash	NN	_	_	_	ARG1
+3	can	can	NN	_	_	_	ARG1
+
+2	branch	branch	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	Scrap	scrap	NN	_	_	_	ARG1
+3	merchants	merchant	NNS	_	_	_	ARG1
+
+2	production	production	NN	_	_	_	ARG1
+3	finance	finance	NN	_	_	_	ARG1
+
+2	S&L	s&l	NN	_	_	_	ARG1
+3	bailout	bailout	NN	_	_	_	ARG1
+
+2	banking	banking	NN	_	_	_	ARG0
+3	issues	issue	NNS	_	_	_	ARG0
+
+2	road	road	NN	_	_	_	ARG1
+3	conditions	condition	NNS	_	_	_	ARG1
+
+2	leisure	leisure	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	high-technology	high-technology	NN	_	_	_	ARG1
+3	concerns	concern	NNS	_	_	_	ARG1
+
+2	home	home	NN	_	_	_	ARG3
+3	products	product	NNS	_	_	_	ARG3
+
+2	hiking	hike	VBG	_	_	_	ARG1
+3	paths	path	NNS	_	_	_	ARG1
+
+2	state	state	NN	_	_	_	ARG0
+3	regulation	regulation	NN	_	_	_	ARG0
+
+2	beer-distribution	beer-distribution	NN	_	_	_	ARG1
+3	network	network	NN	_	_	_	ARG1
+
+2	stock-price	stock-price	JJ	_	_	_	ARG1
+3	swings	swing	NNS	_	_	_	ARG1
+
+2	housing	housing	NN	_	_	_	ARG1
+3	middlemen	middleman	NNS	_	_	_	ARG1
+
+2	tape	tape	NN	_	_	_	ARGM-MNR
+3	recordings	recording	NNS	_	_	_	ARGM-MNR
+
+2	intelligence	intelligence	NN	_	_	_	ARG1
+3	network	network	NN	_	_	_	ARG1
+
+2	worker-compensation	worker-compensation	NN	_	_	_	ARG1
+3	claims	claim	NNS	_	_	_	ARG1
+
+2	police	police	NN	_	_	_	ARG1
+3	presence	presence	NN	_	_	_	ARG1
+
+2	personnel	personnel	NNS	_	_	_	ARG1
+3	specialists	specialist	NNS	_	_	_	ARG1
+
+2	managing	managing	NN	_	_	_	ARG3
+3	director	director	NN	_	_	_	ARG3
+
+2	crystal-lattice	crystal-lattice	NN	_	_	_	ARG2
+3	patterns	pattern	NNS	_	_	_	ARG2
+
+2	company	company	NN	_	_	_	ARG2
+3	president	president	NN	_	_	_	ARG2
+
+2	propaganda	propaganda	NN	_	_	_	ARG0
+3	agency	agency	NN	_	_	_	ARG0
+
+2	quality	quality	NN	_	_	_	ARG1
+3	properties	property	NNS	_	_	_	ARG1
+
+2	task	task	NN	_	_	_	ARG1
+3	team	team	NN	_	_	_	ARG1
+
+2	pay	pay	NN	_	_	_	ARG1
+3	scale	scale	NN	_	_	_	ARG1
+
+2	air-interdiction	air-interdiction	NN	_	_	_	ARG1
+3	funds	fund	NNS	_	_	_	ARG1
+
+2	weekend	weekend	NN	_	_	_	ARGM-TMP
+3	circulation	circulation	NN	_	_	_	ARGM-TMP
+
+2	water	water	NN	_	_	_	ARG1
+3	molecules	molecule	NNS	_	_	_	ARG1
+
+2	smoking	smoking	NN	_	_	_	ARG1
+3	franchise	franchise	NN	_	_	_	ARG1
+
+2	reinsurance	reinsurance	NN	_	_	_	ARG2
+3	coverage	coverage	NN	_	_	_	ARG2
+
+2	employee	employee	NN	_	_	_	ARG1
+3	claims	claim	NNS	_	_	_	ARG1
+
+2	advance	advance	NN	_	_	_	ARGM-ADV
+3	stocking	stock	VBG	_	_	_	ARGM-ADV
+
+2	asset	asset	NN	_	_	_	ARG1
+3	distribution	distribution	NN	_	_	_	ARG1
+
+2	steel	steel	NN	_	_	_	ARG2
+3	reinforcement	reinforcement	NN	_	_	_	ARG2
+
+2	mountain-bike	mountain-bike	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	job	job	NN	_	_	_	ARG1
+3	levels	level	NNS	_	_	_	ARG1
+
+2	truck	truck	NN	_	_	_	ARG1
+3	drivers	driver	NNS	_	_	_	ARG1
+
+2	futures	future	NNS	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG0
+3	loan	loan	NN	_	_	_	ARG0
+
+2	capital-gains	capital-gain	NNS	_	_	_	ARG1
+3	forces	force	NNS	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG1
+3	accounts	account	NNS	_	_	_	ARG1
+
+2	piano	piano	NN	_	_	_	ARG2
+3	player	player	NN	_	_	_	ARG2
+
+2	BROKERAGE	brokerage	NN	_	_	_	ARG0
+3	HIRING	hiring	NN	_	_	_	ARG0
+
+2	school	school	NN	_	_	_	ARG1
+3	betterment	betterment	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	magazine	magazine	NN	_	_	_	ARG1
+3	titles	title	NNS	_	_	_	ARG1
+
+2	building	building	NN	_	_	_	ARG1
+3	owners	owner	NNS	_	_	_	ARG1
+
+2	gold	gold	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	banking	banking	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	prescription	prescription	NN	_	_	_	ARG1
+3	medicine	medicine	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	decline	decline	NN	_	_	_	ARG1
+
+2	bass	bass	NN	_	_	_	ARG2
+3	note	note	NN	_	_	_	ARG2
+
+2	paper	paper	NN	_	_	_	ARGM-ADV
+3	losses	loss	NNS	_	_	_	ARGM-ADV
+
+2	hat	hat	NN	_	_	_	ARG2
+3	side	side	NN	_	_	_	ARG2
+
+2	industry	industry	NN	_	_	_	ARG0
+3	forecasts	forecast	NNS	_	_	_	ARG0
+
+2	research	research	NN	_	_	_	ARG1
+3	consortia	consortia	NN	_	_	_	ARG1
+
+2	liability	liability	NN	_	_	_	ARG4
+3	insurance	insurance	NN	_	_	_	ARG4
+
+2	weapons	weapon	NNS	_	_	_	ARG1
+3	manufacture	manufacture	NN	_	_	_	ARG1
+
+2	auto-emissions	auto-emission	NNS	_	_	_	ARG3
+3	standards	standard	NNS	_	_	_	ARG3
+
+2	childhood	childhood	NN	_	_	_	ARGM-TMP
+3	memories	memory	NNS	_	_	_	ARGM-TMP
+
+2	corn	corn	NN	_	_	_	ARG1
+3	options	option	NNS	_	_	_	ARG1
+
+2	collection	collection	NN	_	_	_	ARG0
+3	agencies	agency	NNS	_	_	_	ARG0
+
+2	time	time	NN	_	_	_	ARG1
+3	limits	limit	NNS	_	_	_	ARG1
+
+2	airport	airport	NN	_	_	_	ARG1
+3	authority	authority	NN	_	_	_	ARG1
+
+2	kelp	kelp	NN	_	_	_	ARG1
+3	farming	farming	NN	_	_	_	ARG1
+
+2	cable	cable	NN	_	_	_	ARG1
+3	operators	operator	NNS	_	_	_	ARG1
+
+2	Pricing	pricing	NN	_	_	_	ARG1
+3	details	detail	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	niches	niche	NNS	_	_	_	ARG1
+
+2	mergers	merger	NNS	_	_	_	ARG1
+3	slowdown	slowdown	NN	_	_	_	ARG1
+
+2	family	family	NN	_	_	_	ARG1
+3	tree	tree	NN	_	_	_	ARG1
+
+2	disposal	disposal	NN	_	_	_	ARG1
+3	site	site	NN	_	_	_	ARG1
+
+2	law	law	NN	_	_	_	ARG1
+3	enforcement	enforcement	NN	_	_	_	ARG1
+
+2	cargo	cargo	NN	_	_	_	ARG1
+3	ventures	venture	NNS	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG2
+3	conflicts	conflict	NNS	_	_	_	ARG2
+
+2	polystyrene	polystyrene	NN	_	_	_	ARG1
+3	recycling	recycling	NN	_	_	_	ARG1
+
+2	enforcement	enforcement	NN	_	_	_	ARG1
+3	chief	chief	NN	_	_	_	ARG1
+
+2	inventory	inventory	NN	_	_	_	ARG1
+3	cutting	cutting	NN	_	_	_	ARG1
+
+2	truck	truck	NN	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	media	media	NNS	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	bullion	bullion	NN	_	_	_	ARG1
+3	trader	trader	NN	_	_	_	ARG1
+
+2	bankruptcy	bankruptcy	NN	_	_	_	ARGM-MNR
+3	reorganization	reorganization	NN	_	_	_	ARGM-MNR
+
+2	management	management	NN	_	_	_	ARG1
+3	style	style	NN	_	_	_	ARG1
+
+2	aluminum	aluminum	NN	_	_	_	ARG1
+3	producer	producer	NN	_	_	_	ARG1
+
+2	real-estate	real-estate	NN	_	_	_	ARG2
+3	investment	investment	NN	_	_	_	ARG2
+
+2	brand	brand	NN	_	_	_	ARG1
+3	images	image	NNS	_	_	_	ARG1
+
+2	technology	technology	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	export	export	NN	_	_	_	ARG1
+3	restraints	restraint	NNS	_	_	_	ARG1
+
+2	small-company	small-company	NN	_	_	_	ARG1
+3	owners	owner	NNS	_	_	_	ARG1
+
+2	record	record	NN	_	_	_	ARG1
+3	club	club	NN	_	_	_	ARG1
+
+2	car	car	NN	_	_	_	ARG1
+3	exports	export	NNS	_	_	_	ARG1
+
+2	paper	paper	NN	_	_	_	ARG1
+3	work	work	NN	_	_	_	ARG1
+
+2	benefit	benefit	NN	_	_	_	ARG1
+3	packages	package	NNS	_	_	_	ARG1
+
+2	engine	engine	NN	_	_	_	ARG1
+3	maker	maker	NN	_	_	_	ARG1
+
+2	marketing	marketing	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	junk	junk	NN	_	_	_	ARG1
+3	securities	security	NNS	_	_	_	ARG1
+
+2	home	home	NN	_	_	_	ARGM-LOC
+3	tapers	taper	NNS	_	_	_	ARGM-LOC
+
+2	drive	drive	NN	_	_	_	ARG1
+3	north	north	RB	_	_	_	ARG1
+
+2	productivity	productivity	NN	_	_	_	ARG1
+3	ratios	ratio	NNS	_	_	_	ARG1
+
+2	durable-goods	durable-goods	NNS	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	crown	crown	NN	_	_	_	ARG3
+3	prince	prince	NN	_	_	_	ARG3
+
+2	Insurance	insurance	NN	_	_	_	ARG1
+3	analysts	analyst	NNS	_	_	_	ARG1
+
+2	base	base	NN	_	_	_	ARG1
+3	pay	pay	NN	_	_	_	ARG1
+
+2	stereo	stereo	NN	_	_	_	ARG1
+3	equipment	equipment	NN	_	_	_	ARG1
+
+2	nation	nation	NN	_	_	_	ARG1
+3	address	address	NN	_	_	_	ARG1
+
+2	telecommunications	telecommunications	NN	_	_	_	ARG3
+3	products	product	NNS	_	_	_	ARG3
+
+2	tobacco	tobacco	NN	_	_	_	ARG1
+3	agents	agent	NNS	_	_	_	ARG1
+
+2	cockpit	cockpit	NN	_	_	_	ARG1
+3	seats	seat	NNS	_	_	_	ARG1
+
+2	elevator	elevator	NN	_	_	_	ARG1
+3	door	door	NN	_	_	_	ARG1
+
+2	food	food	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARG2
+3	problems	problem	NNS	_	_	_	ARG2
+
+2	artery-clogging	artery-clogging	NN	_	_	_	ARG1
+3	hazards	hazard	NNS	_	_	_	ARG1
+
+2	synergy	synergy	NN	_	_	_	ARG1
+3	strategy	strategy	NN	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	breakdown	breakdown	NN	_	_	_	ARG1
+
+2	area	area	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	management	management	NN	_	_	_	ARG0
+3	strife	strife	NN	_	_	_	ARG0
+
+2	market	market	NN	_	_	_	ARG0
+3	optimism	optimism	NN	_	_	_	ARG0
+
+2	opinion	opinion	NN	_	_	_	ARG1
+3	magazines	magazine	NNS	_	_	_	ARG1
+
+2	intercom	intercom	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	ticket	ticket	NN	_	_	_	ARG1
+3	processing	processing	NN	_	_	_	ARG1
+
+2	cable-TV	cable-tv	NN	_	_	_	ARG1
+3	trend	trend	NN	_	_	_	ARG1
+
+2	real-estate	real-estate	NN	_	_	_	ARG1
+3	speculation	speculation	NN	_	_	_	ARG1
+
+2	real-estate	real-estate	NN	_	_	_	ARG1
+3	portfolio	portfolio	NN	_	_	_	ARG1
+
+2	wallpaper	wallpaper	NN	_	_	_	ARG1
+3	factory	factory	NN	_	_	_	ARG1
+
+2	notification	notification	NN	_	_	_	ARG1
+3	policy	policy	NN	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG1
+3	commissioners	commissioner	NNS	_	_	_	ARG1
+
+2	public	public	JJ	_	_	_	ARG0
+3	outcry	outcry	NN	_	_	_	ARG0
+
+2	federation	federation	NN	_	_	_	ARG2
+3	official	official	NN	_	_	_	ARG2
+
+2	industry	industry	NN	_	_	_	ARG1
+3	trend	trend	NN	_	_	_	ARG1
+
+2	windshield	windshield	NN	_	_	_	ARG1
+3	adhesive	adhesive	NN	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG1
+3	expectations	expectation	NNS	_	_	_	ARG1
+
+2	phone	phone	NN	_	_	_	ARG0
+3	trouble	trouble	NN	_	_	_	ARG0
+
+2	drug-industry	drug-industry	NN	_	_	_	ARG1
+3	analyst	analyst	NN	_	_	_	ARG1
+
+2	dozen	dozen	NN	_	_	_	ARG1
+3	companies	company	NNS	_	_	_	ARG1
+
+2	country	country	NN	_	_	_	ARGM-LOC
+3	hideaway	hideaway	NN	_	_	_	ARGM-LOC
+
+2	communications	communication	NNS	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	stock	stock	NN	_	_	_	ARG1
+3	ownership	ownership	NN	_	_	_	ARG1
+
+2	shareholder	shareholder	NN	_	_	_	ARG0
+3	consents	consent	NNS	_	_	_	ARG0
+
+2	business	business	NN	_	_	_	ARG2
+3	confidence	confidence	NN	_	_	_	ARG2
+
+2	crash	crash	NN	_	_	_	ARG1
+3	studies	study	NNS	_	_	_	ARG1
+
+2	cast	cast	NN	_	_	_	ARG1
+3	member	member	NN	_	_	_	ARG1
+
+2	airfare	airfare	NN	_	_	_	ARG1
+3	wars	war	NNS	_	_	_	ARG1
+
+2	air	air	NN	_	_	_	ARG1
+3	currents	current	NNS	_	_	_	ARG1
+
+2	real-estate	real-estate	NN	_	_	_	ARG3
+3	loans	loan	NNS	_	_	_	ARG3
+
+2	brand	brand	NN	_	_	_	ARG1
+3	choices	choice	NNS	_	_	_	ARG1
+
+2	data	datum	NNS	_	_	_	ARG1
+3	storage	storage	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG3
+3	mediator	mediator	NN	_	_	_	ARG3
+
+2	office	office	NN	_	_	_	ARG1
+3	sites	site	NNS	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARG1
+3	conditions	condition	NNS	_	_	_	ARG1
+
+2	equities	equity	NNS	_	_	_	ARG1
+3	transactions	transaction	NNS	_	_	_	ARG1
+
+2	stroke	stroke	NN	_	_	_	ARG1
+3	patients	patient	NNS	_	_	_	ARG1
+
+2	school	school	NN	_	_	_	ARG1
+3	reform	reform	NN	_	_	_	ARG1
+
+2	car	car	NN	_	_	_	ARG1
+3	supply	supply	NN	_	_	_	ARG1
+
+2	cost	cost	NN	_	_	_	ARG1
+3	structure	structure	NN	_	_	_	ARG1
+
+2	package-sorting	package-sorting	NN	_	_	_	ARG3
+3	hub	hub	NN	_	_	_	ARG3
+
+2	Government	government	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	jewelery	jewelery	NN	_	_	_	ARG1
+3	chain	chain	NN	_	_	_	ARG1
+
+2	transit	transit	NN	_	_	_	ARG1
+3	police	police	NN	_	_	_	ARG1
+
+2	sporting-goods	sporting-goods	NNS	_	_	_	ARG1
+3	chain	chain	NN	_	_	_	ARG1
+
+2	coating	coating	NN	_	_	_	ARG1
+3	segment	segment	NN	_	_	_	ARG1
+
+2	claims	claim	NNS	_	_	_	ARG1
+3	adjustments	adjustment	NNS	_	_	_	ARG1
+
+2	matching	match	VBG	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG0
+3	action	action	NN	_	_	_	ARG0
+
+2	computer-systems	computer-system	NNS	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	youth	youth	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	activity	activity	NN	_	_	_	ARG1
+
+2	equal-opportunity	equal-opportunity	NN	_	_	_	ARG2
+3	suit	suit	NN	_	_	_	ARG2
+
+2	conference	conference	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	petrochemical	petrochemical	NN	_	_	_	ARG1
+3	maker	maker	NN	_	_	_	ARG1
+
+2	machine	machine	NN	_	_	_	ARG1
+3	systems	system	NNS	_	_	_	ARG1
+
+2	listening	listen	VBG	_	_	_	ARG1
+3	selections	selection	NNS	_	_	_	ARG1
+
+2	S&L	s&l	NN	_	_	_	ARG2
+3	lawyers	lawyer	NNS	_	_	_	ARG2
+
+2	stock	stock	NN	_	_	_	ARG1
+3	buy-back	buy-back	NN	_	_	_	ARG1
+
+2	business-communications	business-communication	NNS	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	telemarketing	telemarketing	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	fur	fur	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	production	production	NN	_	_	_	ARG1
+3	ceiling	ceiling	NN	_	_	_	ARG1
+
+2	breathing	breathing	NN	_	_	_	ARG2
+3	problems	problem	NNS	_	_	_	ARG2
+
+2	rape	rape	NN	_	_	_	ARG1
+3	victims	victim	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	increment	increment	NN	_	_	_	ARG1
+
+2	income	income	NN	_	_	_	ARG1
+3	redistribution	redistribution	NN	_	_	_	ARG1
+
+2	council	council	NN	_	_	_	ARG1
+3	delegate	delegate	NN	_	_	_	ARG1
+
+2	kingside	kingside	NN	_	_	_	ARGM-LOC
+3	development	development	NN	_	_	_	ARGM-LOC
+
+2	management	management	NN	_	_	_	ARG1
+3	contract	contract	NN	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARG1
+3	abuses	abuse	NNS	_	_	_	ARG1
+
+2	psyllium	psyllium	NN	_	_	_	ARG1
+3	exporter	exporter	NN	_	_	_	ARG1
+
+2	honey	honey	NN	_	_	_	ARG1
+3	pot	pot	NN	_	_	_	ARG1
+
+2	folk	folk	NN	_	_	_	ARG2
+3	architecture	architecture	NN	_	_	_	ARG2
+
+2	compromise	compromise	NN	_	_	_	Support
+3	plan	plan	NN	_	_	_	Support
+
+2	high-school	high-school	NN	_	_	_	ARG1
+3	graduates	graduate	NNS	_	_	_	ARG1
+
+2	vacancy	vacancy	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	sports	sport	NNS	_	_	_	ARG1
+3	teams	team	NNS	_	_	_	ARG1
+
+2	coffee	coffee	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	drug	drug	NN	_	_	_	ARG1
+3	trade	trade	NN	_	_	_	ARG1
+
+2	severance	severance	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARG1
+3	interests	interest	NNS	_	_	_	ARG1
+
+2	horror	horror	NN	_	_	_	ARG3
+3	stories	story	NNS	_	_	_	ARG3
+
+2	market	market	NN	_	_	_	ARGM-LOC
+3	speculation	speculation	NN	_	_	_	ARGM-LOC
+
+2	drug	drug	NN	_	_	_	ARG1
+3	funding	funding	NN	_	_	_	ARG1
+
+2	sludge	sludge	NN	_	_	_	ARG1
+3	treatment	treatment	NN	_	_	_	ARG1
+
+2	revenue	revenue	NN	_	_	_	ARG1
+3	increase	increase	NN	_	_	_	ARG1
+
+2	life	life	NN	_	_	_	ARG1
+3	styles	style	NNS	_	_	_	ARG1
+
+2	investor	investor	NN	_	_	_	ARG0
+3	anxiety	anxiety	NN	_	_	_	ARG0
+
+2	premium-beer	premium-beer	NN	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	oil	oil	NN	_	_	_	ARG1
+3	demand	demand	NN	_	_	_	ARG1
+
+2	Office	Office	NNP	_	_	_	ARG1
+3	construction	construction	NN	_	_	_	ARG1
+
+2	discount	discount	NN	_	_	_	ARG2
+3	offers	offer	VBZ	_	_	_	ARG2
+
+2	lending	lending	NN	_	_	_	ARG2
+3	requirements	requirement	NNS	_	_	_	ARG2
+
+2	first-floor	first-floor	NN	_	_	_	ARG1
+3	window	window	NN	_	_	_	ARG1
+
+2	car-leasing	car-leasing	NN	_	_	_	ARG2
+3	company	company	NN	_	_	_	ARG2
+
+2	automobile	automobile	NN	_	_	_	ARG1
+3	choices	choice	NNS	_	_	_	ARG1
+
+2	nonbusiness	nonbusiness	NN	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	swoon	swoon	NN	_	_	_	ARG1
+
+2	automated-quotation	automated-quotation	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	deputy	deputy	NN	_	_	_	ARG3
+3	manager	manager	NN	_	_	_	ARG3
+
+2	state	state	NN	_	_	_	ARG0
+3	programs	program	NNS	_	_	_	ARG0
+
+2	investor	investor	NN	_	_	_	ARG3
+3	centers	center	NNS	_	_	_	ARG3
+
+2	research	research	NN	_	_	_	ARG3
+3	center	center	NN	_	_	_	ARG3
+
+2	earnings	earnings	NNS	_	_	_	ARG1
+3	figures	figure	NNS	_	_	_	ARG1
+
+2	audience	audience	NN	_	_	_	ARG0
+3	participation	participation	NN	_	_	_	ARG0
+
+2	past	past	JJ	_	_	_	ARGM-TMP
+3	decade	decade	NN	_	_	_	ARGM-TMP
+
+2	news	news	NN	_	_	_	ARG1
+3	format	format	NN	_	_	_	ARG1
+
+2	sell	sell	NN	_	_	_	ARG1
+3	programs	program	NNS	_	_	_	ARG1
+
+2	export	export	NN	_	_	_	ARG1
+3	exhibitions	exhibition	NNS	_	_	_	ARG1
+
+2	coup	coup	NN	_	_	_	ARG1
+3	plotters	plotter	NNS	_	_	_	ARG1
+
+2	car	car	NN	_	_	_	ARG1
+3	window	window	NN	_	_	_	ARG1
+
+2	newspaper	newspaper	NN	_	_	_	ARGM-LOC
+3	advertisements	advertisement	NNS	_	_	_	ARGM-LOC
+
+2	Loan	loan	NN	_	_	_	ARG1
+3	covenants	covenant	NNS	_	_	_	ARG1
+
+2	case	case	NN	_	_	_	ARG1
+3	study	study	NN	_	_	_	ARG1
+
+2	semiconductor	semiconductor	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	racketeering	racketeering	NN	_	_	_	ARG2
+3	suit	suit	NN	_	_	_	ARG2
+
+2	construction	construction	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	installment	installment	NN	_	_	_	ARG1
+3	debt	debt	NN	_	_	_	ARG1
+
+2	stadium	stadium	NN	_	_	_	ARG2
+3	craze	craze	NN	_	_	_	ARG2
+
+2	hotel	hotel	NN	_	_	_	ARG1
+3	rooms	room	NNS	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	contract	contract	NN	_	_	_	ARG1
+
+2	Revenue	revenue	NN	_	_	_	ARG1
+3	projections	projection	NNS	_	_	_	ARG1
+
+2	risk	risk	NN	_	_	_	ARG1
+3	profile	profile	NN	_	_	_	ARG1
+
+2	chief	chief	JJ	_	_	_	ARG3
+3	investigator	investigator	NN	_	_	_	ARG3
+
+2	world	world	NN	_	_	_	ARG2
+3	mentality	mentality	NN	_	_	_	ARG2
+
+2	production	production	NN	_	_	_	ARG1
+3	hurdles	hurdle	NNS	_	_	_	ARG1
+
+2	packaged-goods	packaged-goods	NNS	_	_	_	ARG1
+3	techniques	technique	NNS	_	_	_	ARG1
+
+2	Food	Food	NNP	_	_	_	ARG1
+3	manufacturer	manufacturer	NN	_	_	_	ARG1
+
+2	emergency	emergency	NN	_	_	_	ARG2
+3	use	use	NN	_	_	_	ARG2
+
+2	materials	material	NNS	_	_	_	ARG1
+3	scientist	scientist	NN	_	_	_	ARG1
+
+2	health	health	NN	_	_	_	ARG1
+3	problems	problem	NNS	_	_	_	ARG1
+
+2	dividend	dividend	NN	_	_	_	ARG1
+3	questions	question	NNS	_	_	_	ARG1
+
+2	conference	conference	NN	_	_	_	ARG1
+3	title	title	NN	_	_	_	ARG1
+
+2	highlight	highlight	NN	_	_	_	ARG1
+3	tables	table	NNS	_	_	_	ARG1
+
+2	mortality	mortality	NN	_	_	_	ARG1
+3	rate	rate	NN	_	_	_	ARG1
+
+2	convention	convention	NN	_	_	_	ARG3
+3	center	center	NN	_	_	_	ARG3
+
+2	auction	auction	NN	_	_	_	ARG1
+3	date	date	NN	_	_	_	ARG1
+
+2	profit	profit	NN	_	_	_	ARG1
+3	estimates	estimate	NNS	_	_	_	ARG1
+
+2	majority	majority	NN	_	_	_	ARG2
+3	owner	owner	NN	_	_	_	ARG2
+
+2	referral	referral	NN	_	_	_	ARG1
+3	fees	fee	NNS	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	combinations	combination	NNS	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARGM-LOC
+3	risks	risk	NNS	_	_	_	ARGM-LOC
+
+2	interest-rate	interest-rate	NN	_	_	_	ARG1
+3	stance	stance	NN	_	_	_	ARG1
+
+2	assassination	assassination	NN	_	_	_	ARG1
+3	ban	ban	NN	_	_	_	ARG1
+
+2	liability	liability	NN	_	_	_	ARG1
+3	policy	policy	NN	_	_	_	ARG1
+
+2	proxy	proxy	NN	_	_	_	ARG1
+3	statements	statement	NNS	_	_	_	ARG1
+
+2	drought	drought	NN	_	_	_	ARG2
+3	problems	problem	NNS	_	_	_	ARG2
+
+2	fund	fund	NN	_	_	_	ARG1
+3	mania	mania	NN	_	_	_	ARG1
+
+2	works	work	NNS	_	_	_	ARG1
+3	projects	project	NNS	_	_	_	ARG1
+
+2	budget	budget	NN	_	_	_	ARG1
+3	deficit	deficit	NN	_	_	_	ARG1
+
+2	computer-network	computer-network	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	division	division	NN	_	_	_	ARG1
+3	heads	head	NNS	_	_	_	ARG1
+
+2	ghostbusting	ghostbusting	NN	_	_	_	ARG1
+3	equipment	equipment	NN	_	_	_	ARG1
+
+2	power	power	NN	_	_	_	ARG1
+3	difficulties	difficulty	NNS	_	_	_	ARG1
+
+2	export	export	NN	_	_	_	ARG1
+3	growth	growth	NN	_	_	_	ARG1
+
+2	packaging	packaging	NN	_	_	_	ARG1
+3	products	product	NNS	_	_	_	ARG1
+
+2	exchange	exchange	NN	_	_	_	ARG1
+3	rate	rate	NN	_	_	_	ARG1
+
+2	commission	commission	NN	_	_	_	ARG2
+3	spokesman	spokesman	NN	_	_	_	ARG2
+
+2	shipboard	shipboard	NN	_	_	_	ARGM-LOC
+3	meetings	meeting	NNS	_	_	_	ARGM-LOC
+
+2	tourist	tourist	NN	_	_	_	ARG1
+3	board	board	NN	_	_	_	ARG1
+
+2	witching	witching	NN	_	_	_	ARG1
+3	hour	hour	NN	_	_	_	ARG1
+
+2	limited-partnership	limited-partnership	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	defense	defense	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	grease	grease	NN	_	_	_	ARG3
+3	marks	mark	NNS	_	_	_	ARG3
+
+2	bargaining	bargaining	NN	_	_	_	ARG1
+3	agent	agent	NN	_	_	_	ARG1
+
+2	missile	missile	NN	_	_	_	ARG1
+3	test	test	NN	_	_	_	ARG1
+
+2	weeklong	weeklong	JJ	_	_	_	ARGM-TMP
+3	meeting	meeting	NN	_	_	_	ARGM-TMP
+
+2	money	money	NN	_	_	_	ARG1
+3	manager	manager	NN	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG0
+3	debt	debt	NN	_	_	_	ARG0
+
+2	customer	customer	NN	_	_	_	ARG0
+3	base	base	NN	_	_	_	ARG0
+
+2	underwriting	underwriting	NN	_	_	_	ARG1
+3	transactions	transaction	NNS	_	_	_	ARG1
+
+2	fund	fund	NN	_	_	_	ARG1
+3	clients	client	NNS	_	_	_	ARG1
+
+2	hospital	hospital	NN	_	_	_	ARG2
+3	supply	supply	NN	_	_	_	ARG2
+
+2	target	target	NN	_	_	_	ARG1
+3	company	company	NN	_	_	_	ARG1
+
+2	buying	buying	NN	_	_	_	ARG1
+3	season	season	NN	_	_	_	ARG1
+
+2	merger	merger	NN	_	_	_	ARG0
+3	boom	boom	NN	_	_	_	ARG0
+
+2	semiconductor	semiconductor	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	convenience-store	convenience-store	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	fee	fee	NN	_	_	_	ARG3
+3	revenue	revenue	NN	_	_	_	ARG3
+
+2	labor	labor	NN	_	_	_	ARG0
+3	proposals	proposal	NNS	_	_	_	ARG0
+
+2	wage	wage	NN	_	_	_	ARG1
+3	deal	deal	NN	_	_	_	ARG1
+
+2	vacation	vacation	NN	_	_	_	ARG1
+3	time-shares	time-share	NNS	_	_	_	ARG1
+
+2	egg	egg	NN	_	_	_	ARG1
+3	processors	processor	NNS	_	_	_	ARG1
+
+2	trail	trail	NN	_	_	_	ARG2
+3	etiquette	etiquette	NN	_	_	_	ARG2
+
+2	operating	operating	NN	_	_	_	ARG3
+3	earnings	earnings	NNS	_	_	_	ARG3
+
+2	Fuel	fuel	NN	_	_	_	ARG1
+3	cost	cost	NN	_	_	_	ARG1
+
+2	junk	junk	NN	_	_	_	ARG1
+3	recovery	recovery	NN	_	_	_	ARG1
+
+2	audit	audit	NN	_	_	_	ARG1
+3	groups	group	NNS	_	_	_	ARG1
+
+2	resistance	resistance	NN	_	_	_	ARG0
+3	government	government	NN	_	_	_	ARG0
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	attempt	attempt	NN	_	_	_	ARG1
+
+2	program	program	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	store	store	NN	_	_	_	ARG2
+3	basis	basis	NN	_	_	_	ARG2
+
+2	geometry	geometry	NN	_	_	_	ARG1
+3	lesson	lesson	NN	_	_	_	ARG1
+
+2	clothing	clothing	NN	_	_	_	ARG1
+3	retailer	retailer	NN	_	_	_	ARG1
+
+2	milk	milk	NN	_	_	_	ARG1
+3	output	output	NN	_	_	_	ARG1
+
+2	health-care	health-care	NN	_	_	_	ARG1
+3	cost	cost	NN	_	_	_	ARG1
+
+2	co-chief	co-chief	JJ	_	_	_	ARG3
+3	executive	executive	NN	_	_	_	ARG3
+
+2	money	money	NN	_	_	_	ARG1
+3	worship	worship	NN	_	_	_	ARG1
+
+2	promoter	promoter	NN	_	_	_	ARG1
+3	gene	gene	NN	_	_	_	ARG1
+
+2	'60s	'60s	CD	_	_	_	ARGM-TMP
+3	dropouts	dropout	NNS	_	_	_	ARGM-TMP
+
+2	business	business	NN	_	_	_	ARG1
+3	affairs	affair	NNS	_	_	_	ARG1
+
+2	traffic	traffic	NN	_	_	_	ARG1
+3	delays	delay	NNS	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARG1
+3	use	use	NN	_	_	_	ARG1
+
+2	electronics	electronics	NNS	_	_	_	ARG1
+3	equiment	equiment	NN	_	_	_	ARG1
+
+2	leadership	leadership	NN	_	_	_	ARG1
+3	role	role	NN	_	_	_	ARG1
+
+2	show	show	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	Conference	conference	NN	_	_	_	ARG1
+3	participants	participant	NNS	_	_	_	ARG1
+
+2	church	church	NN	_	_	_	Support
+3	choir	choir	NN	_	_	_	Support
+
+2	spending	spending	NN	_	_	_	ARG1
+3	freeze	freeze	NN	_	_	_	ARG1
+
+2	milk	milk	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	abortion-rights	abortion-rights	NNS	_	_	_	ARG1
+3	advocates	advocate	NNS	_	_	_	ARG1
+
+2	radio	radio	NN	_	_	_	ARG1
+3	operators	operator	NNS	_	_	_	ARG1
+
+2	adult	adult	JJ	_	_	_	ARG1
+3	treatments	treatment	NNS	_	_	_	ARG1
+
+2	name	name	NN	_	_	_	ARG1
+3	change	change	NN	_	_	_	ARG1
+
+2	average	average	JJ	_	_	_	ARG2
+3	age	age	NN	_	_	_	ARG2
+
+2	note	note	NN	_	_	_	ARG1
+3	sale	sale	NN	_	_	_	ARG1
+
+2	chemicals	chemical	NNS	_	_	_	ARG1
+3	interests	interest	NNS	_	_	_	ARG1
+
+2	junk	junk	NN	_	_	_	ARG2
+3	financings	financing	NNS	_	_	_	ARG2
+
+2	bankruptcy-law	bankruptcy-law	NN	_	_	_	ARGM-MNR
+3	reorganization	reorganization	NN	_	_	_	ARGM-MNR
+
+2	delinquency	delinquency	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	phone	phone	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG1
+3	load	load	NN	_	_	_	ARG1
+
+2	portfolio	portfolio	NN	_	_	_	ARG1
+3	trading	trading	NN	_	_	_	ARG1
+
+2	portfolio	portfolio	NN	_	_	_	ARG1
+3	value	value	NN	_	_	_	ARG1
+
+2	generation	generation	NN	_	_	_	ARG1
+3	gap	gap	NN	_	_	_	ARG1
+
+2	steel	steel	NN	_	_	_	ARG1
+3	suppliers	supplier	NNS	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	advertising	advertising	NN	_	_	_	ARG1
+3	climate	climate	NN	_	_	_	ARG1
+
+2	school	school	NN	_	_	_	ARG1
+3	systems	system	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	volatility	volatility	NN	_	_	_	ARG1
+
+2	stock	stock	NN	_	_	_	ARG1
+3	rating	rating	NN	_	_	_	ARG1
+
+2	acquisition	acquisition	NN	_	_	_	ARG1
+3	vehicle	vehicle	NN	_	_	_	ARG1
+
+2	horticultural-products	horticultural-product	NNS	_	_	_	ARG0
+3	company	company	NN	_	_	_	ARG0
+
+2	hardware	hardware	NN	_	_	_	ARG1
+3	systems	system	NNS	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG0
+3	boom	boom	NN	_	_	_	ARG0
+
+2	tax	tax	NN	_	_	_	ARG1
+3	cost	cost	NN	_	_	_	ARG1
+
+2	model	model	NN	_	_	_	Support
+3	year	year	NN	_	_	_	Support
+
+2	ruling-party	ruling-party	NN	_	_	_	ARG1
+3	members	member	NNS	_	_	_	ARG1
+
+2	Stock-fund	stock-fund	NN	_	_	_	ARG1
+3	managers	manager	NNS	_	_	_	ARG1
+
+2	toxic-waste	toxic-waste	NN	_	_	_	ARG2
+3	suit	suit	NN	_	_	_	ARG2
+
+2	securities	security	NNS	_	_	_	ARG1
+3	officials	official	NNS	_	_	_	ARG1
+
+2	engineering	engineering	NN	_	_	_	ARG1
+3	manager	manager	NN	_	_	_	ARG1
+
+2	contingency	contingency	NN	_	_	_	ARG1
+3	fund	fund	NN	_	_	_	ARG1
+
+2	junk	junk	NN	_	_	_	ARG3
+3	losses	loss	NNS	_	_	_	ARG3
+
+2	class	class	NN	_	_	_	ARG1
+3	attendance	attendance	NN	_	_	_	ARG1
+
+2	Quarter	quarter	NN	_	_	_	ARGM-TMP
+3	revenue	revenue	NN	_	_	_	ARGM-TMP
+
+2	insurance	insurance	NN	_	_	_	ARGM-PNC
+3	reserves	reserve	NNS	_	_	_	ARGM-PNC
+
+2	college	college	NN	_	_	_	ARG2
+3	president	president	NN	_	_	_	ARG2
+
+2	computer	computer	NN	_	_	_	ARG1
+3	screen	screen	NN	_	_	_	ARG1
+
+2	space-science	space-science	NN	_	_	_	ARG1
+3	work	work	NN	_	_	_	ARG1
+
+2	districting	districting	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	popularity	popularity	NN	_	_	_	ARG1
+3	rating	rating	NN	_	_	_	ARG1
+
+2	crack	crack	NN	_	_	_	ARG1
+3	dealers	dealer	NNS	_	_	_	ARG1
+
+2	asset	asset	NN	_	_	_	ARG1
+3	terms	term	NNS	_	_	_	ARG1
+
+2	cash	cash	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	output	output	NN	_	_	_	ARG1
+3	estimates	estimate	NNS	_	_	_	ARG1
+
+2	information-systems	information-system	NNS	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	foreign-currency	foreign-currency	NN	_	_	_	ARG1
+3	translation	translation	NN	_	_	_	ARG1
+
+2	court	court	NN	_	_	_	ARGM-LOC
+3	proceedings	proceedings	NNS	_	_	_	ARGM-LOC
+
+2	stock	stock	NN	_	_	_	ARG1
+3	exchange	exchange	NN	_	_	_	ARG1
+
+2	steel	steel	NN	_	_	_	ARG1
+3	production	production	NN	_	_	_	ARG1
+
+2	membership	membership	NN	_	_	_	ARG1
+3	figures	figure	NNS	_	_	_	ARG1
+
+2	home	home	NN	_	_	_	ARG2
+3	delivery	delivery	NN	_	_	_	ARG2
+
+2	keyboard	keyboard	NN	_	_	_	ARG1
+3	allergy	allergy	NN	_	_	_	ARG1
+
+2	railway	railway	NN	_	_	_	ARG1
+3	worker	worker	NN	_	_	_	ARG1
+
+2	plant	plant	NN	_	_	_	ARG1
+3	site	site	NN	_	_	_	ARG1
+
+2	consulting	consulting	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	B-2	b-2	NN	_	_	_	ARG1
+3	development	development	NN	_	_	_	ARG1
+
+2	hotel	hotel	NN	_	_	_	ARG0
+3	accommodations	accommodation	NNS	_	_	_	ARG0
+
+2	insulin	insulin	NN	_	_	_	ARG1
+3	products	product	NNS	_	_	_	ARG1
+
+2	sugar	sugar	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	eye	eye	NN	_	_	_	ARG2
+3	surgery	surgery	NN	_	_	_	ARG2
+
+2	equipment	equipment	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	system	system	NN	_	_	_	ARG1
+3	software	software	NN	_	_	_	ARG1
+
+2	policy	policy	NN	_	_	_	ARG1
+3	limits	limit	NNS	_	_	_	ARG1
+
+2	securities	security	NNS	_	_	_	ARG2
+3	accounts	account	NNS	_	_	_	ARG2
+
+2	food	food	NN	_	_	_	ARG1
+3	caterer	caterer	NN	_	_	_	ARG1
+
+2	worker	worker	NN	_	_	_	ARG1
+3	fatalities	fatality	NNS	_	_	_	ARG1
+
+2	broadcast	broadcast	NN	_	_	_	ARG1
+3	production	production	NN	_	_	_	ARG1
+
+2	copper	copper	NN	_	_	_	ARG1
+3	mines	mine	NNS	_	_	_	ARG1
+
+2	spillover	spillover	JJ	_	_	_	ARGM-MNR
+3	effects	effect	NNS	_	_	_	ARGM-MNR
+
+2	deuterium	deuterium	NN	_	_	_	ARG1
+3	atoms	atom	NNS	_	_	_	ARG1
+
+2	medical-care	medical-care	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	pop	pop	NN	_	_	_	ARG1
+3	singer	singer	NN	_	_	_	ARG1
+
+2	Transportation	transportation	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	courtroom	courtroom	NN	_	_	_	ARGM-LOC
+3	ordeal	ordeal	NN	_	_	_	ARGM-LOC
+
+2	college-bowl	college-bowl	NN	_	_	_	ARG2
+3	type	type	NN	_	_	_	ARG2
+
+2	electricity	electricity	NN	_	_	_	ARG1
+3	shortage	shortage	NN	_	_	_	ARG1
+
+2	bottling	bottle	VBG	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	Percentage	percentage	NN	_	_	_	ARG1
+3	differences	difference	NNS	_	_	_	ARG1
+
+2	loan	loan	NN	_	_	_	ARG1
+3	originations	origination	NNS	_	_	_	ARG1
+
+2	past	past	JJ	_	_	_	ARGM-TMP
+3	summer	summer	NN	_	_	_	ARGM-TMP
+
+2	saving	saving	NN	_	_	_	ARG1
+3	rate	rate	NN	_	_	_	ARG1
+
+2	petroleum	petroleum	NN	_	_	_	ARG1
+3	demand	demand	NN	_	_	_	ARG1
+
+2	communication	communication	NN	_	_	_	ARG2
+3	problem	problem	NN	_	_	_	ARG2
+
+2	design	design	NN	_	_	_	ARG1
+3	automation	automation	NN	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	small-employer	small-employer	NN	_	_	_	ARG2
+3	market	market	NN	_	_	_	ARG2
+
+2	Hotel	Hotel	NNP	_	_	_	ARG1
+3	expansion	expansion	NN	_	_	_	ARG1
+
+2	building	building	NN	_	_	_	ARG1
+3	tenant	tenant	NN	_	_	_	ARG1
+
+2	supply	supply	NN	_	_	_	ARG1
+3	disruptions	disruption	NNS	_	_	_	ARG1
+
+2	diabetes	diabetes	NN	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	action	action	NN	_	_	_	ARG1
+3	programs	program	NNS	_	_	_	ARG1
+
+2	output	output	NN	_	_	_	ARG1
+3	growth	growth	NN	_	_	_	ARG1
+
+2	image	image	NN	_	_	_	ARG1
+3	systems	system	NNS	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG1
+3	impact	impact	NN	_	_	_	ARG1
+
+2	real-estate	real-estate	NN	_	_	_	ARG2
+3	executive	executive	NN	_	_	_	ARG2
+
+2	defense	defense	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	trade-ad	trade-ad	NN	_	_	_	ARG1
+3	account	account	NN	_	_	_	ARG1
+
+2	management-pilot	management-pilot	JJ	_	_	_	ARG2
+3	plan	plan	NN	_	_	_	ARG2
+
+2	honeymoon	honeymoon	NN	_	_	_	ARG1
+3	period	period	NN	_	_	_	ARG1
+
+2	fellow	fellow	JJ	_	_	_	ARG1
+3	cadets	cadet	NNS	_	_	_	ARG1
+
+2	mathematics	mathematics	NN	_	_	_	ARG1
+3	teacher	teacher	NN	_	_	_	ARG1
+
+2	member	member	NN	_	_	_	ARG1
+3	turnover	turnover	NN	_	_	_	ARG1
+
+2	ad	ad	NN	_	_	_	ARG1
+3	linage	linage	NN	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	patent	patent	NN	_	_	_	ARG1
+3	experts	expert	NNS	_	_	_	ARG1
+
+2	graphics	graphic	NNS	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	overload	overload	NN	_	_	_	ARG2
+3	problem	problem	NN	_	_	_	ARG2
+
+2	agency	agency	NN	_	_	_	ARG0
+3	issue	issue	NN	_	_	_	ARG0
+
+2	securities	security	NNS	_	_	_	ARG3
+3	liability	liability	NN	_	_	_	ARG3
+
+2	dart-throwing	dart-throwing	JJ	_	_	_	ARG1
+3	championships	championship	NNS	_	_	_	ARG1
+
+2	soybean	soybean	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	technology	technology	NN	_	_	_	ARG1
+3	flow	flow	NN	_	_	_	ARG1
+
+2	Bus	bus	NN	_	_	_	ARG1
+3	production	production	NN	_	_	_	ARG1
+
+2	high-quality	high-quality	JJ	_	_	_	ARG1
+3	stocks	stock	NNS	_	_	_	ARG1
+
+2	food-processing	food-processing	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	space-shuttle	space-shuttle	JJ	_	_	_	ARG1
+3	engine	engine	NN	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	jockeys	jockey	NNS	_	_	_	ARG1
+
+2	staff	staff	NN	_	_	_	ARG1
+3	member	member	NN	_	_	_	ARG1
+
+2	wood-chip	wood-chip	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	customer	customer	NN	_	_	_	ARG0
+3	access	access	NN	_	_	_	ARG0
+
+2	spending	spending	NN	_	_	_	ARG1
+3	figures	figure	NNS	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	defense	defense	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	graphics	graphic	NNS	_	_	_	ARG1
+3	specialist	specialist	NN	_	_	_	ARG1
+
+2	Market	market	NN	_	_	_	ARG1
+3	segmentation	segmentation	NN	_	_	_	ARG1
+
+2	order	order	NN	_	_	_	ARG1
+3	imbalances	imbalance	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	players	player	NNS	_	_	_	ARG1
+
+2	service	service	NN	_	_	_	ARG1
+3	industries	industry	NNS	_	_	_	ARG1
+
+2	arbitration	arbitration	NN	_	_	_	ARG1
+3	case	case	NN	_	_	_	ARG1
+
+2	stock	stock	NN	_	_	_	ARG1
+3	speculations	speculation	NNS	_	_	_	ARG1
+
+2	gold	gold	NN	_	_	_	ARG1
+3	holdings	holding	NNS	_	_	_	ARG1
+
+2	financing	financing	NN	_	_	_	ARG1
+3	sources	source	NNS	_	_	_	ARG1
+
+2	securities	security	NNS	_	_	_	ARG1
+3	lawyer	lawyer	NN	_	_	_	ARG1
+
+2	advertising	advertising	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	languages	language	NNS	_	_	_	ARG1
+
+2	quarterly	quarterly	JJ	_	_	_	ARGM-TMP
+3	dividend	dividend	NN	_	_	_	ARGM-TMP
+
+2	treasury	treasury	NN	_	_	_	ARG1
+3	secretary	secretary	NN	_	_	_	ARG1
+
+2	Cupboard	cupboard	NN	_	_	_	ARG1
+3	doors	door	NNS	_	_	_	ARG1
+
+2	basketball-cutback	basketball-cutback	NN	_	_	_	ARG1
+3	proposal	proposal	NN	_	_	_	ARG1
+
+2	import	import	NN	_	_	_	ARG1
+3	restrictions	restriction	NNS	_	_	_	ARG1
+
+2	bird	bird	NN	_	_	_	ARG1
+3	cage	cage	NN	_	_	_	ARG1
+
+2	defense	defense	NN	_	_	_	ARG1
+3	planning	planning	NN	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	regulations	regulation	NNS	_	_	_	ARG1
+
+2	power	power	NN	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	snack-food	snack-food	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	merger	merger	NN	_	_	_	ARG1
+3	work	work	NN	_	_	_	ARG1
+
+2	soda	soda	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	inflows	inflow	NNS	_	_	_	ARG1
+
+2	housing-discrimination	housing-discrimination	NN	_	_	_	ARG1
+3	lawsuits	lawsuit	NNS	_	_	_	ARG1
+
+2	home-equity	home-equity	JJ	_	_	_	ARG3
+3	loans	loan	NNS	_	_	_	ARG3
+
+2	barn	barn	NN	_	_	_	ARG1
+3	burner	burner	NN	_	_	_	ARG1
+
+2	delivery	delivery	NN	_	_	_	ARG1
+3	service	service	NN	_	_	_	ARG1
+
+2	aerobics	aerobics	NN	_	_	_	ARG1
+3	instructors	instructor	NNS	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	Support
+3	policies	policy	NNS	_	_	_	Support
+
+2	ratings	rating	NNS	_	_	_	Support
+3	cellar	cellar	NN	_	_	_	Support
+
+2	security	security	NN	_	_	_	ARG1
+3	burden	burden	NN	_	_	_	ARG1
+
+2	face	face	NN	_	_	_	ARG1
+3	amount	amount	NN	_	_	_	ARG1
+
+2	science	science	NN	_	_	_	ARG1
+3	show	show	NN	_	_	_	ARG1
+
+2	child-care	child-care	JJ	_	_	_	ARG1
+3	initiative	initiative	NN	_	_	_	ARG1
+
+2	free-market	free-market	JJ	_	_	_	ARG1
+3	argument	argument	NN	_	_	_	ARG1
+
+2	premium	premium	NN	_	_	_	ARG1
+3	returns	return	NNS	_	_	_	ARG1
+
+2	liability	liability	NN	_	_	_	ARG1
+3	case	case	NN	_	_	_	ARG1
+
+2	index-fund	index-fund	NN	_	_	_	ARG1
+3	managers	manager	NNS	_	_	_	ARG1
+
+2	trial	trial	NN	_	_	_	ARG1
+3	consulting	consulting	NN	_	_	_	ARG1
+
+2	acquisition	acquisition	NN	_	_	_	ARG1
+3	attempt	attempt	NN	_	_	_	ARG1
+
+2	teaching	teaching	NN	_	_	_	ARG1
+3	certificate	certificate	NN	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG1
+3	executions	execution	NNS	_	_	_	ARG1
+
+2	talk	talk	NN	_	_	_	ARG1
+3	show	show	NN	_	_	_	ARG1
+
+2	royalty	royalty	NN	_	_	_	ARG3
+3	tax	tax	NN	_	_	_	ARG3
+
+2	stopgap	stopgap	JJ	_	_	_	ARG1
+3	bill	bill	NN	_	_	_	ARG1
+
+2	defense	defense	NN	_	_	_	ARG1
+3	equipment	equipment	NN	_	_	_	ARG1
+
+2	management	management	NN	_	_	_	ARG1
+3	recruiter	recruiter	NN	_	_	_	ARG1
+
+2	tariff	tariff	NN	_	_	_	ARG1
+3	classifications	classification	NNS	_	_	_	ARG1
+
+2	leisure	leisure	NN	_	_	_	ARGM-PNC
+3	travelers	traveler	NNS	_	_	_	ARGM-PNC
+
+2	petroleum	petroleum	NN	_	_	_	ARG1
+3	equipment	equipment	NN	_	_	_	ARG1
+
+2	sports	sport	NNS	_	_	_	ARG1
+3	columnist	columnist	NN	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG0
+3	program	program	NN	_	_	_	ARG0
+
+2	government	government	NN	_	_	_	ARG0
+3	target	target	NN	_	_	_	ARG0
+
+2	filing	filing	NN	_	_	_	ARG1
+3	procedures	procedure	NNS	_	_	_	ARG1
+
+2	Phillips	Phillips	NNP	_	_	_	ARG0
+3	employee	employee	NN	_	_	_	ARG0
+
+2	Forest-products	forest-product	NNS	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	delivery	delivery	NN	_	_	_	ARG1
+3	delays	delay	NNS	_	_	_	ARG1
+
+2	funds	fund	NNS	_	_	_	ARG1
+3	rate	rate	NN	_	_	_	ARG1
+
+2	abortion	abortion	NN	_	_	_	ARG1
+3	counseling	counseling	NN	_	_	_	ARG1
+
+2	yeast	yeast	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	civics	civic	NNS	_	_	_	ARG1
+3	lesson	lesson	NN	_	_	_	ARG1
+
+2	prepayment	prepayment	NN	_	_	_	ARG3
+3	penalties	penalty	NNS	_	_	_	ARG3
+
+2	record	record	NN	_	_	_	ARG3
+3	price	price	NN	_	_	_	ARG3
+
+2	severance	severance	NN	_	_	_	ARG1
+3	agreements	agreement	NNS	_	_	_	ARG1
+
+2	payment	payment	NN	_	_	_	ARG1
+3	patterns	pattern	NNS	_	_	_	ARG1
+
+2	barge	barge	NN	_	_	_	ARG1
+3	shipments	shipment	NNS	_	_	_	ARG1
+
+2	profit	profit	NN	_	_	_	ARG1
+3	rise	rise	NN	_	_	_	ARG1
+
+2	dividend	dividend	NN	_	_	_	ARG1
+3	policy	policy	NN	_	_	_	ARG1
+
+2	diamond	diamond	NN	_	_	_	ARG1
+3	workers	worker	NNS	_	_	_	ARG1
+
+2	bargaining	bargaining	NN	_	_	_	ARG3
+3	priority	priority	NN	_	_	_	ARG3
+
+2	pension	pension	NN	_	_	_	ARG1
+3	funds	fund	NNS	_	_	_	ARG1
+
+2	oil	oil	NN	_	_	_	ARG1
+3	capacity	capacity	NN	_	_	_	ARG1
+
+2	stock-fund	stock-fund	NN	_	_	_	ARG1
+3	environment	environment	NN	_	_	_	ARG1
+
+2	project	project	NN	_	_	_	ARG1
+3	names	name	NNS	_	_	_	ARG1
+
+2	Timber	timber	NN	_	_	_	ARG1
+3	stocks	stock	NNS	_	_	_	ARG1
+
+2	heavy	heavy	JJ	_	_	_	ARGM-MNR
+3	buyers	buyer	NNS	_	_	_	ARGM-MNR
+
+2	glass	glass	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	branch	branch	NN	_	_	_	Support
+3	offices	office	NNS	_	_	_	Support
+
+2	jet	jet	NN	_	_	_	ARG2
+3	fuel	fuel	NN	_	_	_	ARG2
+
+2	exhibition	exhibition	NN	_	_	_	ARGM-PNC
+3	race	race	NN	_	_	_	ARGM-PNC
+
+2	benchmark	benchmark	JJ	_	_	_	ARG1
+3	crude	crude	NN	_	_	_	ARG1
+
+2	shareholder	shareholder	NN	_	_	_	ARG0
+3	suits	suit	NNS	_	_	_	ARG0
+
+2	ski	ski	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	emissions	emission	NNS	_	_	_	ARG3
+3	standards	standard	NNS	_	_	_	ARG3
+
+2	psyllium	psyllium	NN	_	_	_	ARG1
+3	crop	crop	NN	_	_	_	ARG1
+
+2	trust	trust	NN	_	_	_	ARG1
+3	account	account	NN	_	_	_	ARG1
+
+2	influence-peddling	influence-peddling	NN	_	_	_	ARG1
+3	scandal	scandal	NN	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	cycle	cycle	NN	_	_	_	ARG1
+
+2	drive-train	drive-train	NN	_	_	_	ARG1
+3	parts	part	NNS	_	_	_	ARG1
+
+2	school	school	NN	_	_	_	ARG1
+3	chief	chief	NN	_	_	_	ARG1
+
+2	HDTV	hdtv	NN	_	_	_	ARG2
+3	converter	converter	NN	_	_	_	ARG2
+
+2	stock-market	stock-market	NN	_	_	_	ARG1
+3	gains	gain	NNS	_	_	_	ARG1
+
+2	escrow	escrow	NN	_	_	_	ARG1
+3	agents	agent	NNS	_	_	_	ARG1
+
+2	policy	policy	NN	_	_	_	ARG2
+3	squabble	squabble	NN	_	_	_	ARG2
+
+2	capital	capital	NN	_	_	_	ARG1
+3	inflows	inflow	NNS	_	_	_	ARG1
+
+2	sports	sport	NNS	_	_	_	ARG1
+3	officials	official	NNS	_	_	_	ARG1
+
+2	index-options	index-option	NNS	_	_	_	ARG1
+3	traders	trader	NNS	_	_	_	ARG1
+
+2	water	water	NN	_	_	_	ARG2
+3	features	feature	NNS	_	_	_	ARG2
+
+2	wage	wage	NN	_	_	_	ARG1
+3	inflation	inflation	NN	_	_	_	ARG1
+
+2	investor	investor	NN	_	_	_	ARG1
+3	clubs	club	NNS	_	_	_	ARG1
+
+2	selling	selling	NN	_	_	_	ARG2
+3	stampede	stampede	NN	_	_	_	ARG2
+
+2	afternoon	afternoon	NN	_	_	_	ARGM-TMP
+3	comeback	comeback	NN	_	_	_	ARGM-TMP
+
+2	silver	silver	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	quality	quality	NN	_	_	_	ARG1
+3	control	control	NN	_	_	_	ARG1
+
+2	account	account	NN	_	_	_	ARG2
+3	dividends	dividend	NNS	_	_	_	ARG2
+
+2	diamond	diamond	NN	_	_	_	ARG1
+3	miners	miner	NNS	_	_	_	ARG1
+
+2	suite	suite	NN	_	_	_	ARG1
+3	owners	owner	NNS	_	_	_	ARG1
+
+2	coffee	coffee	NN	_	_	_	ARG1
+3	cartel	cartel	NN	_	_	_	ARG1
+
+2	settlement	settlement	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	clothing	clothing	NN	_	_	_	ARG1
+3	collections	collection	NNS	_	_	_	ARG1
+
+2	TV	tv	NN	_	_	_	ARG1
+3	consultants	consultant	NNS	_	_	_	ARG1
+
+2	processing	processing	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	stock	stock	NN	_	_	_	ARG1
+3	brokerage	brokerage	NN	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG1
+3	rate	rate	NN	_	_	_	ARG1
+
+2	variety	variety	NN	_	_	_	ARG1
+3	show	show	NN	_	_	_	ARG1
+
+2	theme	theme	NN	_	_	_	ARG1
+3	song	song	NN	_	_	_	ARG1
+
+2	identification	identification	NN	_	_	_	ARG1
+3	badges	badge	NNS	_	_	_	ARG1
+
+2	rape	rape	NN	_	_	_	ARG1
+3	case	case	NN	_	_	_	ARG1
+
+2	debt	debt	NN	_	_	_	ARG1
+3	issues	issue	NNS	_	_	_	ARG1
+
+2	swift	swift	JJ	_	_	_	ARGM-MNR
+3	transition	transition	NN	_	_	_	ARGM-MNR
+
+2	health	health	NN	_	_	_	ARG1
+3	subcommittee	subcommittee	NN	_	_	_	ARG1
+
+2	securities	security	NNS	_	_	_	ARG1
+3	analysts	analyst	NNS	_	_	_	ARG1
+
+2	Oil	oil	NN	_	_	_	ARG1
+3	ministers	minister	NNS	_	_	_	ARG1
+
+2	company	company	NN	_	_	_	ARG2
+3	officers	officer	NNS	_	_	_	ARG2
+
+2	stock-index	stock-index	NN	_	_	_	ARG1
+3	options	option	NNS	_	_	_	ARG1
+
+2	bond	bond	NN	_	_	_	ARG1
+3	measure	measure	NN	_	_	_	ARG1
+
+2	ingot	ingot	NN	_	_	_	ARG1
+3	price	price	NN	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	disputes	dispute	NNS	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG0
+3	charges	charge	NNS	_	_	_	ARG0
+
+2	Deposit	Deposit	NNP	_	_	_	ARG1
+3	growth	growth	NN	_	_	_	ARG1
+
+2	landing	landing	NN	_	_	_	ARG1
+3	fees	fee	NNS	_	_	_	ARG1
+
+2	stock	stock	NN	_	_	_	ARG1
+3	portfolio	portfolio	NN	_	_	_	ARG1
+
+2	board	board	NN	_	_	_	ARG2
+3	committees	committee	NNS	_	_	_	ARG2
+
+2	city	city	NN	_	_	_	ARG1
+3	limits	limit	NNS	_	_	_	ARG1
+
+2	debt	debt	NN	_	_	_	ARG1
+3	problem	problem	NN	_	_	_	ARG1
+
+2	TV	tv	NN	_	_	_	ARG2
+3	contracts	contract	NNS	_	_	_	ARG2
+
+2	bargain	bargain	NN	_	_	_	ARGM-MNR
+3	fares	fare	NNS	_	_	_	ARGM-MNR
+
+2	occupancy	occupancy	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	economists	economist	NNS	_	_	_	ARG1
+
+2	consumer	consumer	NN	_	_	_	ARG2
+3	level	level	NN	_	_	_	ARG2
+
+2	fishing	fishing	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	gardening	gardening	NN	_	_	_	ARG1
+3	reality	reality	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	stability	stability	NN	_	_	_	ARG1
+
+2	pummeling	pummeling	NN	_	_	_	ARG1
+3	rights	rights	NNS	_	_	_	ARG1
+
+2	company	company	NN	_	_	_	ARG2
+3	securities	security	NNS	_	_	_	ARG2
+
+2	greenmail	greenmail	NN	_	_	_	ARG3
+3	payment	payment	NN	_	_	_	ARG3
+
+2	garbage	garbage	NN	_	_	_	ARG1
+3	crisis	crisis	NN	_	_	_	ARG1
+
+2	budget	budget	NN	_	_	_	ARG1
+3	process	process	NN	_	_	_	ARG1
+
+2	earnings	earnings	NNS	_	_	_	ARG0
+3	disappointments	disappointment	NNS	_	_	_	ARG0
+
+2	history	history	NN	_	_	_	ARG1
+3	teacher	teacher	NN	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARGM-MNR
+3	trading	trading	NN	_	_	_	ARGM-MNR
+
+2	union	union	NN	_	_	_	ARG0
+3	vote	vote	NN	_	_	_	ARG0
+
+2	reinsurance	reinsurance	NN	_	_	_	ARG1
+3	lines	line	NNS	_	_	_	ARG1
+
+2	Beta	beta	NN	_	_	_	ARG1
+3	estimates	estimate	NNS	_	_	_	ARG1
+
+2	mortgage	mortgage	NN	_	_	_	ARG1
+3	originators	originator	NNS	_	_	_	ARG1
+
+2	divestiture	divestiture	NN	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	construction	construction	NN	_	_	_	ARG1
+3	funds	fund	NNS	_	_	_	ARG1
+
+2	abortion-rights	abortion-rights	NNS	_	_	_	ARG1
+3	campaign	campaign	NN	_	_	_	ARG1
+
+2	image	image	NN	_	_	_	ARG1
+3	processing	processing	NN	_	_	_	ARG1
+
+2	construction	construction	NN	_	_	_	ARG2
+3	division	division	NN	_	_	_	ARG2
+
+2	majority	majority	NN	_	_	_	ARG2
+3	stake	stake	NN	_	_	_	ARG2
+
+2	scandal	scandal	NN	_	_	_	ARG1
+3	survivors	survivor	NNS	_	_	_	ARG1
+
+2	tobacco-industry	tobacco-industry	NN	_	_	_	ARG1
+3	critic	critic	NN	_	_	_	ARG1
+
+2	PENALTY	penalty	NN	_	_	_	ARG1
+3	OVERHAUL	overhaul	NN	_	_	_	ARG1
+
+2	domino	domino	NN	_	_	_	ARG1
+3	effect	effect	NN	_	_	_	ARG1
+
+2	summer	summer	NN	_	_	_	ARGM-TMP
+3	sales	sale	NNS	_	_	_	ARGM-TMP
+
+2	security	security	NN	_	_	_	ARG1
+3	directors	director	NNS	_	_	_	ARG1
+
+2	competency	competency	NN	_	_	_	ARG2
+3	tests	test	NNS	_	_	_	ARG2
+
+2	story	story	NN	_	_	_	ARG1
+3	collections	collection	NNS	_	_	_	ARG1
+
+2	securities	security	NNS	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	brewing	brewing	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	circulation	circulation	NN	_	_	_	ARG1
+3	cut	cut	NN	_	_	_	ARG1
+
+2	jury	jury	NN	_	_	_	ARG0
+3	verdict	verdict	NN	_	_	_	ARG0
+
+2	machining	machining	NN	_	_	_	ARG3
+3	centers	center	NNS	_	_	_	ARG3
+
+2	production	production	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	thrift	thrift	NN	_	_	_	ARG0
+3	takeovers	takeover	NNS	_	_	_	ARG0
+
+2	suit	suit	NN	_	_	_	ARG1
+3	styles	style	NNS	_	_	_	ARG1
+
+2	watch	watch	NN	_	_	_	ARG1
+3	imports	import	NNS	_	_	_	ARG1
+
+2	brand	brand	NN	_	_	_	ARG1
+3	loyalty	loyalty	NN	_	_	_	ARG1
+
+2	mortgage	mortgage	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	auto	auto	NN	_	_	_	ARG1
+3	shows	show	NNS	_	_	_	ARG1
+
+2	tuition	tuition	NN	_	_	_	ARG3
+3	charges	charge	NNS	_	_	_	ARG3
+
+2	press	press	NN	_	_	_	ARG0
+3	reports	report	NNS	_	_	_	ARG0
+
+2	volunteer	volunteer	NN	_	_	_	ARG1
+3	work	work	NN	_	_	_	ARG1
+
+2	media	media	NNS	_	_	_	ARG1
+3	adviser	adviser	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG1
+3	credits	credit	NNS	_	_	_	ARG1
+
+2	payroll	payroll	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	money-fund	money-fund	NN	_	_	_	ARG1
+3	concept	concept	NN	_	_	_	ARG1
+
+2	pastry	pastry	NN	_	_	_	ARG1
+3	community	community	NN	_	_	_	ARG1
+
+2	solo	solo	NN	_	_	_	ARGM-MNR
+3	pianist	pianist	NN	_	_	_	ARGM-MNR
+
+2	dollar	dollar	NN	_	_	_	ARG1
+3	volume	volume	NN	_	_	_	ARG1
+
+2	loan	loan	NN	_	_	_	ARGM-PNC
+3	reserves	reserve	NNS	_	_	_	ARGM-PNC
+
+2	good-will	good-will	NN	_	_	_	ARG1
+3	measure	measure	NN	_	_	_	ARG1
+
+2	notification	notification	NN	_	_	_	ARG2
+3	guideline	guideline	NN	_	_	_	ARG2
+
+2	strategy	strategy	NN	_	_	_	ARG1
+3	development	development	NN	_	_	_	ARG1
+
+2	small-business	small-business	NN	_	_	_	ARG1
+3	community	community	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	weakness	weakness	NN	_	_	_	ARG1
+
+2	card	card	NN	_	_	_	ARG1
+3	show	show	NN	_	_	_	ARG1
+
+2	capital	capital	NN	_	_	_	ARG1
+3	criteria	criterion	NNS	_	_	_	ARG1
+
+2	home	home	NN	_	_	_	ARG1
+3	insurer	insurer	NN	_	_	_	ARG1
+
+2	attorneys	attorney	NNS	_	_	_	ARG1
+3	fees	fee	NNS	_	_	_	ARG1
+
+2	freedom	freedom	NN	_	_	_	ARG1
+3	lovers	lover	NNS	_	_	_	ARG1
+
+2	Limit	limit	NN	_	_	_	ARGM-PNC
+3	orders	order	NNS	_	_	_	ARGM-PNC
+
+2	newspaper	newspaper	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	breakfast	breakfast	NN	_	_	_	ARG8
+3	meeting	meeting	NN	_	_	_	ARG8
+
+2	networks	network	NNS	_	_	_	ARG1
+3	segment	segment	NN	_	_	_	ARG1
+
+2	financial-services	financial-service	NNS	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	bone	bone	NN	_	_	_	ARG1
+3	infection	infection	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG1
+3	purposes	purpose	NNS	_	_	_	ARG1
+
+2	highway	highway	NN	_	_	_	ARG1
+3	repair	repair	NN	_	_	_	ARG1
+
+2	food	food	NN	_	_	_	ARG1
+3	products	product	NNS	_	_	_	ARG1
+
+2	consumer	consumer	NN	_	_	_	ARG1
+3	durables	durable	NNS	_	_	_	ARG1
+
+2	soap	soap	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	foreign-exchange	foreign-exchange	NN	_	_	_	ARG1
+3	traders	trader	NNS	_	_	_	ARG1
+
+2	buy-out	buy-out	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	S&L	s&l	NN	_	_	_	ARG1
+3	regulator	regulator	NN	_	_	_	ARG1
+
+2	highway	highway	NN	_	_	_	ARG1
+3	construction	construction	NN	_	_	_	ARG1
+
+2	telephone	telephone	NN	_	_	_	ARG3
+3	conversation	conversation	NN	_	_	_	ARG3
+
+2	member	member	NN	_	_	_	ARG1
+3	nations	nation	NNS	_	_	_	ARG1
+
+2	grant	grant	NN	_	_	_	ARG2
+3	recipients	recipient	NNS	_	_	_	ARG2
+
+2	investment	investment	NN	_	_	_	ARG1
+3	quality	quality	NN	_	_	_	ARG1
+
+2	landing	landing	NN	_	_	_	ARG1
+3	site	site	NN	_	_	_	ARG1
+
+2	foreign-exchange	foreign-exchange	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	aluminum	aluminum	NN	_	_	_	ARG1
+3	smelter	smelter	NN	_	_	_	ARG1
+
+2	radio	radio	NN	_	_	_	ARG1
+3	transmitter	transmitter	NN	_	_	_	ARG1
+
+2	new-generation	new-generation	NN	_	_	_	ARG1
+3	capability	capability	NN	_	_	_	ARG1
+
+2	deposit	deposit	NN	_	_	_	ARG1
+3	insurance	insurance	NN	_	_	_	ARG1
+
+2	packaged-goods	packaged-goods	NNS	_	_	_	ARG1
+3	marketers	marketer	NNS	_	_	_	ARG1
+
+2	market-system	market-system	NN	_	_	_	ARG1
+3	breakdowns	breakdown	NNS	_	_	_	ARG1
+
+2	adversary	adversary	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	debt	debt	NN	_	_	_	ARG2
+3	investment	investment	NN	_	_	_	ARG2
+
+2	headquarters	headquarters	NN	_	_	_	Support
+3	building	building	NN	_	_	_	Support
+
+2	software	software	NN	_	_	_	ARG1
+3	developers	developer	NNS	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG2
+3	relationship	relationship	NN	_	_	_	ARG2
+
+2	car	car	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	television	television	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	family	family	NN	_	_	_	ARG1
+3	interests	interest	NNS	_	_	_	ARG1
+
+2	peacetime	peacetime	NN	_	_	_	ARGM-TMP
+3	inflation	inflation	NN	_	_	_	ARGM-TMP
+
+2	IPO	IPO	NNP	_	_	_	ARG3
+3	proceeds	proceeds	NNS	_	_	_	ARG3
+
+2	root	root	NN	_	_	_	ARGM-MNR
+3	causes	cause	VBZ	_	_	_	ARGM-MNR
+
+2	home	home	NN	_	_	_	Support
+3	states	state	NNS	_	_	_	Support
+
+2	train	train	NN	_	_	_	ARG1
+3	bathrooms	bathroom	NNS	_	_	_	ARG1
+
+2	world	world	NN	_	_	_	ARGM-LOC
+3	programming	programming	NN	_	_	_	ARGM-LOC
+
+2	Conference	conference	NN	_	_	_	ARG1
+3	attendees	attendee	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	controls	control	NNS	_	_	_	ARG1
+
+2	recruiting	recruit	VBG	_	_	_	ARG1
+3	officer	officer	NN	_	_	_	ARG1
+
+2	fashion	fashion	NN	_	_	_	ARG1
+3	cycles	cycle	NNS	_	_	_	ARG1
+
+2	debt	debt	NN	_	_	_	ARG1
+3	ratings	rating	NNS	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	improvements	improvement	NNS	_	_	_	ARG1
+
+2	cable	cable	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	efforts	effort	NNS	_	_	_	ARG1
+
+2	polyethylene	polyethylene	NN	_	_	_	ARG1
+3	sheets	sheet	NNS	_	_	_	ARG1
+
+2	stock-market	stock-market	NN	_	_	_	ARG1
+3	service	service	NN	_	_	_	ARG1
+
+2	trails	trail	VBZ	_	_	_	ARG1
+3	coordinator	coordinator	NN	_	_	_	ARG1
+
+2	energy	energy	NN	_	_	_	ARG1
+3	staff	staff	NN	_	_	_	ARG1
+
+2	oil	oil	NN	_	_	_	ARG1
+3	operators	operator	NNS	_	_	_	ARG1
+
+2	core	core	NN	_	_	_	ARG1
+3	activities	activity	NNS	_	_	_	ARG1
+
+2	newspaper-delivery	newspaper-delivery	JJ	_	_	_	ARG0
+3	company	company	NN	_	_	_	ARG0
+
+2	muscle	muscle	NN	_	_	_	ARG1
+3	contractions	contraction	NNS	_	_	_	ARG1
+
+2	registration	registration	NN	_	_	_	ARG1
+3	provisions	provision	NNS	_	_	_	ARG1
+
+2	college	college	NN	_	_	_	ARG1
+3	life	life	NN	_	_	_	ARG1
+
+2	labor	labor	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	valuation	valuation	NN	_	_	_	ARG1
+3	errors	error	NNS	_	_	_	ARG1
+
+2	gains	gain	NNS	_	_	_	ARG3
+3	tax	tax	NN	_	_	_	ARG3
+
+2	leverage	leverage	NN	_	_	_	ARG1
+3	factor	factor	NN	_	_	_	ARG1
+
+2	services	service	NNS	_	_	_	ARG1
+3	trade	trade	NN	_	_	_	ARG1
+
+2	mutual-fund	mutual-fund	JJ	_	_	_	ARG1
+3	groups	group	NNS	_	_	_	ARG1
+
+2	trial	trial	NN	_	_	_	ARG1
+3	experience	experience	NN	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARG1
+3	controls	control	NNS	_	_	_	ARG1
+
+2	defense	defense	NN	_	_	_	ARGM-PNC
+3	commitment	commitment	NN	_	_	_	ARGM-PNC
+
+2	electricity	electricity	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	rescission	rescission	NN	_	_	_	ARG1
+3	authority	authority	NN	_	_	_	ARG1
+
+2	buy-out	buy-out	NN	_	_	_	ARG1
+3	effort	effort	NN	_	_	_	ARG1
+
+2	exchange	exchange	NN	_	_	_	ARG1
+3	ratio	ratio	NN	_	_	_	ARG1
+
+2	Sex	sex	NN	_	_	_	ARG1
+3	scandals	scandal	NNS	_	_	_	ARG1
+
+2	heavy	heavy	JJ	_	_	_	ARGM-MNR
+3	buying	buying	NN	_	_	_	ARGM-MNR
+
+2	computer	computer	NN	_	_	_	ARG1
+3	inventories	inventory	NNS	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG1
+3	positions	position	NNS	_	_	_	ARG1
+
+2	Quarter	quarter	NN	_	_	_	ARGM-TMP
+3	net	net	NN	_	_	_	ARGM-TMP
+
+2	reinvestment	reinvestment	NN	_	_	_	ARG1
+3	requests	request	NNS	_	_	_	ARG1
+
+2	billing	billing	NN	_	_	_	ARG1
+3	irregularities	irregularity	NNS	_	_	_	ARG1
+
+2	abortion	abortion	NN	_	_	_	ARG1
+3	research	research	NN	_	_	_	ARG1
+
+2	leverage	leverage	NN	_	_	_	ARG1
+3	strategy	strategy	NN	_	_	_	ARG1
+
+2	facsimile	facsimile	JJ	_	_	_	ARG0
+3	machines	machine	NNS	_	_	_	ARG0
+
+2	real-estate	real-estate	NN	_	_	_	ARG1
+3	crisis	crisis	NN	_	_	_	ARG1
+
+2	sewage	sewage	NN	_	_	_	ARG1
+3	treatment	treatment	NN	_	_	_	ARG1
+
+2	oil	oil	NN	_	_	_	ARG1
+3	trader	trader	NN	_	_	_	ARG1
+
+2	growth	growth	NN	_	_	_	ARG1
+3	prospects	prospects	NNS	_	_	_	ARG1
+
+2	target	target	NN	_	_	_	ARG3
+3	premium	premium	NN	_	_	_	ARG3
+
+2	tax	tax	NN	_	_	_	ARG1
+3	legislation	legislation	NN	_	_	_	ARG1
+
+2	bill	bill	NN	_	_	_	ARG0
+3	yields	yield	NNS	_	_	_	ARG0
+
+2	capital-gains	capital-gain	NNS	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	chain	chain	NN	_	_	_	ARG1
+3	operator	operator	NN	_	_	_	ARG1
+
+2	approval	approval	NN	_	_	_	ARG1
+3	process	process	NN	_	_	_	ARG1
+
+2	stock-market	stock-market	NN	_	_	_	ARG1
+3	volatility	volatility	NN	_	_	_	ARG1
+
+2	loophole	loophole	NN	_	_	_	ARG1
+3	suggestions	suggestion	NNS	_	_	_	ARG1
+
+2	businesses	business	NNS	_	_	_	ARG1
+3	segment	segment	NN	_	_	_	ARG1
+
+2	mail	mail	NN	_	_	_	ARG1
+3	drop	drop	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	dip	dip	NN	_	_	_	ARG1
+
+2	book	book	NN	_	_	_	ARG2
+3	requirements	requirement	NNS	_	_	_	ARG2
+
+2	state	state	NN	_	_	_	ARG1
+3	legislature	legislature	NN	_	_	_	ARG1
+
+2	afternoon	afternoon	NN	_	_	_	ARGM-TMP
+3	surge	surge	NN	_	_	_	ARGM-TMP
+
+2	family	family	NN	_	_	_	ARG1
+3	affiliation	affiliation	NN	_	_	_	ARG1
+
+2	beauty	beauty	NN	_	_	_	ARG1
+3	plans	plan	NNS	_	_	_	ARG1
+
+2	software	software	NN	_	_	_	ARG1
+3	license	license	NN	_	_	_	ARG1
+
+2	ghostbusting	ghostbusting	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	research	research	NN	_	_	_	ARG1
+3	organization	organization	NN	_	_	_	ARG1
+
+2	instant	instant	JJ	_	_	_	ARGM-MNR
+3	liquidity	liquidity	NN	_	_	_	ARGM-MNR
+
+2	flag-burning	flag-burning	NN	_	_	_	ARG1
+3	ruling	ruling	NN	_	_	_	ARG1
+
+2	cargo	cargo	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	appropriations	appropriation	NNS	_	_	_	ARG2
+3	rider	rider	NN	_	_	_	ARG2
+
+2	inventory	inventory	NN	_	_	_	ARG1
+3	adjustments	adjustment	NNS	_	_	_	ARG1
+
+2	litigation	litigation	NN	_	_	_	ARG1
+3	analyst	analyst	NN	_	_	_	ARG1
+
+2	TV	tv	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	buy-out	buy-out	NN	_	_	_	ARG0
+3	firm	firm	NN	_	_	_	ARG0
+
+2	investing	invest	VBG	_	_	_	ARG1
+3	issues	issue	NNS	_	_	_	ARG1
+
+2	compensation	compensation	NN	_	_	_	ARG1
+3	cases	case	NNS	_	_	_	ARG1
+
+2	philosophy	philosophy	NN	_	_	_	ARG1
+3	professor	professor	NN	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG1
+3	adjusters	adjuster	NNS	_	_	_	ARG1
+
+2	arms-control	arms-control	NN	_	_	_	ARG1
+3	process	process	NN	_	_	_	ARG1
+
+2	education	education	NN	_	_	_	ARG1
+3	context	context	NN	_	_	_	ARG1
+
+2	inventory	inventory	NN	_	_	_	ARG1
+3	overhang	overhang	NN	_	_	_	ARG1
+
+2	protection	protection	NN	_	_	_	ARG1
+3	service	service	NN	_	_	_	ARG1
+
+2	capital	capital	NN	_	_	_	ARG1
+3	formation	formation	NN	_	_	_	ARG1
+
+2	austerity	austerity	NN	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	cash	cash	NN	_	_	_	ARG2
+3	coverage	coverage	NN	_	_	_	ARG2
+
+2	leisure	leisure	NN	_	_	_	ARG1
+3	markets	market	NNS	_	_	_	ARG1
+
+2	power	power	NN	_	_	_	ARG1
+3	outage	outage	NN	_	_	_	ARG1
+
+2	debt-equity	debt-equity	NN	_	_	_	ARG1
+3	swaps	swap	NNS	_	_	_	ARG1
+
+2	appellate-court	appellate-court	JJ	_	_	_	ARG0
+3	ruling	ruling	NN	_	_	_	ARG0
+
+2	contract	contract	NN	_	_	_	ARG1
+3	negotiations	negotiation	NNS	_	_	_	ARG1
+
+2	rights	rights	NNS	_	_	_	ARG1
+3	offering	offering	NN	_	_	_	ARG1
+
+2	movie	movie	NN	_	_	_	ARG1
+3	screen	screen	NN	_	_	_	ARG1
+
+2	war	war	NN	_	_	_	ARGM-TMP
+3	criminals	criminal	NNS	_	_	_	ARGM-TMP
+
+2	death	death	NN	_	_	_	ARG1
+3	row	row	NN	_	_	_	ARG1
+
+2	advertising	advertising	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	crop	crop	NN	_	_	_	ARG0
+3	yields	yield	NNS	_	_	_	ARG0
+
+2	stadium	stadium	NN	_	_	_	ARG2
+3	ushers	usher	NNS	_	_	_	ARG2
+
+2	biotechnology	biotechnology	NN	_	_	_	ARG1
+3	research	research	NN	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARGM-LOC
+3	publishing	publishing	NN	_	_	_	ARGM-LOC
+
+2	industry	industry	NN	_	_	_	ARGM-LOC
+3	sales	sale	NNS	_	_	_	ARGM-LOC
+
+2	bottled-water	bottled-water	NN	_	_	_	ARG1
+3	markets	market	NNS	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARG1
+3	session	session	NN	_	_	_	ARG1
+
+2	TV	tv	NN	_	_	_	ARG1
+3	manufacturers	manufacturer	NNS	_	_	_	ARG1
+
+2	health-maintenance	health-maintenance	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	marketing	marketing	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	marketing	marketing	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	restaurant	restaurant	NN	_	_	_	ARG1
+3	franchisor	franchisor	NN	_	_	_	ARG1
+
+2	equity	equity	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	factory	factory	NN	_	_	_	ARG0
+3	inventories	inventory	NNS	_	_	_	ARG0
+
+2	repeat	repeat	NN	_	_	_	ARGM-TMP
+3	offenders	offender	NNS	_	_	_	ARGM-TMP
+
+2	food	food	NN	_	_	_	ARG1
+3	supply	supply	NN	_	_	_	ARG1
+
+2	store	store	NN	_	_	_	ARG1
+3	operators	operator	NNS	_	_	_	ARG1
+
+2	free-market	free-market	JJ	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	panel	panel	NN	_	_	_	ARG0
+3	discussion	discussion	NN	_	_	_	ARG0
+
+2	government	government	NN	_	_	_	ARG0
+3	proposals	proposal	NNS	_	_	_	ARG0
+
+2	spirits	spirit	NNS	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	salary	salary	NN	_	_	_	ARG1
+3	review	review	NN	_	_	_	ARG1
+
+2	art	art	NN	_	_	_	ARG0
+3	boom	boom	NN	_	_	_	ARG0
+
+2	client	client	NN	_	_	_	ARG0
+3	orders	order	NNS	_	_	_	ARG0
+
+2	investment	investment	NN	_	_	_	ARG1
+3	climate	climate	NN	_	_	_	ARG1
+
+2	Litigation	litigation	NN	_	_	_	ARG1
+3	consulting	consulting	NN	_	_	_	ARG1
+
+2	cabinet	cabinet	NN	_	_	_	ARG2
+3	ministers	minister	NNS	_	_	_	ARG2
+
+2	chief	chief	JJ	_	_	_	ARGM-MNR
+3	builder	builder	NN	_	_	_	ARGM-MNR
+
+2	engineering	engineering	NN	_	_	_	ARG1
+3	technique	technique	NN	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG2
+3	creditors	creditor	NNS	_	_	_	ARG2
+
+2	real-estate	real-estate	NN	_	_	_	ARG1
+3	lobbyist	lobbyist	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG1
+3	lawyer	lawyer	NN	_	_	_	ARG1
+
+2	smoking	smoking	NN	_	_	_	ARG1
+3	patterns	pattern	NNS	_	_	_	ARG1
+
+2	acquisition	acquisition	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	soft-drink	soft-drink	NN	_	_	_	ARG1
+3	products	product	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	patterns	pattern	NNS	_	_	_	ARG1
+
+2	profit	profit	NN	_	_	_	ARG1
+3	slump	slump	NN	_	_	_	ARG1
+
+2	operating	operating	NN	_	_	_	ARG2
+3	expenses	expense	NNS	_	_	_	ARG2
+
+2	retirement	retirement	NN	_	_	_	ARG1
+3	funds	fund	NNS	_	_	_	ARG1
+
+2	investor	investor	NN	_	_	_	ARG0
+3	requests	request	NNS	_	_	_	ARG0
+
+2	communications	communication	NNS	_	_	_	ARG1
+3	technology	technology	NN	_	_	_	ARG1
+
+2	graphics	graphic	NNS	_	_	_	ARG0
+3	portion	portion	NN	_	_	_	ARG0
+
+2	junk-bond	junk-bond	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	emergency	emergency	NN	_	_	_	ARGM-PNC
+3	financing	financing	NN	_	_	_	ARGM-PNC
+
+2	media	media	NNS	_	_	_	ARG2
+3	play	play	NN	_	_	_	ARG2
+
+2	superpower	superpower	NN	_	_	_	ARG0
+3	differences	difference	NNS	_	_	_	ARG0
+
+2	buy-back	buy-back	JJ	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	sum	sum	NN	_	_	_	ARG1
+
+2	engineering	engineering	NN	_	_	_	ARG1
+3	trick	trick	NN	_	_	_	ARG1
+
+2	fee	fee	NN	_	_	_	ARG4
+3	award	award	NN	_	_	_	ARG4
+
+2	well	well	NN	_	_	_	ARG1
+3	problems	problem	NNS	_	_	_	ARG1
+
+2	news	news	NN	_	_	_	ARG2
+3	bureaus	bureaus	NN	_	_	_	ARG2
+
+2	investment	investment	NN	_	_	_	ARG1
+3	options	option	NNS	_	_	_	ARG1
+
+2	farm	farm	NN	_	_	_	ARGM-LOC
+3	workers	worker	NNS	_	_	_	ARGM-LOC
+
+2	fledgling	fledgling	NN	_	_	_	ARGM-TMP
+3	science	science	NN	_	_	_	ARGM-TMP
+
+2	autumn	autumn	NN	_	_	_	ARG2
+3	evening	evening	NN	_	_	_	ARG2
+
+2	business	business	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	integrated-steel	integrated-steel	JJ	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	cable	cable	NN	_	_	_	ARG1
+3	subscribers	subscriber	NNS	_	_	_	ARG1
+
+2	tax-preparation	tax-preparation	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	resistance	resistance	NN	_	_	_	ARG1
+3	groups	group	NNS	_	_	_	ARG1
+
+2	breast	breast	NN	_	_	_	ARG1
+3	cancer	cancer	NN	_	_	_	ARG1
+
+2	power	power	NN	_	_	_	ARG1
+3	supplies	supplies	NNS	_	_	_	ARG1
+
+2	train	train	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	Housing	Housing	NNP	_	_	_	ARG1
+3	Developers	Developers	NNP	_	_	_	ARG1
+
+2	employee	employee	NN	_	_	_	ARG1
+3	monitoring	monitoring	NN	_	_	_	ARG1
+
+2	security	security	NN	_	_	_	ARG1
+3	practices	practice	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG0
+3	shocks	shock	NNS	_	_	_	ARG0
+
+2	press	press	NN	_	_	_	ARG0
+3	conference	conference	NN	_	_	_	ARG0
+
+2	blood	blood	NN	_	_	_	ARG1
+3	vessels	vessel	NNS	_	_	_	ARG1
+
+2	budget	budget	NN	_	_	_	ARG1
+3	debate	debate	NN	_	_	_	ARG1
+
+2	percentage	percentage	NN	_	_	_	ARGM-EXT
+3	gains	gain	NNS	_	_	_	ARGM-EXT
+
+2	insurance	insurance	NN	_	_	_	ARG0
+3	protection	protection	NN	_	_	_	ARG0
+
+2	equipment	equipment	NN	_	_	_	ARG1
+3	purchases	purchase	NNS	_	_	_	ARG1
+
+2	union	union	NN	_	_	_	ARG2
+3	factions	faction	NNS	_	_	_	ARG2
+
+2	Minitruck	minitruck	NN	_	_	_	ARG1
+3	production	production	NN	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	slump	slump	NN	_	_	_	ARG1
+
+2	drug	drug	NN	_	_	_	ARGM-PNC
+3	grants	grant	NNS	_	_	_	ARGM-PNC
+
+2	Election	election	NN	_	_	_	ARG1
+3	analysts	analyst	NNS	_	_	_	ARG1
+
+2	debt	debt	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	property	property	NN	_	_	_	ARG1
+3	speculators	speculator	NNS	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG1
+3	problems	problem	NNS	_	_	_	ARG1
+
+2	halftime	halftime	NN	_	_	_	ARG1
+3	ratings	rating	NNS	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG2
+3	minister	minister	NN	_	_	_	ARG2
+
+2	eye	eye	NN	_	_	_	ARG1
+3	care	care	NN	_	_	_	ARG1
+
+2	retirement	retirement	NN	_	_	_	ARG1
+3	age	age	NN	_	_	_	ARG1
+
+2	budget	budget	NN	_	_	_	ARG1
+3	accord	accord	NN	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG0
+3	loans	loan	NNS	_	_	_	ARG0
+
+2	fertilizer	fertilizer	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	agency	agency	NN	_	_	_	ARG0
+3	position	position	NN	_	_	_	ARG0
+
+2	greenmail	greenmail	NN	_	_	_	ARG1
+3	case	case	NN	_	_	_	ARG1
+
+2	export	export	NN	_	_	_	ARG1
+3	loss	loss	NN	_	_	_	ARG1
+
+2	entry	entry	NN	_	_	_	ARG1
+3	fee	fee	NN	_	_	_	ARG1
+
+2	index	index	NN	_	_	_	ARG1
+3	traders	trader	NNS	_	_	_	ARG1
+
+2	pro-family	pro-family	NN	_	_	_	ARG1
+3	policy	policy	NN	_	_	_	ARG1
+
+2	agency	agency	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	aerospace	aerospace	NN	_	_	_	ARG3
+3	products	product	NNS	_	_	_	ARG3
+
+2	rating	rating	NN	_	_	_	ARG2
+3	bureaus	bureaus	NN	_	_	_	ARG2
+
+2	return	return	NN	_	_	_	ARG4
+3	flight	flight	NN	_	_	_	ARG4
+
+2	sales	sale	NNS	_	_	_	ARG1
+3	division	division	NN	_	_	_	ARG1
+
+2	project	project	NN	_	_	_	ARG1
+3	manager	manager	NN	_	_	_	ARG1
+
+2	patient	patient	NN	_	_	_	ARG1
+3	monitoring	monitoring	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG2
+3	relations	relation	NNS	_	_	_	ARG2
+
+2	treaty	treaty	NN	_	_	_	ARG0
+3	restrictions	restriction	NNS	_	_	_	ARG0
+
+2	music	music	NN	_	_	_	ARG0
+3	ensembles	ensemble	NNS	_	_	_	ARG0
+
+2	executive	executive	JJ	_	_	_	ARG2
+3	branch	branch	NN	_	_	_	ARG2
+
+2	halt	halt	NN	_	_	_	ARG1
+3	proposal	proposal	NN	_	_	_	ARG1
+
+2	shipping	shipping	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG3
+3	districts	district	NNS	_	_	_	ARG3
+
+2	emergency	emergency	NN	_	_	_	ARG1
+3	service	service	NN	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	segments	segment	NNS	_	_	_	ARG1
+
+2	timing	timing	NN	_	_	_	ARG1
+3	issue	issue	NN	_	_	_	ARG1
+
+2	work	work	NN	_	_	_	ARG1
+3	week	week	NN	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	trust	trust	NN	_	_	_	ARG1
+
+2	pay	pay	NN	_	_	_	ARG1
+3	raise	raise	NN	_	_	_	ARG1
+
+2	police	police	NN	_	_	_	ARG0
+3	patrols	patrol	NNS	_	_	_	ARG0
+
+2	building	building	NN	_	_	_	ARG1
+3	maintenance	maintenance	NN	_	_	_	ARG1
+
+2	wine	wine	NN	_	_	_	ARG2
+3	region	region	NN	_	_	_	ARG2
+
+2	price	price	NN	_	_	_	ARG1
+3	plunge	plunge	NN	_	_	_	ARG1
+
+2	policy	policy	NN	_	_	_	ARG2
+3	guidelines	guideline	NNS	_	_	_	ARG2
+
+2	joint	joint	JJ	_	_	_	ARGM-MNR
+3	declaration	declaration	NN	_	_	_	ARGM-MNR
+
+2	factory	factory	NN	_	_	_	ARG0
+3	sales	sale	NNS	_	_	_	ARG0
+
+2	management	management	NN	_	_	_	ARG0
+3	decisions	decision	NNS	_	_	_	ARG0
+
+2	invoicing	invoicing	NN	_	_	_	ARG1
+3	irregularities	irregularity	NNS	_	_	_	ARG1
+
+2	Treasury-bill	treasury-bill	NN	_	_	_	ARG1
+3	auction	auction	NN	_	_	_	ARG1
+
+2	physician	physician	NN	_	_	_	ARG1
+3	fees	fee	NNS	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG1
+3	projections	projection	NNS	_	_	_	ARG1
+
+2	cable	cable	NN	_	_	_	ARG0
+3	rights	rights	NNS	_	_	_	ARG0
+
+2	commodities	commodity	NNS	_	_	_	ARG1
+3	trading	trading	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG0
+3	report	report	NN	_	_	_	ARG0
+
+2	newspaper	newspaper	NN	_	_	_	ARG1
+3	empire	empire	NN	_	_	_	ARG1
+
+2	phone	phone	NN	_	_	_	ARGM-MNR
+3	order	order	NN	_	_	_	ARGM-MNR
+
+2	trade	trade	NN	_	_	_	ARG1
+3	partner	partner	NN	_	_	_	ARG1
+
+2	Bankruptcy	bankruptcy	NN	_	_	_	ARG1
+3	experts	expert	NNS	_	_	_	ARG1
+
+2	loan	loan	NN	_	_	_	ARG3
+3	commissions	commission	NNS	_	_	_	ARG3
+
+2	investment	investment	NN	_	_	_	ARG1
+3	advertisements	advertisement	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	wars	war	NNS	_	_	_	ARG1
+
+2	Thrift	thrift	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	merger	merger	NN	_	_	_	ARG1
+3	transactions	transaction	NNS	_	_	_	ARG1
+
+2	pipeline	pipeline	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	Market	market	NN	_	_	_	ARGM-LOC
+3	sources	source	NNS	_	_	_	ARGM-LOC
+
+2	stadium	stadium	NN	_	_	_	ARG2
+3	contracts	contract	NNS	_	_	_	ARG2
+
+2	compliance	compliance	NN	_	_	_	ARG1
+3	procedures	procedure	NNS	_	_	_	ARG1
+
+2	labor	labor	NN	_	_	_	ARG1
+3	hour	hour	NN	_	_	_	ARG1
+
+2	cholesterol	cholesterol	NN	_	_	_	ARG1
+3	levels	level	NNS	_	_	_	ARG1
+
+2	pay	pay	NN	_	_	_	ARG1
+3	concessions	concession	NNS	_	_	_	ARG1
+
+2	sound	sound	JJ	_	_	_	ARG2
+3	fundamentals	fundamental	NNS	_	_	_	ARG2
+
+2	ice	ice	NN	_	_	_	ARG1
+3	samples	sample	NNS	_	_	_	ARG1
+
+2	anti-outsider	anti-outsider	NN	_	_	_	ARG1
+3	sentiment	sentiment	NN	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	category	category	NN	_	_	_	ARG1
+
+2	command	command	NN	_	_	_	ARG3
+3	center	center	NN	_	_	_	ARG3
+
+2	management	management	NN	_	_	_	ARG1
+3	restructuring	restructuring	NN	_	_	_	ARG1
+
+2	doomsday	doomsday	NN	_	_	_	ARG1
+3	scenario	scenario	NN	_	_	_	ARG1
+
+2	oil-field	oil-field	NN	_	_	_	ARG0
+3	boom	boom	NN	_	_	_	ARG0
+
+2	underwriting	underwriting	NN	_	_	_	ARG1
+3	ratio	ratio	NN	_	_	_	ARG1
+
+2	pension	pension	NN	_	_	_	ARG1
+3	accounts	account	NNS	_	_	_	ARG1
+
+2	direct-marketing	direct-marketing	NN	_	_	_	ARG1
+3	ploys	ploy	NNS	_	_	_	ARG1
+
+2	reinsurance	reinsurance	NN	_	_	_	ARG0
+3	company	company	NN	_	_	_	ARG0
+
+2	market	market	NN	_	_	_	ARG2
+3	position	position	NN	_	_	_	ARG2
+
+2	Technology	technology	NN	_	_	_	ARG1
+3	stocks	stock	NNS	_	_	_	ARG1
+
+2	brokerage	brokerage	NN	_	_	_	ARG1
+3	houses	house	NNS	_	_	_	ARG1
+
+2	day-care	day-care	JJ	_	_	_	ARG1
+3	commissions	commission	NNS	_	_	_	ARG1
+
+2	Transport	transport	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	tobacco	tobacco	NN	_	_	_	ARG1
+3	products	product	NNS	_	_	_	ARG1
+
+2	court	court	NN	_	_	_	ARG1
+3	watchers	watcher	NNS	_	_	_	ARG1
+
+2	liquidation	liquidation	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	buy	buy	NN	_	_	_	ARG1
+3	orders	order	NNS	_	_	_	ARG1
+
+2	access	access	NN	_	_	_	ARG1
+3	issues	issue	NNS	_	_	_	ARG1
+
+2	dollar	dollar	NN	_	_	_	ARG1
+3	intervention	intervention	NN	_	_	_	ARG1
+
+2	administration	administration	NN	_	_	_	ARG0
+3	proposal	proposal	NN	_	_	_	ARG0
+
+2	plumbing	plumbing	NN	_	_	_	ARG1
+3	contractor	contractor	NN	_	_	_	ARG1
+
+2	housing	housing	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	financiers	financier	NNS	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARG1
+3	volume	volume	NN	_	_	_	ARG1
+
+2	practice	practice	NN	_	_	_	ARGM-PNC
+3	swings	swing	NNS	_	_	_	ARGM-PNC
+
+2	flu	flu	NN	_	_	_	ARG3
+3	shot	shot	NN	_	_	_	ARG3
+
+2	board	board	NN	_	_	_	ARG0
+3	meeting	meeting	NN	_	_	_	ARG0
+
+2	spending	spending	NN	_	_	_	ARG1
+3	limits	limit	NNS	_	_	_	ARG1
+
+2	railroad	railroad	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	news	news	NN	_	_	_	ARG1
+3	shows	show	NNS	_	_	_	ARG1
+
+2	helicopter	helicopter	NN	_	_	_	ARG1
+3	pilots	pilot	NNS	_	_	_	ARG1
+
+2	health	health	NN	_	_	_	ARG1
+3	issue	issue	NN	_	_	_	ARG1
+
+2	revenue	revenue	NN	_	_	_	ARG1
+3	environment	environment	NN	_	_	_	ARG1
+
+2	colon	colon	NN	_	_	_	ARG1
+3	cancer	cancer	NN	_	_	_	ARG1
+
+2	rating	rating	NN	_	_	_	ARG1
+3	changes	change	NNS	_	_	_	ARG1
+
+2	hotel	hotel	NN	_	_	_	ARG1
+3	lobbies	lobby	NNS	_	_	_	ARG1
+
+2	luxury-car	luxury-car	NN	_	_	_	ARG1
+3	maker	maker	NN	_	_	_	ARG1
+
+2	management	management	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	store	store	NN	_	_	_	ARG1
+3	locations	location	NNS	_	_	_	ARG1
+
+2	water	water	NN	_	_	_	ARG0
+3	slide	slide	NN	_	_	_	ARG0
+
+2	language	language	NN	_	_	_	ARG1
+3	instruction	instruction	NN	_	_	_	ARG1
+
+2	audit	audit	NN	_	_	_	ARG1
+3	committee	committee	NN	_	_	_	ARG1
+
+2	operations	operation	NNS	_	_	_	ARG2
+3	branch	branch	NN	_	_	_	ARG2
+
+2	electronics	electronics	NNS	_	_	_	ARG1
+3	manufacturer	manufacturer	NN	_	_	_	ARG1
+
+2	liberation	liberation	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	volume	volume	NN	_	_	_	ARG1
+3	decline	decline	NN	_	_	_	ARG1
+
+2	lackluster	lackluster	JJ	_	_	_	ARGM-MNR
+3	earnings	earnings	NNS	_	_	_	ARGM-MNR
+
+2	price	price	NN	_	_	_	ARG1
+3	cutting	cutting	NN	_	_	_	ARG1
+
+2	research	research	NN	_	_	_	ARG1
+3	techniques	technique	NNS	_	_	_	ARG1
+
+2	deputy	deputy	NN	_	_	_	ARG3
+3	minister	minister	NN	_	_	_	ARG3
+
+2	bankruptcy	bankruptcy	NN	_	_	_	ARG0
+3	protection	protection	NN	_	_	_	ARG0
+
+2	travel	travel	NN	_	_	_	ARG3
+3	bills	bill	NNS	_	_	_	ARG3
+
+2	business	business	NN	_	_	_	ARG1
+3	trust	trust	NN	_	_	_	ARG1
+
+2	luxury	luxury	NN	_	_	_	ARG2
+3	image	image	NN	_	_	_	ARG2
+
+2	Recreation	recreation	NN	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	parakeet	parakeet	NN	_	_	_	ARG1
+3	owner	owner	NN	_	_	_	ARG1
+
+2	printing	printing	NN	_	_	_	ARG1
+3	customers	customer	NNS	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG0
+3	associate	associate	NN	_	_	_	ARG0
+
+2	oil	oil	NN	_	_	_	ARG2
+3	executives	executive	NNS	_	_	_	ARG2
+
+2	communications	communication	NNS	_	_	_	ARG1
+3	network	network	NN	_	_	_	ARG1
+
+2	claims	claim	NNS	_	_	_	ARG2
+3	division	division	NN	_	_	_	ARG2
+
+2	PC	pc	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	arbitration	arbitration	NN	_	_	_	ARG1
+3	ruling	ruling	NN	_	_	_	ARG1
+
+2	program	program	NN	_	_	_	ARG1
+3	activity	activity	NN	_	_	_	ARG1
+
+2	space	space	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	food	food	NN	_	_	_	ARG1
+3	stylist	stylist	NN	_	_	_	ARG1
+
+2	information	information	NN	_	_	_	ARG1
+3	network	network	NN	_	_	_	ARG1
+
+2	car	car	NN	_	_	_	ARG1
+3	shopper	shopper	NN	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG1
+3	imbalance	imbalance	NN	_	_	_	ARG1
+
+2	earnings	earnings	NNS	_	_	_	ARG1
+3	slide	slide	NN	_	_	_	ARG1
+
+2	recession	recession	NN	_	_	_	ARG1
+3	scenario	scenario	NN	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	life-insurance	life-insurance	NN	_	_	_	ARG3
+3	policyholders	policyholder	NNS	_	_	_	ARG3
+
+2	holding	hold	VBG	_	_	_	ARG0
+3	company	company	NN	_	_	_	ARG0
+
+2	settlement	settlement	NN	_	_	_	ARG1
+3	discussions	discussion	NNS	_	_	_	ARG1
+
+2	property	property	NN	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	engine	engine	NN	_	_	_	ARG1
+3	technologies	technology	NNS	_	_	_	ARG1
+
+2	summer	summer	NN	_	_	_	ARGM-TMP
+3	crop	crop	NN	_	_	_	ARGM-TMP
+
+2	market	market	NN	_	_	_	ARG0
+3	expectations	expectation	NNS	_	_	_	ARG0
+
+2	ad	ad	NN	_	_	_	ARG1
+3	spenders	spender	NNS	_	_	_	ARG1
+
+2	job	job	NN	_	_	_	ARG0
+3	requirement	requirement	NN	_	_	_	ARG0
+
+2	travel	travel	NN	_	_	_	ARG1
+3	division	division	NN	_	_	_	ARG1
+
+2	compensation	compensation	NN	_	_	_	ARG1
+3	increases	increase	NNS	_	_	_	ARG1
+
+2	expansion	expansion	NN	_	_	_	ARG1
+3	timetable	timetable	NN	_	_	_	ARG1
+
+2	securities	security	NNS	_	_	_	ARG1
+3	activities	activity	NNS	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG1
+3	recovery	recovery	NN	_	_	_	ARG1
+
+2	pork-barrel	pork-barrel	JJ	_	_	_	ARG1
+3	revels	revel	NNS	_	_	_	ARG1
+
+2	fantasy	fantasy	NN	_	_	_	ARG1
+3	land	land	NN	_	_	_	ARG1
+
+2	trial	trial	NN	_	_	_	ARG1
+3	lawyers	lawyer	NNS	_	_	_	ARG1
+
+2	pig	pig	NN	_	_	_	ARG1
+3	herd	herd	NN	_	_	_	ARG1
+
+2	junk	junk	NN	_	_	_	ARG1
+3	professionals	professional	NNS	_	_	_	ARG1
+
+2	hybrid	hybrid	NN	_	_	_	ARG3
+3	rapeseeds	rapeseed	NNS	_	_	_	ARG3
+
+2	developing	develop	VBG	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	administration	administration	NN	_	_	_	ARG2
+3	spokesman	spokesman	NN	_	_	_	ARG2
+
+2	leverage	leverage	NN	_	_	_	ARG1
+3	equation	equation	NN	_	_	_	ARG1
+
+2	future	future	JJ	_	_	_	ARGM-TMP
+3	generations	generation	NNS	_	_	_	ARGM-TMP
+
+2	evidence	evidence	NN	_	_	_	ARG1
+3	panel	panel	NN	_	_	_	ARG1
+
+2	wage	wage	NN	_	_	_	ARG1
+3	earners	earner	NNS	_	_	_	ARG1
+
+2	Jewelry	jewelry	NN	_	_	_	ARG1
+3	displays	display	NNS	_	_	_	ARG1
+
+2	sound	sound	JJ	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	fracture	fracture	NN	_	_	_	ARG1
+3	healing	healing	NN	_	_	_	ARG1
+
+2	hostile	hostile	JJ	_	_	_	ARGM-MNR
+3	takeover	takeover	NN	_	_	_	ARGM-MNR
+
+2	valuation	valuation	NN	_	_	_	ARG1
+3	methodologies	methodology	NNS	_	_	_	ARG1
+
+2	BALLOT	ballot	NN	_	_	_	ARG1
+3	ISSUES	issue	NNS	_	_	_	ARG1
+
+2	electronics	electronics	NNS	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	lift	lift	NN	_	_	_	ARG1
+3	forces	force	NNS	_	_	_	ARG1
+
+2	greenhouse	greenhouse	NN	_	_	_	ARG1
+3	theories	theory	NNS	_	_	_	ARG1
+
+2	income	income	NN	_	_	_	ARG1
+3	stream	stream	NN	_	_	_	ARG1
+
+2	stock-market	stock-market	JJ	_	_	_	ARG1
+3	plunge	plunge	NN	_	_	_	ARG1
+
+2	sale-purchase	sale-purchase	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	tobacco	tobacco	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	construction	construction	NN	_	_	_	ARG1
+3	engineering	engineering	NN	_	_	_	ARG1
+
+2	conference	conference	NN	_	_	_	Support
+3	call	call	NN	_	_	_	Support
+
+2	conversion	conversion	NN	_	_	_	ARG1
+3	price	price	NN	_	_	_	ARG1
+
+2	revenue	revenue	NN	_	_	_	ARG1
+3	outlook	outlook	NN	_	_	_	ARG1
+
+2	Bond	bond	NN	_	_	_	ARG1
+3	dealers	dealer	NNS	_	_	_	ARG1
+
+2	trash	trash	NN	_	_	_	ARG1
+3	heap	heap	NN	_	_	_	ARG1
+
+2	notebook	notebook	NN	_	_	_	ARG1
+3	field	field	NN	_	_	_	ARG1
+
+2	company	company	NN	_	_	_	ARG1
+3	results	result	VBZ	_	_	_	ARG1
+
+2	building	building	NN	_	_	_	ARG3
+3	products	product	NNS	_	_	_	ARG3
+
+2	panel	panel	NN	_	_	_	ARG1
+3	leadership	leadership	NN	_	_	_	ARG1
+
+2	floor	floor	NN	_	_	_	ARG0
+3	vote	vote	NN	_	_	_	ARG0
+
+2	capital	capital	NN	_	_	_	ARG1
+3	appreciation	appreciation	NN	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG2
+3	performance	performance	NN	_	_	_	ARG2
+
+2	metals	metal	NNS	_	_	_	ARG1
+3	producers	producer	NNS	_	_	_	ARG1
+
+2	shipbuilding	shipbuilding	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	movie	movie	NN	_	_	_	ARG0
+3	studio	studio	NN	_	_	_	ARG0
+
+2	exchange	exchange	NN	_	_	_	ARGM-LOC
+3	offer	offer	NN	_	_	_	ARGM-LOC
+
+2	equity	equity	NN	_	_	_	ARG2
+3	division	division	NN	_	_	_	ARG2
+
+2	car	car	NN	_	_	_	ARG3
+3	loan	loan	NN	_	_	_	ARG3
+
+2	campaign	campaign	NN	_	_	_	ARG1
+3	consultant	consultant	NN	_	_	_	ARG1
+
+2	arms-control	arms-control	NN	_	_	_	ARG1
+3	treaty	treaty	NN	_	_	_	ARG1
+
+2	care	care	NN	_	_	_	ARG1
+3	technologist	technologist	NN	_	_	_	ARG1
+
+2	missile	missile	NN	_	_	_	ARG2
+3	attack	attack	NN	_	_	_	ARG2
+
+2	restaurant	restaurant	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	car	car	NN	_	_	_	ARG2
+3	division	division	NN	_	_	_	ARG2
+
+2	top	top	JJ	_	_	_	ARG1
+3	ideologist	ideologist	NN	_	_	_	ARG1
+
+2	spending	spending	NN	_	_	_	ARG1
+3	machine	machine	NN	_	_	_	ARG1
+
+2	magazine	magazine	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	court	court	NN	_	_	_	ARG0
+3	ruling	ruling	NN	_	_	_	ARG0
+
+2	insurance	insurance	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	carrier	carrier	NN	_	_	_	ARG2
+3	use	use	NN	_	_	_	ARG2
+
+2	market	market	NN	_	_	_	ARG1
+3	statistics	statistics	NNS	_	_	_	ARG1
+
+2	Safety	Safety	NNP	_	_	_	ARG1
+3	authorities	authority	NNS	_	_	_	ARG1
+
+2	college	college	NN	_	_	_	ARG1
+3	subsidies	subsidy	NNS	_	_	_	ARG1
+
+2	half	half	JJ	_	_	_	ARG1
+3	hour	hour	NN	_	_	_	ARG1
+
+2	infant-mortality	infant-mortality	NN	_	_	_	ARG1
+3	rate	rate	NN	_	_	_	ARG1
+
+2	consortium	consortium	NN	_	_	_	ARG0
+3	bid	bid	NN	_	_	_	ARG0
+
+2	contract	contract	NN	_	_	_	ARGM-ADV
+3	revenue	revenue	NN	_	_	_	ARGM-ADV
+
+2	volunteer	volunteer	NN	_	_	_	ARG0
+3	projects	project	NNS	_	_	_	ARG0
+
+2	thrift	thrift	NN	_	_	_	ARG1
+3	resolutions	resolution	NNS	_	_	_	ARG1
+
+2	shipyard	shipyard	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	Enterprise	Enterprise	NNP	_	_	_	ARG1
+3	Zones	zone	NNS	_	_	_	ARG1
+
+2	cable	cable	NN	_	_	_	ARG1
+3	franchise	franchise	NN	_	_	_	ARG1
+
+2	budget	budget	NN	_	_	_	ARG1
+3	impediments	impediment	NNS	_	_	_	ARG1
+
+2	toy	toy	NN	_	_	_	ARG1
+3	maker	maker	NN	_	_	_	ARG1
+
+2	fund	fund	NN	_	_	_	ARG1
+3	raisers	raiser	NNS	_	_	_	ARG1
+
+2	broadcasting	broadcasting	NN	_	_	_	ARG0
+3	unit	unit	NN	_	_	_	ARG0
+
+2	cost	cost	NN	_	_	_	ARG1
+3	advantage	advantage	NN	_	_	_	ARG1
+
+2	gene	gene	NN	_	_	_	ARG1
+3	probes	probe	NNS	_	_	_	ARG1
+
+2	fibers	fiber	NNS	_	_	_	ARG2
+3	division	division	NN	_	_	_	ARG2
+
+2	market	market	NN	_	_	_	ARG1
+3	operators	operator	NNS	_	_	_	ARG1
+
+2	grocery	grocery	NN	_	_	_	ARG1
+3	retailer	retailer	NN	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	terms	term	NNS	_	_	_	ARG1
+
+2	advertising	advertising	NN	_	_	_	Support
+3	slogan	slogan	NN	_	_	_	Support
+
+2	drug	drug	NN	_	_	_	ARG1
+3	cases	case	NNS	_	_	_	ARG1
+
+2	investor	investor	NN	_	_	_	ARG0
+3	withdrawals	withdrawal	NNS	_	_	_	ARG0
+
+2	budget	budget	NN	_	_	_	ARG1
+3	problems	problem	NNS	_	_	_	ARG1
+
+2	litigation	litigation	NN	_	_	_	ARG1
+3	matter	matter	NN	_	_	_	ARG1
+
+2	national-security	national-security	NN	_	_	_	ARG2
+3	grounds	grounds	NNS	_	_	_	ARG2
+
+2	public	public	JJ	_	_	_	ARG0
+3	scapegoating	scapegoating	NN	_	_	_	ARG0
+
+2	UV-B	uv-b	NN	_	_	_	ARG1
+3	radiation	radiation	NN	_	_	_	ARG1
+
+2	work	work	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	radio	radio	NN	_	_	_	ARG1
+3	band	band	NN	_	_	_	ARG1
+
+2	integrated-technologies	integrated-technology	NNS	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	wildlife	wildlife	NN	_	_	_	ARG2
+3	conference	conference	NN	_	_	_	ARG2
+
+2	Industry	industry	NN	_	_	_	ARG1
+3	watchers	watcher	NNS	_	_	_	ARG1
+
+2	public-relations	public-relation	NNS	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	model	model	NN	_	_	_	ARG1
+3	recruit	recruit	VB	_	_	_	ARG1
+
+2	airline	airline	NN	_	_	_	ARG0
+3	earnings	earnings	NNS	_	_	_	ARG0
+
+2	casino	casino	NN	_	_	_	ARG2
+3	managers	manager	NNS	_	_	_	ARG2
+
+2	power	power	NN	_	_	_	ARG1
+3	base	base	NN	_	_	_	ARG1
+
+2	asbestos	asbestos	NN	_	_	_	ARG1
+3	victims	victim	NNS	_	_	_	ARG1
+
+2	network	network	NN	_	_	_	ARG0
+3	newscasts	newscast	NNS	_	_	_	ARG0
+
+2	market	market	NN	_	_	_	ARG1
+3	shocks	shock	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG2
+3	confidence	confidence	NN	_	_	_	ARG2
+
+2	phone	phone	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG1
+3	purchase	purchase	NN	_	_	_	ARG1
+
+2	achievement	achievement	NN	_	_	_	ARG2
+3	tests	test	NNS	_	_	_	ARG2
+
+2	pricing	pricing	NN	_	_	_	ARG1
+3	cycles	cycle	NNS	_	_	_	ARG1
+
+2	personal-computer	personal-computer	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	dinner	dinner	NN	_	_	_	ARGM-TMP
+3	discussion	discussion	NN	_	_	_	ARGM-TMP
+
+2	microelectronics	microelectronics	NNS	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	bragging	bragging	NN	_	_	_	ARG1
+3	rights	rights	NNS	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARG3
+3	levels	level	NNS	_	_	_	ARG3
+
+2	bond	bond	NN	_	_	_	ARG2
+3	investors	investor	NNS	_	_	_	ARG2
+
+2	piano	piano	NN	_	_	_	ARGM-MNR
+3	compositions	composition	NNS	_	_	_	ARGM-MNR
+
+2	branch	branch	NN	_	_	_	ARGM-LOC
+3	exchanges	exchange	NNS	_	_	_	ARGM-LOC
+
+2	bank	bank	NN	_	_	_	ARG0
+3	financing	financing	NN	_	_	_	ARG0
+
+2	oil-price	oil-price	NN	_	_	_	ARG1
+3	collapse	collapse	NN	_	_	_	ARG1
+
+2	emergency	emergency	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	consumer	consumer	NN	_	_	_	ARG0
+3	choice	choice	NN	_	_	_	ARG0
+
+2	investment	investment	NN	_	_	_	ARG1
+3	strategist	strategist	NN	_	_	_	ARG1
+
+2	job	job	NN	_	_	_	ARG1
+3	gain	gain	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG0
+3	payments	payment	NNS	_	_	_	ARG0
+
+2	art	art	NN	_	_	_	ARG1
+3	sellers	seller	NNS	_	_	_	ARG1
+
+2	brewing	brewing	NN	_	_	_	ARG1
+3	businesses	business	NNS	_	_	_	ARG1
+
+2	job	job	NN	_	_	_	ARG1
+3	stability	stability	NN	_	_	_	ARG1
+
+2	fifth-grade	fifth-grade	NN	_	_	_	ARG2
+3	curriculum	curriculum	NN	_	_	_	ARG2
+
+2	pipeline	pipeline	NN	_	_	_	ARG1
+3	shutdown	shutdown	NN	_	_	_	ARG1
+
+2	sales-tax	sales-tax	JJ	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	reinsurance	reinsurance	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	marketing	marketing	NN	_	_	_	ARG1
+3	rights	rights	NNS	_	_	_	ARG1
+
+2	intelligence	intelligence	NN	_	_	_	ARG1
+3	activities	activity	NNS	_	_	_	ARG1
+
+2	management	management	NN	_	_	_	ARG2
+3	end	end	NN	_	_	_	ARG2
+
+2	pressure	pressure	NN	_	_	_	ARG1
+3	tactics	tactic	NNS	_	_	_	ARG1
+
+2	coffee	coffee	NN	_	_	_	ARG1
+3	mix	mix	NN	_	_	_	ARG1
+
+2	farm-product	farm-product	NN	_	_	_	ARG1
+3	subsidies	subsidy	NNS	_	_	_	ARG1
+
+2	tire	tire	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	disaster	disaster	NN	_	_	_	ARG1
+3	marketing	marketing	NN	_	_	_	ARG1
+
+2	refinery	refinery	NN	_	_	_	ARG1
+3	complexes	complex	NNS	_	_	_	ARG1
+
+2	cookie	cookie	NN	_	_	_	ARG1
+3	baker	baker	NN	_	_	_	ARG1
+
+2	food	food	NN	_	_	_	ARG1
+3	shortage	shortage	NN	_	_	_	ARG1
+
+2	wage	wage	NN	_	_	_	ARG1
+3	concessions	concession	NNS	_	_	_	ARG1
+
+2	swift	swift	JJ	_	_	_	ARGM-MNR
+3	recovery	recovery	NN	_	_	_	ARGM-MNR
+
+2	customer	customer	NN	_	_	_	ARG1
+3	satisfaction	satisfaction	NN	_	_	_	ARG1
+
+2	reduced-instruction	reduced-instruction	JJ	_	_	_	ARG1-H1
+3	set	set	NN	_	_	_	ARG1-H1
+
+2	eye	eye	NN	_	_	_	ARG1
+3	tumors	tumor	NNS	_	_	_	ARG1
+
+2	options	option	NNS	_	_	_	ARG1
+3	series	series	NN	_	_	_	ARG1
+
+2	murder	murder	NN	_	_	_	ARG1
+3	victims	victim	NNS	_	_	_	ARG1
+
+2	grazing	grazing	NN	_	_	_	ARG1
+3	opportunities	opportunity	NNS	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG0
+3	pact	pact	NN	_	_	_	ARG0
+
+2	data	data	NN	_	_	_	ARG1
+3	flow	flow	NN	_	_	_	ARG1
+
+2	profit	profit	NN	_	_	_	ARG1
+3	expectations	expectation	NNS	_	_	_	ARG1
+
+2	acquisition	acquisition	NN	_	_	_	ARG1
+3	binge	binge	NN	_	_	_	ARG1
+
+2	toilet	toilet	NN	_	_	_	ARG1
+3	seats	seat	NNS	_	_	_	ARG1
+
+2	name	name	NN	_	_	_	ARG1
+3	recognition	recognition	NN	_	_	_	ARG1
+
+2	space-buying	space-buying	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	paper	paper	NN	_	_	_	ARG1
+3	stocks	stock	NNS	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARG1
+3	instruments	instrument	NNS	_	_	_	ARG1
+
+2	freight	freight	NN	_	_	_	ARG0
+3	train	train	NN	_	_	_	ARG0
+
+2	earnings	earnings	NNS	_	_	_	ARG2
+3	performance	performance	NN	_	_	_	ARG2
+
+2	audience	audience	NN	_	_	_	ARG0
+3	loyalty	loyalty	NN	_	_	_	ARG0
+
+2	rate	rate	NN	_	_	_	ARG0
+3	pressures	pressure	NNS	_	_	_	ARG0
+
+2	lobby	lobby	NN	_	_	_	ARG1
+3	floor	floor	NN	_	_	_	ARG1
+
+2	natural-gas	natural-gas	NN	_	_	_	ARG1
+3	producers	producer	NNS	_	_	_	ARG1
+
+2	school	school	NN	_	_	_	ARG1
+3	governance	governance	NN	_	_	_	ARG1
+
+2	monetarist	monetarist	NN	_	_	_	ARG1
+3	sympathies	sympathy	NNS	_	_	_	ARG1
+
+2	rate	rate	NN	_	_	_	ARG1
+3	increases	increase	NNS	_	_	_	ARG1
+
+2	force	force	NN	_	_	_	ARG2
+3	commander	commander	NN	_	_	_	ARG2
+
+2	employee	employee	NN	_	_	_	ARG0
+3	suggestion	suggestion	NN	_	_	_	ARG0
+
+2	Stock-market	stock-market	NN	_	_	_	ARG1
+3	tremors	tremor	NNS	_	_	_	ARG1
+
+2	brat	brat	NN	_	_	_	ARG1
+3	pack	pack	NN	_	_	_	ARG1
+
+2	surprise	surprise	NN	_	_	_	Support
+3	proposal	proposal	NN	_	_	_	Support
+
+2	trade	trade	NN	_	_	_	ARG1
+3	issues	issue	NNS	_	_	_	ARG1
+
+2	print-shop	print-shop	NN	_	_	_	ARG1
+3	operator	operator	NN	_	_	_	ARG1
+
+2	facsimile	facsimile	JJ	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	OTC	OTC	NNP	_	_	_	ARGM-LOC
+3	trading	trading	NN	_	_	_	ARGM-LOC
+
+2	natural-gas	natural-gas	NN	_	_	_	ARG1
+3	exports	export	NNS	_	_	_	ARG1
+
+2	real-estate	real-estate	NN	_	_	_	ARG2
+3	woes	woe	NNS	_	_	_	ARG2
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	proposal	proposal	NN	_	_	_	ARG1
+
+2	junk-bond	junk-bond	NN	_	_	_	ARG1
+3	sale	sale	NN	_	_	_	ARG1
+
+2	mainframe	mainframe	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	damage	damage	NN	_	_	_	ARG3
+3	liability	liability	NN	_	_	_	ARG3
+
+2	Department	Department	NNP	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	transportation	transportation	NN	_	_	_	ARG1
+3	funding	funding	NN	_	_	_	ARG1
+
+2	weapons	weapon	NNS	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	freshman	freshman	NN	_	_	_	ARG2
+3	year	year	NN	_	_	_	ARG2
+
+2	quality	quality	NN	_	_	_	ARG1
+3	programs	program	NNS	_	_	_	ARG1
+
+2	percentage	percentage	NN	_	_	_	ARG1
+3	change	change	NN	_	_	_	ARG1
+
+2	brain	brain	NN	_	_	_	ARG1
+3	damage	damage	NN	_	_	_	ARG1
+
+2	paper-products	paper-product	NNS	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	world	world	NN	_	_	_	ARG1
+3	economy	economy	NN	_	_	_	ARG1
+
+2	construction	construction	NN	_	_	_	ARG1
+3	project	project	NN	_	_	_	ARG1
+
+2	drilling	drilling	NN	_	_	_	ARG1
+3	foreman	foreman	NN	_	_	_	ARG1
+
+2	service-industry	service-industry	NN	_	_	_	ARG1
+3	growth	growth	NN	_	_	_	ARG1
+
+2	coffee	coffee	NN	_	_	_	ARG1
+3	drinking	drinking	NN	_	_	_	ARG1
+
+2	earnings	earnings	NNS	_	_	_	ARG1
+3	projection	projection	NN	_	_	_	ARG1
+
+2	spirits	spirit	NNS	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	waterworks	waterworks	NN	_	_	_	ARG2
+3	official	official	NN	_	_	_	ARG2
+
+2	industry	industry	NN	_	_	_	ARG0
+3	rules	rule	NNS	_	_	_	ARG0
+
+2	hunger	hunger	NN	_	_	_	ARGM-MNR
+3	strikes	strike	NNS	_	_	_	ARGM-MNR
+
+2	capital	capital	NN	_	_	_	ARG3
+3	rules	rule	NNS	_	_	_	ARG3
+
+2	thrift	thrift	NN	_	_	_	ARG0
+3	deposits	deposit	NNS	_	_	_	ARG0
+
+2	media	media	NNS	_	_	_	ARG1
+3	explosion	explosion	NN	_	_	_	ARG1
+
+2	technology	technology	NN	_	_	_	ARG1
+3	systems	system	NNS	_	_	_	ARG1
+
+2	software	software	NN	_	_	_	ARG1
+3	packages	package	NNS	_	_	_	ARG1
+
+2	shareholder	shareholder	NN	_	_	_	ARG0
+3	approval	approval	NN	_	_	_	ARG0
+
+2	reinsurance	reinsurance	NN	_	_	_	ARG1
+3	broker	broker	NN	_	_	_	ARG1
+
+2	oil	oil	NN	_	_	_	ARG1
+3	field	field	NN	_	_	_	ARG1
+
+2	contract	contract	NN	_	_	_	ARG1
+3	offer	offer	NN	_	_	_	ARG1
+
+2	advertising	advertising	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	expense	expense	NN	_	_	_	ARG1
+3	control	control	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	appreciation	appreciation	NN	_	_	_	ARG1
+
+2	board	board	NN	_	_	_	Support
+3	room	room	NN	_	_	_	Support
+
+2	practice	practice	NN	_	_	_	ARG1
+3	camp	camp	NN	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	deal	deal	NN	_	_	_	ARG1
+
+2	computer-science	computer-science	JJ	_	_	_	ARG1
+3	student	student	NN	_	_	_	ARG1
+
+2	spinoff	spinoff	NN	_	_	_	ARG1
+3	argument	argument	NN	_	_	_	ARG1
+
+2	newsprint	newsprint	NN	_	_	_	ARG1
+3	exports	export	NNS	_	_	_	ARG1
+
+2	pricing	pricing	NN	_	_	_	ARG1
+3	struggle	struggle	NN	_	_	_	ARG1
+
+2	service	service	NN	_	_	_	ARG0
+3	stations	station	NNS	_	_	_	ARG0
+
+2	chemicals	chemical	NNS	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG3
+3	profit	profit	NN	_	_	_	ARG3
+
+2	modernization	modernization	NN	_	_	_	ARG1
+3	work	work	NN	_	_	_	ARG1
+
+2	takeover-stock	takeover-stock	NN	_	_	_	ARG1
+3	speculators	speculator	NNS	_	_	_	ARG1
+
+2	garden	garden	NN	_	_	_	ARG1
+3	experience	experience	NN	_	_	_	ARG1
+
+2	earnings	earnings	NNS	_	_	_	ARG3
+3	announcements	announcement	NNS	_	_	_	ARG3
+
+2	land	land	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	expansion	expansion	NN	_	_	_	ARG1
+3	opportunities	opportunity	NNS	_	_	_	ARG1
+
+2	education	education	NN	_	_	_	ARG1
+3	crisis	crisis	NN	_	_	_	ARG1
+
+2	construction	construction	NN	_	_	_	ARG2
+3	expenses	expense	NNS	_	_	_	ARG2
+
+2	spring	spring	NN	_	_	_	ARGM-TMP
+3	exhibition	exhibition	NN	_	_	_	ARGM-TMP
+
+2	ad	ad	NN	_	_	_	ARG1
+3	man	man	NN	_	_	_	ARG1
+
+2	emergency	emergency	NN	_	_	_	ARG1
+3	fund	fund	NN	_	_	_	ARG1
+
+2	work	work	NN	_	_	_	ARG1
+3	process	process	NN	_	_	_	ARG1
+
+2	campaign	campaign	NN	_	_	_	ARG1
+3	appointments	appointment	NNS	_	_	_	ARG1
+
+2	corn	corn	NN	_	_	_	ARG1
+3	crop	crop	NN	_	_	_	ARG1
+
+2	aerospace	aerospace	NN	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	B-2	b-2	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	record	record	NN	_	_	_	ARG1
+3	promoter	promoter	NN	_	_	_	ARG1
+
+2	defense	defense	NN	_	_	_	ARG2
+3	contracts	contract	NNS	_	_	_	ARG2
+
+2	cell	cell	NN	_	_	_	ARG1
+3	division	division	NN	_	_	_	ARG1
+
+2	property	property	NN	_	_	_	ARG1
+3	loss	loss	NN	_	_	_	ARG1
+
+2	advertising	advertising	NN	_	_	_	ARG2
+3	standpoint	standpoint	NN	_	_	_	ARG2
+
+2	cable	cable	NN	_	_	_	ARG1
+3	programmer	programmer	NN	_	_	_	ARG1
+
+2	Bank	Bank	NNP	_	_	_	ARG1
+3	analysts	analyst	NNS	_	_	_	ARG1
+
+2	town	town	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	record	record	NN	_	_	_	ARG1
+3	label	label	NN	_	_	_	ARG1
+
+2	office	office	NN	_	_	_	ARG1
+3	workers	worker	NNS	_	_	_	ARG1
+
+2	spy	spy	NN	_	_	_	ARG1
+3	operation	operation	NN	_	_	_	ARG1
+
+2	brokerage	brokerage	NN	_	_	_	ARG1
+3	offices	office	NNS	_	_	_	ARG1
+
+2	addiction-treatment	addiction-treatment	JJ	_	_	_	ARG3
+3	centers	center	NNS	_	_	_	ARG3
+
+2	population	population	NN	_	_	_	ARG1
+3	turnaround	turnaround	NN	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG1
+3	act	act	NN	_	_	_	ARG1
+
+2	stock-market	stock-market	NN	_	_	_	ARG1
+3	crash	crash	NN	_	_	_	ARG1
+
+2	per-subscriber	per-subscriber	NN	_	_	_	ARGM-MNR
+3	revenue	revenue	NN	_	_	_	ARGM-MNR
+
+2	Property\/casualty	Property\/casualty	NNP	_	_	_	ARG1
+3	insurance	insurance	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG2
+3	penalties	penalty	NNS	_	_	_	ARG2
+
+2	credit	credit	NN	_	_	_	ARG1
+3	standing	standing	NN	_	_	_	ARG1
+
+2	TV	tv	NN	_	_	_	ARG4
+3	programming	programming	NN	_	_	_	ARG4
+
+2	industry	industry	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	reconciliation	reconciliation	NN	_	_	_	ARG1
+3	talks	talk	NNS	_	_	_	ARG1
+
+2	retailing	retailing	NN	_	_	_	ARG2
+3	investments	investment	NNS	_	_	_	ARG2
+
+2	voting	voting	NN	_	_	_	ARG1
+3	bloc	bloc	NN	_	_	_	ARG1
+
+2	traffic	traffic	NN	_	_	_	ARG1
+3	control	control	NN	_	_	_	ARG1
+
+2	drug	drug	NN	_	_	_	ARG2
+3	offenders	offender	NNS	_	_	_	ARG2
+
+2	machinery	machinery	NN	_	_	_	ARG1
+3	divisions	division	NNS	_	_	_	ARG1
+
+2	Catch-22	catch-22	NN	_	_	_	ARG1
+3	situation	situation	NN	_	_	_	ARG1
+
+2	incentive	incentive	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	Capital	capital	NN	_	_	_	ARG2
+3	requirements	requirement	NNS	_	_	_	ARG2
+
+2	account	account	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	Junk-fund	junk-fund	NN	_	_	_	ARG1
+3	holders	holder	NNS	_	_	_	ARG1
+
+2	freeway	freeway	NN	_	_	_	ARG1
+3	collapse	collapse	NN	_	_	_	ARG1
+
+2	media	media	NNS	_	_	_	ARG1
+3	buyers	buyer	NNS	_	_	_	ARG1
+
+2	opening	open	VBG	_	_	_	ARG1
+3	hour	hour	NN	_	_	_	ARG1
+
+2	team	team	NN	_	_	_	ARG1
+3	owner	owner	NN	_	_	_	ARG1
+
+2	support	support	NN	_	_	_	ARG1
+3	level	level	NN	_	_	_	ARG1
+
+2	auction	auction	NN	_	_	_	Support
+3	block	block	NN	_	_	_	Support
+
+2	pajama	pajama	NN	_	_	_	ARG1
+3	bottoms	bottom	NNS	_	_	_	ARG1
+
+2	metals	metal	NNS	_	_	_	ARG1
+3	analyst	analyst	NN	_	_	_	ARG1
+
+2	parking	parking	NN	_	_	_	ARG1
+3	ticket	ticket	NN	_	_	_	ARG1
+
+2	management	management	NN	_	_	_	ARG0
+3	proposals	proposal	NNS	_	_	_	ARG0
+
+2	market	market	NN	_	_	_	ARG0
+3	performance	performance	NN	_	_	_	ARG0
+
+2	radio	radio	NN	_	_	_	ARG3
+3	spots	spot	NNS	_	_	_	ARG3
+
+2	merchandise	merchandise	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	opinion	opinion	NN	_	_	_	ARG1
+3	makers	maker	NNS	_	_	_	ARG1
+
+2	operating	operating	NN	_	_	_	ARG1
+3	efficiencies	efficiency	NNS	_	_	_	ARG1
+
+2	industry	industry	NN	_	_	_	ARG1
+3	problems	problem	NNS	_	_	_	ARG1
+
+2	income	income	NN	_	_	_	ARG1
+3	threshold	threshold	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	deterioration	deterioration	NN	_	_	_	ARG1
+
+2	body	body	NN	_	_	_	ARG1
+3	searches	search	NNS	_	_	_	ARG1
+
+2	construction	construction	NN	_	_	_	ARG1
+3	practices	practice	NNS	_	_	_	ARG1
+
+2	casting	casting	NN	_	_	_	ARG1
+3	directors	director	NNS	_	_	_	ARG1
+
+2	vehicle	vehicle	NN	_	_	_	ARG1
+3	parts	part	NNS	_	_	_	ARG1
+
+2	design	design	NN	_	_	_	ARG1
+3	consultant	consultant	NN	_	_	_	ARG1
+
+2	broadcast	broadcast	NN	_	_	_	ARG1
+3	commercials	commercial	NNS	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG1
+3	delinquents	delinquent	NNS	_	_	_	ARG1
+
+2	air-traffic	air-traffic	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	gem	gem	NN	_	_	_	ARG2
+3	quality	quality	NN	_	_	_	ARG2
+
+2	health	health	NN	_	_	_	ARG1
+3	hazard	hazard	NN	_	_	_	ARG1
+
+2	synthetic	synthetic	JJ	_	_	_	ARG1
+3	fibers	fiber	NNS	_	_	_	ARG1
+
+2	gene	gene	NN	_	_	_	ARG1
+3	hunters	hunter	NNS	_	_	_	ARG1
+
+2	minority	minority	NN	_	_	_	ARG2
+3	shares	share	NNS	_	_	_	ARG2
+
+2	advertising	advertising	NN	_	_	_	ARG1
+3	network	network	NN	_	_	_	ARG1
+
+2	grievance	grievance	NN	_	_	_	ARG1
+3	procedure	procedure	NN	_	_	_	ARG1
+
+2	peak	peak	JJ	_	_	_	ARG2
+3	level	level	NN	_	_	_	ARG2
+
+2	Publishing	publishing	NN	_	_	_	ARG1
+3	officials	official	NNS	_	_	_	ARG1
+
+2	midmorning	midmorning	NN	_	_	_	ARGM-TMP
+3	rebound	rebound	NN	_	_	_	ARGM-TMP
+
+2	program	program	NN	_	_	_	ARG1
+3	cuts	cut	NNS	_	_	_	ARG1
+
+2	currencny	currencny	JJ	_	_	_	ARG1
+3	analysts	analyst	NNS	_	_	_	ARG1
+
+2	equity	equity	NN	_	_	_	ARG1
+3	interest	interest	NN	_	_	_	ARG1
+
+2	EMPLOYEE	employee	NN	_	_	_	ARG2
+3	MANUALS	manual	NNS	_	_	_	ARG2
+
+2	bargaining	bargaining	NN	_	_	_	ARG1
+3	unit	unit	NN	_	_	_	ARG1
+
+2	transaction	transaction	NN	_	_	_	ARG1
+3	period	period	NN	_	_	_	ARG1
+
+2	steel	steel	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	pollution	pollution	NN	_	_	_	ARG1
+3	limits	limit	NNS	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	opportunities	opportunity	NNS	_	_	_	ARG1
+
+2	franchise	franchise	NN	_	_	_	ARG1
+3	agreements	agreement	NNS	_	_	_	ARG1
+
+2	attendance	attendance	NN	_	_	_	ARG1
+3	rates	rate	NNS	_	_	_	ARG1
+
+2	foreign-car	foreign-car	NN	_	_	_	ARG1
+3	dealers	dealer	NNS	_	_	_	ARG1
+
+2	free-enterprise	free-enterprise	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	earning	earn	VBG	_	_	_	ARG1
+3	prospects	prospects	NNS	_	_	_	ARG1
+
+2	days	day	NNS	_	_	_	ARGM-TMP
+3	events	event	NNS	_	_	_	ARGM-TMP
+
+2	equity	equity	NN	_	_	_	ARG1
+3	stake	stake	NN	_	_	_	ARG1
+
+2	gasoline	gasoline	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	profit	profit	NN	_	_	_	ARG1
+3	figures	figure	NNS	_	_	_	ARG1
+
+2	institute	institute	NN	_	_	_	ARG2
+3	patients	patient	NNS	_	_	_	ARG2
+
+2	exchange-rate	exchange-rate	NN	_	_	_	ARG1
+3	policies	policy	NNS	_	_	_	ARG1
+
+2	producer	producer	NN	_	_	_	ARG0
+3	deliveries	deliveries	NN	_	_	_	ARG0
+
+2	tax	tax	NN	_	_	_	ARG2
+3	dispute	dispute	NN	_	_	_	ARG2
+
+2	psyllium	psyllium	NN	_	_	_	ARG1
+3	buyer	buyer	NN	_	_	_	ARG1
+
+2	Warehouse	Warehouse	NNP	_	_	_	ARG1
+3	productivity	productivity	NN	_	_	_	ARG1
+
+2	anti-government	anti-government	NN	_	_	_	ARG1
+3	protests	protest	NNS	_	_	_	ARG1
+
+2	storage	storage	NN	_	_	_	ARG1
+3	devices	device	NNS	_	_	_	ARG1
+
+2	hiring	hire	VBG	_	_	_	ARG1
+3	binge	binge	NN	_	_	_	ARG1
+
+2	plot	plot	NN	_	_	_	ARG1
+3	changes	change	NNS	_	_	_	ARG1
+
+2	securities	security	NNS	_	_	_	ARG1
+3	portfolio	portfolio	NN	_	_	_	ARG1
+
+2	state	state	NN	_	_	_	ARG0
+3	proceeding	proceeding	NN	_	_	_	ARG0
+
+2	forensics	forensic	NNS	_	_	_	ARG1
+3	expert	expert	NN	_	_	_	ARG1
+
+2	bond	bond	NN	_	_	_	ARG1
+3	recommendation	recommendation	NN	_	_	_	ARG1
+
+2	champagne	champagne	NN	_	_	_	ARG1
+3	bottles	bottle	NNS	_	_	_	ARG1
+
+2	cleanup	cleanup	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	transplant	transplant	NN	_	_	_	ARG1
+3	research	research	NN	_	_	_	ARG1
+
+2	lobby	lobby	NN	_	_	_	ARGM-LOC
+3	exhibit	exhibit	NN	_	_	_	ARGM-LOC
+
+2	arms	arm	NNS	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	exploration	exploration	NN	_	_	_	ARG2
+3	expenses	expense	NNS	_	_	_	ARG2
+
+2	emergency	emergency	NN	_	_	_	ARG1
+3	information	information	NN	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	depressant	depressant	NN	_	_	_	ARG1
+
+2	radar	radar	NN	_	_	_	ARG1
+3	detectors	detector	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	experts	expert	NNS	_	_	_	ARG1
+
+2	home	home	NN	_	_	_	ARG3
+3	loans	loan	NNS	_	_	_	ARG3
+
+2	estate	estate	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	world	world	NN	_	_	_	ARG1
+
+2	public-housing	public-housing	NN	_	_	_	ARG1
+3	project	project	NN	_	_	_	ARG1
+
+2	labor	labor	NN	_	_	_	ARG1
+3	pact	pact	NN	_	_	_	ARG1
+
+2	weekend	weekend	NN	_	_	_	ARGM-TMP
+3	trip	trip	NN	_	_	_	ARGM-TMP
+
+2	reset	reset	NN	_	_	_	ARG1
+3	provisions	provision	NNS	_	_	_	ARG1
+
+2	cassette	cassette	NN	_	_	_	ARG1
+3	recorders	recorder	NNS	_	_	_	ARG1
+
+2	software	software	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	glasnost	glasnost	FW	_	_	_	ARG1
+3	policies	policy	NNS	_	_	_	ARG1
+
+2	machine	machine	NN	_	_	_	ARG1
+3	guns	gun	NNS	_	_	_	ARG1
+
+2	aircraft	aircraft	NN	_	_	_	ARG1
+3	carrier	carrier	NN	_	_	_	ARG1
+
+2	buy-out	buy-out	NN	_	_	_	ARG1
+3	price	price	NN	_	_	_	ARG1
+
+2	guerrilla	guerrilla	NN	_	_	_	ARG0
+3	action	action	NN	_	_	_	ARG0
+
+2	payment	payment	NN	_	_	_	ARG2
+3	burden	burden	NN	_	_	_	ARG2
+
+2	home	home	NN	_	_	_	ARG1
+3	mortgages	mortgage	NNS	_	_	_	ARG1
+
+2	chemical	chemical	NN	_	_	_	ARG3
+3	earnings	earnings	NNS	_	_	_	ARG3
+
+2	variety	variety	NN	_	_	_	ARG1
+3	hours	hour	NNS	_	_	_	ARG1
+
+2	test	test	NN	_	_	_	ARG1
+3	procedures	procedure	NNS	_	_	_	ARG1
+
+2	yield	yield	NN	_	_	_	ARG2
+3	premium	premium	NN	_	_	_	ARG2
+
+2	share	share	NN	_	_	_	ARG1
+3	stockpiles	stockpile	NNS	_	_	_	ARG1
+
+2	studio	studio	NN	_	_	_	ARG1
+3	heads	head	NNS	_	_	_	ARG1
+
+2	consumer	consumer	NN	_	_	_	ARG1
+3	finance	finance	NN	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	research	research	NN	_	_	_	ARG1
+
+2	trimester	trimester	NN	_	_	_	ARG3
+3	standards	standard	NNS	_	_	_	ARG3
+
+2	distribution	distribution	NN	_	_	_	ARG0
+3	companies	company	NNS	_	_	_	ARG0
+
+2	eel	eel	NN	_	_	_	ARG1
+3	skin	skin	NN	_	_	_	ARG1
+
+2	window	window	NN	_	_	_	ARG1
+3	breaking	breaking	NN	_	_	_	ARG1
+
+2	abortion	abortion	NN	_	_	_	ARG1
+3	question	question	NN	_	_	_	ARG1
+
+2	fee-forfeiture	fee-forfeiture	NN	_	_	_	ARG1
+3	power	power	NN	_	_	_	ARG1
+
+2	review	review	NN	_	_	_	ARG1
+3	programs	program	NNS	_	_	_	ARG1
+
+2	mission	mission	NN	_	_	_	ARG1
+3	simulators	simulator	NNS	_	_	_	ARG1
+
+2	salmonella	salmonella	NN	_	_	_	ARG2
+3	problems	problem	NNS	_	_	_	ARG2
+
+2	truck	truck	NN	_	_	_	ARG1
+3	maker	maker	NN	_	_	_	ARG1
+
+2	church	church	NN	_	_	_	ARG1
+3	door	door	NN	_	_	_	ARG1
+
+2	junk	junk	NN	_	_	_	ARG1
+3	purchases	purchase	NNS	_	_	_	ARG1
+
+2	advertising	advertising	NN	_	_	_	ARG1
+3	rights	rights	NNS	_	_	_	ARG1
+
+2	state	state	NN	_	_	_	ARG0
+3	planning	planning	NN	_	_	_	ARG0
+
+2	seed	seed	NN	_	_	_	ARG1
+3	producers	producer	NNS	_	_	_	ARG1
+
+2	stock-market	stock-market	NN	_	_	_	ARG1
+3	gyrations	gyration	NNS	_	_	_	ARG1
+
+2	party	party	NN	_	_	_	ARG2
+3	officials	official	NNS	_	_	_	ARG2
+
+2	cleanup	cleanup	NN	_	_	_	ARGM-LOC
+3	hitter	hitter	NN	_	_	_	ARGM-LOC
+
+2	company	company	NN	_	_	_	ARG2
+3	managers	manager	NNS	_	_	_	ARG2
+
+2	auto	auto	NN	_	_	_	ARG1
+3	insurance	insurance	NN	_	_	_	ARG1
+
+2	transportation	transportation	NN	_	_	_	ARG1
+3	expert	expert	NN	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	crash	crash	NN	_	_	_	ARG1
+
+2	tourism	tourism	NN	_	_	_	ARG1
+3	slump	slump	NN	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARG1
+3	terms	term	NNS	_	_	_	ARG1
+
+2	filing	filing	NN	_	_	_	ARG1
+3	fees	fee	NNS	_	_	_	ARG1
+
+2	carrier	carrier	NN	_	_	_	ARG1
+3	groups	group	NNS	_	_	_	ARG1
+
+2	entertainment	entertainment	NN	_	_	_	ARG1
+3	pursuits	pursuit	NNS	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARG3
+3	profit	profit	NN	_	_	_	ARG3
+
+2	role	role	NN	_	_	_	ARG1
+3	playing	playing	NN	_	_	_	ARG1
+
+2	stock	stock	NN	_	_	_	ARG1
+3	quotes	quote	NNS	_	_	_	ARG1
+
+2	investing	investing	JJ	_	_	_	ARG1
+3	world	world	NN	_	_	_	ARG1
+
+2	aramid	aramid	NN	_	_	_	ARG1
+3	fiber	fiber	NN	_	_	_	ARG1
+
+2	pension	pension	NN	_	_	_	ARG3
+3	payment	payment	NN	_	_	_	ARG3
+
+2	sweepstakes	sweepstakes	NN	_	_	_	ARG1
+3	ads	ad	NNS	_	_	_	ARG1
+
+2	job	job	NN	_	_	_	ARG1
+3	seekers	seeker	NNS	_	_	_	ARG1
+
+2	oil	oil	NN	_	_	_	ARG1
+3	project	project	NN	_	_	_	ARG1
+
+2	population	population	NN	_	_	_	ARG2
+3	race	race	NN	_	_	_	ARG2
+
+2	wage	wage	NN	_	_	_	ARG1
+3	demands	demand	NNS	_	_	_	ARG1
+
+2	train	train	NN	_	_	_	ARG1
+3	service	service	NN	_	_	_	ARG1
+
+2	bidding	bidding	NN	_	_	_	ARG1
+3	match	match	NN	_	_	_	ARG1
+
+2	bank	bank	NN	_	_	_	ARG0
+3	credit	credit	NN	_	_	_	ARG0
+
+2	profit	profit	NN	_	_	_	ARG1
+3	taking	take	VBG	_	_	_	ARG1
+
+2	background	background	NN	_	_	_	ARG1
+3	information	information	NN	_	_	_	ARG1
+
+2	blood	blood	NN	_	_	_	ARG1
+3	tests	test	NNS	_	_	_	ARG1
+
+2	ad	ad	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	flavor	flavor	NN	_	_	_	ARG1
+3	packets	packet	NNS	_	_	_	ARG1
+
+2	hospital	hospital	NN	_	_	_	ARGM-LOC
+3	stays	stay	VBZ	_	_	_	ARGM-LOC
+
+2	toy	toy	NN	_	_	_	ARG1
+3	manufacturer	manufacturer	NN	_	_	_	ARG1
+
+2	House	House	NNP	_	_	_	ARG2
+3	panel	panel	NN	_	_	_	ARG2
+
+2	police	police	NN	_	_	_	ARG2
+3	complaint	complaint	NN	_	_	_	ARG2
+
+2	settling	settling	NN	_	_	_	ARG1
+3	ponds	pond	NNS	_	_	_	ARG1
+
+2	defensive	defensive	JJ	_	_	_	ARG1
+3	options	option	NNS	_	_	_	ARG1
+
+2	two-income	two-income	JJ	_	_	_	ARG0
+3	couple	couple	NN	_	_	_	ARG0
+
+2	small-business	small-business	NN	_	_	_	ARG1
+3	development	development	NN	_	_	_	ARG1
+
+2	material	material	NN	_	_	_	ARGM-MNR
+3	injury	injury	NN	_	_	_	ARGM-MNR
+
+2	telephone	telephone	NN	_	_	_	ARGM-MNR
+3	meeting	meeting	NN	_	_	_	ARGM-MNR
+
+2	Rail-transit	rail-transit	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	traders	trader	NNS	_	_	_	ARG1
+
+2	restructuring	restructuring	NN	_	_	_	ARG2
+3	gain	gain	NN	_	_	_	ARG2
+
+2	television	television	NN	_	_	_	ARG3
+3	spots	spot	NNS	_	_	_	ARG3
+
+2	coal	coal	NN	_	_	_	ARG1
+3	fields	field	NNS	_	_	_	ARG1
+
+2	interest	interest	NN	_	_	_	ARG3
+3	income	income	NN	_	_	_	ARG3
+
+2	course-correction	course-correction	NN	_	_	_	ARG1
+3	advisories	advisory	NNS	_	_	_	ARG1
+
+2	football	football	NN	_	_	_	ARG1
+3	game	game	NN	_	_	_	ARG1
+
+2	installment	installment	NN	_	_	_	ARG1
+3	credit	credit	NN	_	_	_	ARG1
+
+2	family	family	NN	_	_	_	ARG1
+3	movie	movie	NN	_	_	_	ARG1
+
+2	bid	bid	NN	_	_	_	ARG1
+3	price	price	NN	_	_	_	ARG1
+
+2	share	share	NN	_	_	_	ARG1
+3	swaps	swap	NNS	_	_	_	ARG1
+
+2	Pound	Pound	NNP	_	_	_	ARG0
+3	concerns	concern	NNS	_	_	_	ARG0
+
+2	computing	computing	NN	_	_	_	ARG3
+3	center	center	NN	_	_	_	ARG3
+
+2	expenditure	expenditure	NN	_	_	_	ARG1
+3	side	side	NN	_	_	_	ARG1
+
+2	rate	rate	NN	_	_	_	ARG1
+3	payers	payer	NNS	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	trading	trading	NN	_	_	_	ARG1
+3	hours	hour	NNS	_	_	_	ARG1
+
+2	bus	bus	NN	_	_	_	ARG1
+3	ticket	ticket	NN	_	_	_	ARG1
+
+2	smoking	smoking	NN	_	_	_	ARG1
+3	provision	provision	NN	_	_	_	ARG1
+
+2	school	school	NN	_	_	_	ARG1
+3	days	day	NNS	_	_	_	ARG1
+
+2	debt	debt	NN	_	_	_	ARG0
+3	obligations	obligation	NNS	_	_	_	ARG0
+
+2	news	news	NN	_	_	_	ARG1
+3	release	release	NN	_	_	_	ARG1
+
+2	networking	networking	NN	_	_	_	ARG1
+3	software	software	NN	_	_	_	ARG1
+
+2	equipment	equipment	NN	_	_	_	ARG1
+3	certificates	certificate	NNS	_	_	_	ARG1
+
+2	manufacturing	manufacturing	NN	_	_	_	ARG1
+3	steps	step	NNS	_	_	_	ARG1
+
+2	price-stability	price-stability	NN	_	_	_	ARG1
+3	objective	objective	NN	_	_	_	ARG1
+
+2	session	session	NN	_	_	_	ARG1
+3	highs	high	NNS	_	_	_	ARG1
+
+2	interest-rate	interest-rate	NN	_	_	_	ARG1
+3	increases	increase	NNS	_	_	_	ARG1
+
+2	gift	gift	NN	_	_	_	ARG2
+3	budget	budget	NN	_	_	_	ARG2
+
+2	reinforcement	reinforcement	NN	_	_	_	ARG1
+3	project	project	NN	_	_	_	ARG1
+
+2	percentage	percentage	NN	_	_	_	ARG1
+3	increases	increase	NNS	_	_	_	ARG1
+
+2	math	math	NN	_	_	_	ARG2
+3	tests	test	NNS	_	_	_	ARG2
+
+2	drug	drug	NN	_	_	_	ARG1
+3	information	information	NN	_	_	_	ARG1
+
+2	roller-coaster	roller-coaster	NN	_	_	_	ARG1
+3	ride	ride	NN	_	_	_	ARG1
+
+2	processing	processing	NN	_	_	_	ARG1
+3	capability	capability	NN	_	_	_	ARG1
+
+2	appeals	appeal	NNS	_	_	_	ARG2
+3	court	court	NN	_	_	_	ARG2
+
+2	capital-goods	capital-goods	NNS	_	_	_	ARG1
+3	sector	sector	NN	_	_	_	ARG1
+
+2	vacation	vacation	NN	_	_	_	ARG1
+3	packages	package	NNS	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG0
+3	demand	demand	NN	_	_	_	ARG0
+
+2	casino	casino	NN	_	_	_	ARG3
+3	space	space	NN	_	_	_	ARG3
+
+2	emergency	emergency	NN	_	_	_	ARGM-PNC
+3	package	package	NN	_	_	_	ARGM-PNC
+
+2	bank	bank	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	manufacturing	manufacturing	NN	_	_	_	ARG1
+3	capacity	capacity	NN	_	_	_	ARG1
+
+2	training	training	NN	_	_	_	ARG1
+3	camp	camp	NN	_	_	_	ARG1
+
+2	university	university	NN	_	_	_	ARG0
+3	funds	fund	NNS	_	_	_	ARG0
+
+2	Time	Time	NNP	_	_	_	ARG0
+3	pressures	pressure	NNS	_	_	_	ARG0
+
+2	management	management	NN	_	_	_	ARG1
+3	team	team	NN	_	_	_	ARG1
+
+2	inventory	inventory	NN	_	_	_	ARG1
+3	levels	level	NNS	_	_	_	ARG1
+
+2	rescue	rescue	NN	_	_	_	ARG3
+3	center	center	NN	_	_	_	ARG3
+
+2	ad	ad	NN	_	_	_	ARG1
+3	spending	spending	NN	_	_	_	ARG1
+
+2	earnings	earnings	NNS	_	_	_	ARG1
+3	picture	picture	NN	_	_	_	ARG1
+
+2	good	good	JJ	_	_	_	ARG2
+3	will	will	NN	_	_	_	ARG2
+
+2	engineering	engineering	NN	_	_	_	ARG1
+3	productivity	productivity	NN	_	_	_	ARG1
+
+2	safety	safety	NN	_	_	_	ARG3
+3	standards	standard	NNS	_	_	_	ARG3
+
+2	work-study	work-study	JJ	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	withdrawal	withdrawal	NN	_	_	_	ARG1
+3	timetable	timetable	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG1
+3	departments	department	NNS	_	_	_	ARG1
+
+2	component	component	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	news	news	NN	_	_	_	ARG1
+3	organization	organization	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	ARG1
+3	preparer	preparer	NN	_	_	_	ARG1
+
+2	job-training	job-training	NN	_	_	_	ARG1
+3	programs	program	NNS	_	_	_	ARG1
+
+2	closing	closing	NN	_	_	_	ARG1
+3	date	date	NN	_	_	_	ARG1
+
+2	consumer	consumer	NN	_	_	_	ARG0
+3	resistance	resistance	NN	_	_	_	ARG0
+
+2	age	age	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	battery	battery	NN	_	_	_	ARG1
+3	power	power	NN	_	_	_	ARG1
+
+2	rocket	rocket	NN	_	_	_	ARG1
+3	scientists	scientist	NNS	_	_	_	ARG1
+
+2	asset	asset	NN	_	_	_	ARG1
+3	valuation	valuation	NN	_	_	_	ARG1
+
+2	pro	pro	JJ	_	_	_	ARG0
+3	picks	pick	NNS	_	_	_	ARG0
+
+2	steel	steel	NN	_	_	_	ARG1
+3	producers	producer	NNS	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	decade	decade	NN	_	_	_	ARG1
+
+2	impeachment	impeachment	NN	_	_	_	ARG1
+3	articles	article	NNS	_	_	_	ARG1
+
+2	relief	relief	NN	_	_	_	ARG1
+3	dollars	dollar	NNS	_	_	_	ARG1
+
+2	consensus	consensus	NN	_	_	_	ARG0
+3	view	view	NN	_	_	_	ARG0
+
+2	panel	panel	NN	_	_	_	ARG1
+3	member	member	NN	_	_	_	ARG1
+
+2	fitness	fitness	NN	_	_	_	ARG2
+3	fad	fad	NN	_	_	_	ARG2
+
+2	market	market	NN	_	_	_	ARG1
+3	emergencies	emergency	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	development	development	NN	_	_	_	ARG1
+
+2	storm	storm	NN	_	_	_	ARG0
+3	damage	damage	NN	_	_	_	ARG0
+
+2	currency	currency	NN	_	_	_	ARG1
+3	cushion	cushion	NN	_	_	_	ARG1
+
+2	fund	fund	NN	_	_	_	ARG1
+3	managers	manager	NNS	_	_	_	ARG1
+
+2	replacement	replacement	NN	_	_	_	ARG2
+3	shares	share	NNS	_	_	_	ARG2
+
+2	City	City	NNP	_	_	_	ARG2
+3	crews	crew	NNS	_	_	_	ARG2
+
+2	market	market	NN	_	_	_	ARG1
+3	collapse	collapse	NN	_	_	_	ARG1
+
+2	college	college	NN	_	_	_	ARG1
+3	attendance	attendance	NN	_	_	_	ARG1
+
+2	blood	blood	NN	_	_	_	ARG1
+3	flow	flow	NN	_	_	_	ARG1
+
+2	magazine	magazine	NN	_	_	_	ARG1
+3	racks	rack	NNS	_	_	_	ARG1
+
+2	settlement	settlement	NN	_	_	_	ARG1
+3	costs	cost	NNS	_	_	_	ARG1
+
+2	laser-beam-printer	laser-beam-printer	NN	_	_	_	ARG1
+3	factory	factory	NN	_	_	_	ARG1
+
+2	shipping	shipping	NN	_	_	_	ARG0
+3	company	company	NN	_	_	_	ARG0
+
+2	sales	sale	NNS	_	_	_	ARG0
+3	pace	pace	NN	_	_	_	ARG0
+
+2	tourist	tourist	NN	_	_	_	ARG1
+3	season	season	NN	_	_	_	ARG1
+
+2	coke	coke	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	coal	coal	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	loan-loss	loan-loss	NN	_	_	_	ARG1
+3	provision	provision	NN	_	_	_	ARG1
+
+2	training	training	NN	_	_	_	ARG1
+3	course	course	NN	_	_	_	ARG1
+
+2	labor	labor	NN	_	_	_	ARG3
+3	laws	law	NNS	_	_	_	ARG3
+
+2	unemployment	unemployment	NN	_	_	_	ARG4
+3	insurance	insurance	NN	_	_	_	ARG4
+
+2	health	health	NN	_	_	_	ARG2
+3	reasons	reason	NNS	_	_	_	ARG2
+
+2	Consumer	Consumer	NNP	_	_	_	ARG1
+3	confidence	confidence	NN	_	_	_	ARG1
+
+2	broadcast	broadcast	NN	_	_	_	ARG0
+3	networks	network	NNS	_	_	_	ARG0
+
+2	cash	cash	NN	_	_	_	ARG2
+3	basis	basis	NN	_	_	_	ARG2
+
+2	car	car	NN	_	_	_	ARG1
+3	pools	pool	NNS	_	_	_	ARG1
+
+2	middle-class	middle-class	NN	_	_	_	ARG1
+3	life	life	NN	_	_	_	ARG1
+
+2	credit	credit	NN	_	_	_	ARGM-LOC
+3	risk	risk	NN	_	_	_	ARGM-LOC
+
+2	mortgage	mortgage	NN	_	_	_	ARG1
+3	refinancing	refinancing	NN	_	_	_	ARG1
+
+2	ghost	ghost	NN	_	_	_	ARG3
+3	population	population	NN	_	_	_	ARG3
+
+2	software	software	NN	_	_	_	ARG0
+3	issues	issue	NNS	_	_	_	ARG0
+
+2	money-market	money-market	JJ	_	_	_	ARG1
+3	research	research	NN	_	_	_	ARG1
+
+2	company	company	NN	_	_	_	ARG0
+3	investigations	investigation	NNS	_	_	_	ARG0
+
+2	bond	bond	NN	_	_	_	ARG1
+3	holdings	holding	NNS	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG1
+3	posture	posture	NN	_	_	_	ARG1
+
+2	rate	rate	NN	_	_	_	ARG1
+3	slashes	slash	NNS	_	_	_	ARG1
+
+2	appropriations	appropriation	NNS	_	_	_	ARG1
+3	measures	measure	NNS	_	_	_	ARG1
+
+2	food	food	NN	_	_	_	ARG1
+3	marketing	marketing	NN	_	_	_	ARG1
+
+2	budget	budget	NN	_	_	_	ARG1
+3	office	office	NN	_	_	_	ARG1
+
+2	voting	voting	NN	_	_	_	ARG1
+3	record	record	NN	_	_	_	ARG1
+
+2	patent-infringement	patent-infringement	NN	_	_	_	ARG2
+3	proceedings	proceedings	NNS	_	_	_	ARG2
+
+2	investment-banking	investment-banking	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	record	record	NN	_	_	_	ARG1
+3	undersubscription	undersubscription	NN	_	_	_	ARG1
+
+2	urban-development	urban-development	NN	_	_	_	ARGM-PNC
+3	grant	grant	NN	_	_	_	ARGM-PNC
+
+2	investment	investment	NN	_	_	_	ARG1
+3	concept	concept	NN	_	_	_	ARG1
+
+2	mainframe	mainframe	NN	_	_	_	ARG1
+3	line	line	NN	_	_	_	ARG1
+
+2	new-car	new-car	NN	_	_	_	ARG1
+3	dealers	dealer	NNS	_	_	_	ARG1
+
+2	catastrophic-care	catastrophic-care	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	newspaper	newspaper	NN	_	_	_	ARG1
+3	publisher	publisher	NN	_	_	_	ARG1
+
+2	exchange	exchange	NN	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	tax	tax	NN	_	_	_	Support
+3	money	money	NN	_	_	_	Support
+
+2	ad	ad	NN	_	_	_	ARG1
+3	clutter	clutter	NN	_	_	_	ARG1
+
+2	cosmetics	cosmetic	NNS	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	news	news	NN	_	_	_	ARG1
+3	headlines	headline	NNS	_	_	_	ARG1
+
+2	vinyl-products	vinyl-product	NNS	_	_	_	ARG1
+3	segment	segment	NN	_	_	_	ARG1
+
+2	disc	disc	NN	_	_	_	ARG1
+3	drives	drive	NNS	_	_	_	ARG1
+
+2	family	family	NN	_	_	_	ARG1
+3	health	health	NN	_	_	_	ARG1
+
+2	shopping	shopping	NN	_	_	_	ARG1
+3	opportunities	opportunity	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	consensus	consensus	NN	_	_	_	ARG1
+
+2	peace	peace	NN	_	_	_	ARG1
+3	accord	accord	NN	_	_	_	ARG1
+
+2	marketing	marketing	NN	_	_	_	ARG1
+3	consulting	consulting	NN	_	_	_	ARG1
+
+2	leadership	leadership	NN	_	_	_	ARG1
+3	level	level	NN	_	_	_	ARG1
+
+2	midday	midday	NN	_	_	_	ARGM-TMP
+3	rally	rally	NN	_	_	_	ARGM-TMP
+
+2	management	management	NN	_	_	_	ARG0
+3	estimate	estimate	NN	_	_	_	ARG0
+
+2	product	product	NN	_	_	_	ARG1
+3	inspection	inspection	NN	_	_	_	ARG1
+
+2	core	core	NN	_	_	_	ARG1
+3	capital	capital	NN	_	_	_	ARG1
+
+2	travel	travel	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	pharmaceuticals	pharmaceutical	NNS	_	_	_	ARG1
+3	concern	concern	NN	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	analysts	analyst	NNS	_	_	_	ARG1
+
+2	earning	earn	VBG	_	_	_	ARG1
+3	projections	projection	NNS	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	tactics	tactic	NNS	_	_	_	ARG1
+
+2	cost	cost	NN	_	_	_	ARG1
+3	cuts	cut	NNS	_	_	_	ARG1
+
+2	apple-industry	apple-industry	NN	_	_	_	ARG1
+3	sages	sage	NNS	_	_	_	ARG1
+
+2	management	management	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	sale	sale	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG0
+3	argument	argument	NN	_	_	_	ARG0
+
+2	securities-law	securities-law	NN	_	_	_	ARG1
+3	regulators	regulator	NNS	_	_	_	ARG1
+
+2	bid-to-cover	bid-to-cover	NN	_	_	_	ARG1-H0
+3	ratio	ratio	NN	_	_	_	ARG1-H0
+
+2	participation	participation	NN	_	_	_	ARG1
+3	certificate	certificate	NN	_	_	_	ARG1
+
+2	RV	rv	NN	_	_	_	ARG1
+3	buyers	buyer	NNS	_	_	_	ARG1
+
+2	solid-waste	solid-waste	NN	_	_	_	ARG1
+3	recovery	recovery	NN	_	_	_	ARG1
+
+2	notification	notification	NN	_	_	_	ARG1
+3	fee	fee	NN	_	_	_	ARG1
+
+2	durable-goods	durable-goods	NNS	_	_	_	ARG1
+3	orders	order	NNS	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	users	user	NNS	_	_	_	ARG1
+
+2	recall	recall	NN	_	_	_	ARG3
+3	charge	charge	NN	_	_	_	ARG3
+
+2	credit	credit	NN	_	_	_	ARG1
+3	accounts	account	NNS	_	_	_	ARG1
+
+2	tourist	tourist	NN	_	_	_	ARG1
+3	growth	growth	NN	_	_	_	ARG1
+
+2	investor	investor	NN	_	_	_	ARG2
+3	interest	interest	NN	_	_	_	ARG2
+
+2	coal	coal	NN	_	_	_	ARG1
+3	group	group	NN	_	_	_	ARG1
+
+2	commission	commission	NN	_	_	_	ARG0
+3	order	order	NN	_	_	_	ARG0
+
+2	borough	borough	NN	_	_	_	ARG2
+3	council	council	NN	_	_	_	ARG2
+
+2	bike	bike	NN	_	_	_	ARG1
+3	sales	sale	NNS	_	_	_	ARG1
+
+2	advisory	advisory	JJ	_	_	_	ARG1
+3	fees	fee	NNS	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	services	service	NNS	_	_	_	ARG1
+
+2	family	family	NN	_	_	_	ARG1
+3	snapshots	snapshot	NNS	_	_	_	ARG1
+
+2	evening	evening	NN	_	_	_	ARG9
+3	meeting	meeting	NN	_	_	_	ARG9
+
+2	college	college	NN	_	_	_	ARG1
+3	classmate	classmate	NN	_	_	_	ARG1
+
+2	suppressor	suppressor	NN	_	_	_	ARGM-PNC
+3	proteins	protein	NNS	_	_	_	ARGM-PNC
+
+2	slide	slide	NN	_	_	_	ARG3
+3	show	show	NN	_	_	_	ARG3
+
+2	head	head	NN	_	_	_	ARG3
+3	trader	trader	NN	_	_	_	ARG3
+
+2	baseball	baseball	NN	_	_	_	ARG1
+3	teams	team	NNS	_	_	_	ARG1
+
+2	insurance	insurance	NN	_	_	_	ARG0
+3	firm	firm	NN	_	_	_	ARG0
+
+2	cancer	cancer	NN	_	_	_	ARG2
+3	test	test	NN	_	_	_	ARG2
+
+2	TREASURY	treasury	NN	_	_	_	ARG0
+3	BILLS	bill	NNS	_	_	_	ARG0
+
+2	student	student	NN	_	_	_	ARG0
+3	choice	choice	NN	_	_	_	ARG0
+
+2	commodities	commodity	NNS	_	_	_	ARG3
+3	tax	tax	NN	_	_	_	ARG3
+
+2	brokerage	brokerage	NN	_	_	_	ARG1
+3	executives	executive	NNS	_	_	_	ARG1
+
+2	distribution	distribution	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	revenue	revenue	NN	_	_	_	ARG1
+3	gain	gain	NN	_	_	_	ARG1
+
+2	enforcement	enforcement	NN	_	_	_	ARG1
+3	procedures	procedure	NNS	_	_	_	ARG1
+
+2	benefit	benefit	NN	_	_	_	ARG1
+3	programs	program	NNS	_	_	_	ARG1
+
+2	computer	computer	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	asset	asset	NN	_	_	_	ARG1
+3	structure	structure	NN	_	_	_	ARG1
+
+2	consumer	consumer	NN	_	_	_	ARG1
+3	minutes	minute	NNS	_	_	_	ARG1
+
+2	fraud	fraud	NN	_	_	_	ARG1
+3	allegations	allegation	NNS	_	_	_	ARG1
+
+2	rating	rating	NN	_	_	_	ARG1
+3	factor	factor	NN	_	_	_	ARG1
+
+2	purchasing	purchase	VBG	_	_	_	ARG1
+3	power	power	NN	_	_	_	ARG1
+
+2	majority	majority	NN	_	_	_	ARG0
+3	decision	decision	NN	_	_	_	ARG0
+
+2	hurricane	hurricane	NN	_	_	_	ARG0
+3	disaster	disaster	NN	_	_	_	ARG0
+
+2	investment	investment	NN	_	_	_	ARG1
+3	executives	executive	NNS	_	_	_	ARG1
+
+2	trade	trade	NN	_	_	_	ARG0
+3	financing	financing	NN	_	_	_	ARG0
+
+2	coordination	coordination	NN	_	_	_	ARG1
+3	process	process	NN	_	_	_	ARG1
+
+2	mainframe	mainframe	NN	_	_	_	ARG1
+3	years	year	NNS	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARGM-LOC
+3	indexes	index	NNS	_	_	_	ARGM-LOC
+
+2	share	share	NN	_	_	_	ARG1
+3	offer	offer	NN	_	_	_	ARG1
+
+2	rate	rate	NN	_	_	_	ARG1
+3	setters	setter	NNS	_	_	_	ARG1
+
+2	food	food	NN	_	_	_	ARG1
+3	cans	can	NNS	_	_	_	ARG1
+
+2	TV	tv	NN	_	_	_	ARG1
+3	critic	critic	NN	_	_	_	ARG1
+
+2	marketing	marketing	NN	_	_	_	ARG1
+3	official	official	NN	_	_	_	ARG1
+
+2	acid-rain	acid-rain	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	earnings	earnings	NNS	_	_	_	ARG1
+3	gain	gain	NN	_	_	_	ARG1
+
+2	ringing	ringing	NN	_	_	_	ARG1
+3	groups	group	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	barrier	barrier	NN	_	_	_	ARG1
+
+2	ethylene	ethylene	NN	_	_	_	ARG1
+3	production	production	NN	_	_	_	ARG1
+
+2	security	security	NN	_	_	_	ARG1
+3	service	service	NN	_	_	_	ARG1
+
+2	violin	violin	NN	_	_	_	ARG1
+3	classmates	classmate	NNS	_	_	_	ARG1
+
+2	bond-holders	bond-holder	NNS	_	_	_	ARG1
+3	committee	committee	NN	_	_	_	ARG1
+
+2	contractor	contractor	NN	_	_	_	ARG1
+3	regulations	regulation	NNS	_	_	_	ARG1
+
+2	neighbor	neighbor	NN	_	_	_	ARG1
+3	countries	country	NNS	_	_	_	ARG1
+
+2	government	government	NN	_	_	_	ARG0
+3	activities	activity	NNS	_	_	_	ARG0
+
+2	operating	operating	NN	_	_	_	ARG1
+3	territory	territory	NN	_	_	_	ARG1
+
+2	national-security	national-security	NN	_	_	_	ARG2
+3	causes	cause	VBZ	_	_	_	ARG2
+
+2	school	school	NN	_	_	_	ARG1
+3	tuition	tuition	NN	_	_	_	ARG1
+
+2	cocoa	cocoa	NN	_	_	_	ARG1
+3	producer	producer	NN	_	_	_	ARG1
+
+2	market	market	NN	_	_	_	ARG1
+3	analysis	analysis	NN	_	_	_	ARG1
+
+2	product	product	NN	_	_	_	ARG1
+3	quality	quality	NN	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARGM-PNC
+3	bid	bid	NN	_	_	_	ARGM-PNC
+
+2	bomber	bomber	NN	_	_	_	ARG1
+3	program	program	NN	_	_	_	ARG1
+
+2	trademark	trademark	NN	_	_	_	ARG1
+3	infringement	infringement	NN	_	_	_	ARG1
+
+2	index-options	index-option	NNS	_	_	_	ARG1
+3	trading	trading	NN	_	_	_	ARG1
+
+2	television	television	NN	_	_	_	ARGM-LOC
+3	announcer	announcer	NN	_	_	_	ARGM-LOC
+
+2	Rodeo	Rodeo	NNP	_	_	_	ARGM-TMP
+3	applause	applause	NN	_	_	_	ARGM-TMP
+
+2	operating	operating	NN	_	_	_	ARG1
+3	controls	control	NNS	_	_	_	ARG1
+
+2	account	account	NN	_	_	_	ARG1
+3	executives	executive	NNS	_	_	_	ARG1
+
+2	honors	honor	NNS	_	_	_	ARG1
+3	programs	program	NNS	_	_	_	ARG1
+
+2	share	share	NN	_	_	_	ARG1
+3	exchange	exchange	NN	_	_	_	ARG1
+
+2	talk-show	talk-show	NN	_	_	_	ARG1
+3	host	host	NN	_	_	_	ARG1
+
+2	retailing	retailing	NN	_	_	_	ARG1
+3	industry	industry	NN	_	_	_	ARG1
+
+2	property\/casualty	property\/casualty	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	glass	glass	NN	_	_	_	ARG1
+3	market	market	NN	_	_	_	ARG1
+
+2	petition	petition	NN	_	_	_	ARGM-MNR
+3	drives	drive	NNS	_	_	_	ARGM-MNR
+
+2	software	software	NN	_	_	_	ARG3
+3	standards	standard	NNS	_	_	_	ARG3
+
+2	support	support	NN	_	_	_	ARG1
+3	funds	fund	NNS	_	_	_	ARG1
+
+2	sales	sale	NNS	_	_	_	ARG1
+3	volume	volume	NN	_	_	_	ARG1
+
+2	auction	auction	NN	_	_	_	ARG1
+3	details	detail	NNS	_	_	_	ARG1
+
+2	personal-injury	personal-injury	JJ	_	_	_	ARG1
+3	cases	case	NNS	_	_	_	ARG1
+
+2	fatality	fatality	NN	_	_	_	ARG1
+3	rate	rate	NN	_	_	_	ARG1
+
+2	takeover	takeover	NN	_	_	_	ARG1
+3	finance	finance	NN	_	_	_	ARG1
+
+2	microwave	microwave	NN	_	_	_	ARG1
+3	product	product	NN	_	_	_	ARG1
+
+2	manufacturing-cost	manufacturing-cost	NN	_	_	_	ARG1
+3	controls	control	NNS	_	_	_	ARG1
+
+2	smokestack	smokestack	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	conservation	conservation	NN	_	_	_	ARG2
+3	grounds	grounds	NNS	_	_	_	ARG2
+
+2	barroom	barroom	NN	_	_	_	ARGM-LOC
+3	brawl	brawl	NN	_	_	_	ARGM-LOC
+
+2	state	state	NN	_	_	_	ARG0
+3	commission	commission	NN	_	_	_	ARG0
+
+2	clean-air	clean-air	NN	_	_	_	ARG2
+3	challenge	challenge	NN	_	_	_	ARG2
+
+2	death-sentence	death-sentence	NN	_	_	_	ARG1
+3	case	case	NN	_	_	_	ARG1
+
+2	brand	brand	NN	_	_	_	ARG1
+3	users	user	NNS	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	people	people	NNS	_	_	_	ARG1
+
+2	financial-services	financial-service	NNS	_	_	_	ARG0
+3	company	company	NN	_	_	_	ARG0
+
+2	current	current	JJ	_	_	_	ARGM-TMP
+3	sequester	sequester	VB	_	_	_	ARGM-TMP
+
+2	earnings	earnings	NNS	_	_	_	ARG3
+3	records	record	NNS	_	_	_	ARG3
+
+2	price	price	NN	_	_	_	ARG1
+3	estimates	estimate	NNS	_	_	_	ARG1
+
+2	staff	staff	NN	_	_	_	ARG0
+3	functions	function	NNS	_	_	_	ARG0
+
+2	commodity	commodity	NN	_	_	_	ARG1
+3	operators	operator	NNS	_	_	_	ARG1
+
+2	reorganization	reorganization	NN	_	_	_	ARG1
+3	plan	plan	NN	_	_	_	ARG1
+
+2	Silver	silver	NN	_	_	_	ARG1
+3	prices	price	NNS	_	_	_	ARG1
+
+2	copyright	copyright	NN	_	_	_	ARG1
+3	agreement	agreement	NN	_	_	_	ARG1
+
+2	business	business	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	school-board	school-board	NN	_	_	_	ARG1
+3	member	member	NN	_	_	_	ARG1
+
+2	deputy	deputy	NN	_	_	_	ARG3
+3	chief	chief	NN	_	_	_	ARG3
+
+2	air	air	NN	_	_	_	ARG1
+3	wardens	warden	NNS	_	_	_	ARG1
+
+2	investor	investor	NN	_	_	_	ARG0
+3	activity	activity	NN	_	_	_	ARG0
+
+2	stock	stock	NN	_	_	_	ARG1
+3	certificates	certificate	NNS	_	_	_	ARG1
+
+2	price	price	NN	_	_	_	ARG1
+3	restrictions	restriction	NNS	_	_	_	ARG1
+
+2	pollution-control	pollution-control	JJ	_	_	_	ARG1
+3	bonds	bond	NNS	_	_	_	ARG1
+
+2	banking	banking	NN	_	_	_	ARG1
+3	operation	operation	NN	_	_	_	ARG1
+
+2	cocoa	cocoa	NN	_	_	_	ARG1
+3	products	product	NNS	_	_	_	ARG1
+
+2	rate	rate	NN	_	_	_	ARG1
+3	limits	limit	NNS	_	_	_	ARG1
+
+2	con	con	NN	_	_	_	ARG1
+3	artists	artist	NNS	_	_	_	ARG1
+
+2	transaction	transaction	NN	_	_	_	ARG2
+3	mode	mode	NN	_	_	_	ARG2
+
+2	savings	savings	NNS	_	_	_	ARG1
+3	bonds	bond	NNS	_	_	_	ARG1
+
+2	airline	airline	NN	_	_	_	ARG1
+3	deals	deal	NNS	_	_	_	ARG1
+
+2	investment	investment	NN	_	_	_	ARG1
+3	manager	manager	NN	_	_	_	ARG1
+
+2	foreign-currency	foreign-currency	NN	_	_	_	ARG3
+3	expenditures	expenditure	NNS	_	_	_	ARG3
+
+2	steel	steel	NN	_	_	_	ARG0
+3	support	support	NN	_	_	_	ARG0
+
+2	Coniston	coniston	NN	_	_	_	ARG1
+3	principal	principal	NN	_	_	_	ARG1
+
+2	fastener	fastener	NN	_	_	_	ARG1
+3	operations	operation	NNS	_	_	_	ARG1
+
+2	record	record	NN	_	_	_	ARG3
+3	levels	level	NNS	_	_	_	ARG3
+
+2	strike	strike	NN	_	_	_	ARG1
+3	zone	zone	NN	_	_	_	ARG1
+
+2	light-wave	light-wave	NN	_	_	_	ARG1
+3	system	system	NN	_	_	_	ARG1
+
+2	future	future	JJ	_	_	_	ARGM-TMP
+3	power	power	NN	_	_	_	ARGM-TMP
+
+2	disaster	disaster	NN	_	_	_	ARG3
+3	centers	center	NNS	_	_	_	ARG3
+
+2	export	export	NN	_	_	_	ARG1
+3	strength	strength	NN	_	_	_	ARG1
+
+2	fastener	fastener	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	merger	merger	NN	_	_	_	ARG1
+3	overtures	overture	NNS	_	_	_	ARG1
+
+2	aluminum	aluminum	NN	_	_	_	ARG2
+3	products	product	NNS	_	_	_	ARG2
+
+2	knight	knight	NN	_	_	_	ARG1
+3	sacrifice	sacrifice	NN	_	_	_	ARG1
+
+2	real-estate	real-estate	NN	_	_	_	ARG1
+3	indicators	indicator	NNS	_	_	_	ARG1
+
+2	hard-currency	hard-currency	NN	_	_	_	ARG1
+3	income	income	NN	_	_	_	ARG1
+
+2	freeway	freeway	NN	_	_	_	ARG1
+3	survivor	survivor	NN	_	_	_	ARG1
+
+2	clearing	clearing	NN	_	_	_	ARG1
+3	business	business	NN	_	_	_	ARG1
+
+2	draft	draft	NN	_	_	_	ARG1
+3	evaders	evader	NNS	_	_	_	ARG1
+
+2	pit	pit	NN	_	_	_	ARGM-LOC
+3	trader	trader	NN	_	_	_	ARGM-LOC
+

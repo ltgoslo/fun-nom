@@ -166,7 +166,7 @@ def main():
     argparser.add_argument('-train', help='Path to training split')
     argparser.add_argument('-dev', help='Path to dev split')
     argparser.add_argument('--test', help='Path to test split')
-    argparser.add_argument('--weights', help='Which layer weights to transfer')
+    argparser.add_argument('--weights', help='hdf5 file of the auxiliary model')
     argparser.add_argument('--transfer', choices=['e', 'h', 'eh'],
                            help='''Specifies which weights to load in transfer: 
                                    e: embedding,

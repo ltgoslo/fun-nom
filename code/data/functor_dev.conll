@@ -1,0 +1,2760 @@
+39-2	reform	reform	NN	_	_	_	RSTR
+40-3	efforts	effort	NNS	_	_	_	RSTR
+
+96-2	insurance	insurance	NN	_	_	_	REG
+97-3	agency	agency	NN	_	_	_	REG
+
+99-2	production	production	NN	_	_	_	RSTR
+100-3	strategy	strategy	NN	_	_	_	RSTR
+
+108-2	joint	joint	JJ	_	_	_	RSTR
+109-3	bid	bid	NN	_	_	_	RSTR
+
+129-2	administrator	administrator	NN	_	_	_	RSTR
+130-3	general	general	NN	_	_	_	RSTR
+
+159-2	Information	Information	NNP	_	_	_	APP
+160-3	Order	Order	NNP	_	_	_	APP
+
+171-2	restaurant	restaurant	NN	_	_	_	PAT-arg
+172-3	operator	operator	NN	_	_	_	PAT-arg
+
+180-2	%	%	NN	_	_	_	RSTR
+181-3	rate	rate	NN	_	_	_	RSTR
+
+210-2	share	share	NN	_	_	_	RSTR
+211-3	turnover	turnover	NN	_	_	_	RSTR
+
+249-2	company	company	NN	_	_	_	APP
+250-3	spokesman	spokesman	NN	_	_	_	APP
+
+285-2	insider-trading	insider-trading	NN	_	_	_	RSTR
+286-3	scandal	scandal	NN	_	_	_	RSTR
+
+303-2	oil	oil	NN	_	_	_	REG
+304-3	expert	expert	NN	_	_	_	REG
+
+324-2	vault	vault	NN	_	_	_	PAT-arg
+325-3	supervisor	supervisor	NN	_	_	_	PAT-arg
+
+378-2	chip	chip	NN	_	_	_	APP
+379-3	prices	price	NNS	_	_	_	APP
+
+387-2	driving	drive	VBG	_	_	_	RSTR
+388-3	forces	force	NNS	_	_	_	RSTR
+
+396-2	management	management	NN	_	_	_	PAT-arg
+397-3	shakeup	shakeup	NN	_	_	_	PAT-arg
+
+468-2	airline	airline	NN	_	_	_	APP
+469-3	shares	share	NNS	_	_	_	APP
+
+477-2	autumn	autumn	NN	_	_	_	TWHEN
+478-3	day	day	NN	_	_	_	TWHEN
+
+495-2	gun	gun	NN	_	_	_	RSTR
+496-3	man	man	NN	_	_	_	RSTR
+
+522-2	tissue	tissue	NN	_	_	_	PAT-arg
+523-3	makers	maker	NNS	_	_	_	PAT-arg
+
+540-2	fingerprint	fingerprint	NN	_	_	_	REG
+541-3	services	service	NNS	_	_	_	REG
+
+546-2	aircraft	aircraft	NN	_	_	_	PAT-arg
+547-3	maker	maker	NN	_	_	_	PAT-arg
+
+555-2	patent	patent	NN	_	_	_	PAT-arg
+556-3	award	award	NN	_	_	_	PAT-arg
+
+564-2	nameplate	nameplate	NN	_	_	_	RSTR
+565-3	mania	mania	NN	_	_	_	RSTR
+
+573-2	purchase	purchase	NN	_	_	_	PAT-arg
+574-3	agreement	agreement	NN	_	_	_	PAT-arg
+
+651-2	training	training	NN	_	_	_	RSTR
+652-3	program	program	NN	_	_	_	RSTR
+
+654-2	pilot	pilot	NN	_	_	_	MAT
+655-3	groups	group	NNS	_	_	_	MAT
+
+666-2	market	market	NN	_	_	_	RSTR
+667-3	integrity	integrity	NN	_	_	_	RSTR
+
+675-2	securities	security	NNS	_	_	_	RSTR
+676-3	houses	house	NNS	_	_	_	RSTR
+
+699-2	drug	drug	NN	_	_	_	REG
+700-3	problem	problem	NN	_	_	_	REG
+
+711-2	performance	performance	NN	_	_	_	APP
+712-3	style	style	NN	_	_	_	APP
+
+717-2	party	party	NN	_	_	_	RSTR
+718-3	apparatus	apparatus	NN	_	_	_	RSTR
+
+726-2	auto	auto	NN	_	_	_	REG
+727-3	executives	executive	NNS	_	_	_	REG
+
+741-2	sale	sale	NN	_	_	_	RSTR
+742-3	process	process	NN	_	_	_	RSTR
+
+756-2	investment	investment	NN	_	_	_	PAT-arg
+757-3	stability	stability	NN	_	_	_	PAT-arg
+
+765-2	price\/earnings	price\/earnings	NNS	_	_	_	NONE
+766-3	multiple	multiple	JJ	_	_	_	NONE
+
+774-2	profit-sharing	profit-sharing	JJ	_	_	_	PAT-arg
+775-3	plan	plan	NN	_	_	_	PAT-arg
+
+813-2	state	state	NN	_	_	_	ORIG-arg
+814-3	sources	source	NNS	_	_	_	ORIG-arg
+
+831-2	gas	gas	NN	_	_	_	RSTR
+832-3	rule	rule	NN	_	_	_	RSTR
+
+852-2	semiconductor	semiconductor	NN	_	_	_	RSTR
+853-3	products	product	NNS	_	_	_	RSTR
+
+897-2	trade	trade	NN	_	_	_	RSTR
+898-3	pact	pact	NN	_	_	_	RSTR
+
+906-2	selling	selling	NN	_	_	_	PAT-arg
+907-3	orders	order	NNS	_	_	_	PAT-arg
+
+933-2	Bay	Bay	NNP	_	_	_	APP
+934-3	area	area	NN	_	_	_	APP
+
+987-2	business	business	NN	_	_	_	RSTR
+988-3	activity	activity	NN	_	_	_	RSTR
+
+993-2	household	household	NN	_	_	_	RSTR
+994-3	incomes	income	NNS	_	_	_	RSTR
+
+1017-2	nursing-home	nursing-home	NN	_	_	_	AIM
+1018-3	equipment	equipment	NN	_	_	_	AIM
+
+1029-2	superconductor	superconductor	NN	_	_	_	RSTR
+1030-3	research	research	NN	_	_	_	RSTR
+
+1053-2	work	work	NN	_	_	_	REG
+1054-3	habits	habit	NNS	_	_	_	REG
+
+1068-2	rejection	rejection	NN	_	_	_	RSTR
+1069-3	rates	rate	NNS	_	_	_	RSTR
+
+1095-2	business	business	NN	_	_	_	RSTR
+1096-3	traffic	traffic	NN	_	_	_	RSTR
+
+1125-2	Oil-tool	oil-tool	NN	_	_	_	PAT-arg
+1126-3	prices	price	NNS	_	_	_	PAT-arg
+
+1146-2	Machinists	machinist	NNS	_	_	_	APP
+1147-3	union	union	NN	_	_	_	APP
+
+1149-2	district	district	NN	_	_	_	RSTR
+1150-3	judge	judge	NN	_	_	_	RSTR
+
+1158-2	Price	price	NN	_	_	_	PAT-arg
+1159-3	talk	talk	NN	_	_	_	PAT-arg
+
+1197-2	weapons	weapon	NNS	_	_	_	RSTR
+1198-3	system	system	NN	_	_	_	RSTR
+
+1227-2	telephone-information	telephone-information	NN	_	_	_	RSTR
+1228-3	operator	operator	NN	_	_	_	RSTR
+
+1233-2	support	support	NN	_	_	_	RSTR
+1234-3	areas	area	NNS	_	_	_	RSTR
+
+1239-2	earnings	earnings	NNS	_	_	_	ACT-arg
+1240-3	increase	increase	NN	_	_	_	ACT-arg
+
+1305-2	steel	steel	NN	_	_	_	RSTR
+1306-3	mill	mill	NN	_	_	_	RSTR
+
+1350-2	beauty	beauty	NN	_	_	_	APP
+1351-3	queen	queen	NN	_	_	_	APP
+
+1362-2	equity	equity	NN	_	_	_	RSTR
+1363-3	investor	investor	NN	_	_	_	RSTR
+
+1395-2	job-classification	job-classification	NN	_	_	_	PAT-arg
+1396-3	dispute	dispute	NN	_	_	_	PAT-arg
+
+1422-2	cement	cement	NN	_	_	_	RSTR
+1423-3	mixers	mixer	NNS	_	_	_	RSTR
+
+1458-2	carrier	carrier	NN	_	_	_	REG
+1459-3	business	business	NN	_	_	_	REG
+
+1461-2	analyst	analyst	NN	_	_	_	ACT-arg
+1462-3	expectations	expectation	NNS	_	_	_	ACT-arg
+
+1479-2	family	family	NN	_	_	_	APP
+1480-3	name	name	NN	_	_	_	APP
+
+1503-2	toy	toy	NN	_	_	_	PAT-arg
+1504-3	retailer	retailer	NN	_	_	_	PAT-arg
+
+1509-2	television	television	NN	_	_	_	REG
+1510-3	industry	industry	NN	_	_	_	REG
+
+1548-2	birth	birth	NN	_	_	_	RSTR
+1549-3	certificate	certificate	NN	_	_	_	RSTR
+
+1566-2	spring	spring	NN	_	_	_	TWHEN
+1567-3	training	training	NN	_	_	_	TWHEN
+
+1569-2	fiberglass	fiberglass	NNS	_	_	_	PAT-arg
+1570-3	factory	factory	NN	_	_	_	PAT-arg
+
+1614-2	earnings	earnings	NNS	_	_	_	APP
+1615-3	stream	stream	NN	_	_	_	APP
+
+1629-2	farm	farm	NN	_	_	_	RSTR
+1630-3	sector	sector	NN	_	_	_	RSTR
+
+1641-2	withdrawal	withdrawal	NN	_	_	_	PAT-arg
+1642-3	announcement	announcement	NN	_	_	_	PAT-arg
+
+1665-2	mountain	mountain	NN	_	_	_	RSTR
+1666-3	grades	grade	NNS	_	_	_	RSTR
+
+1710-2	videoconferencing	videoconferencing	NN	_	_	_	RSTR
+1711-3	systems	system	NNS	_	_	_	RSTR
+
+1713-2	housing	housing	NN	_	_	_	REG
+1714-3	law	law	NN	_	_	_	REG
+
+1743-2	design	design	NN	_	_	_	APP
+1744-3	standards	standard	NNS	_	_	_	APP
+
+1749-2	electronics	electronics	NNS	_	_	_	PAT-arg
+1750-3	retailer	retailer	NN	_	_	_	PAT-arg
+
+1773-2	lung-cancer	lung-cancer	JJ	_	_	_	RSTR
+1774-3	rates	rate	NNS	_	_	_	RSTR
+
+1776-2	evacuation	evacuation	NN	_	_	_	RSTR
+1777-3	alarm	alarm	NN	_	_	_	RSTR
+
+1803-2	selling	selling	NN	_	_	_	REG
+1804-3	frenzy	frenzy	NN	_	_	_	REG
+
+1848-2	bank	bank	NN	_	_	_	RSTR
+1849-3	funds	fund	NNS	_	_	_	RSTR
+
+1863-2	operating	operating	NN	_	_	_	PAT-arg
+1864-3	rights	rights	NNS	_	_	_	PAT-arg
+
+1881-2	premium	premium	NN	_	_	_	RSTR
+1882-3	rates	rate	NNS	_	_	_	RSTR
+
+1884-2	Currency	Currency	NNP	_	_	_	RSTR
+1885-3	concerns	concern	NNS	_	_	_	RSTR
+
+1908-2	circuit-board	circuit-board	NN	_	_	_	RSTR
+1909-3	manufacturer	manufacturer	NN	_	_	_	RSTR
+
+1947-2	sensible	sensible	JJ	_	_	_	RSTR
+1948-3	prices	price	NNS	_	_	_	RSTR
+
+1971-2	college	college	NN	_	_	_	EFF-arg
+1972-3	expenses	expense	NNS	_	_	_	EFF-arg
+
+1998-2	thrift-bailout	thrift-bailout	JJ	_	_	_	REG
+1999-3	legislation	legislation	NN	_	_	_	REG
+
+2001-2	software	software	NN	_	_	_	RSTR
+2002-3	inventories	inventory	NNS	_	_	_	RSTR
+
+2010-2	image	image	NN	_	_	_	REG
+2011-3	software	software	NN	_	_	_	REG
+
+2016-2	Balloon	balloon	NN	_	_	_	RSTR
+2017-3	flights	flight	NNS	_	_	_	RSTR
+
+2022-2	missile	missile	NN	_	_	_	PAT-arg
+2023-3	projects	project	NNS	_	_	_	PAT-arg
+
+2142-2	research	research	NN	_	_	_	DIR3
+2143-3	investment	investment	NN	_	_	_	DIR3
+
+2148-2	milling	milling	NN	_	_	_	AIM
+2149-3	machines	machine	NNS	_	_	_	AIM
+
+2166-2	battery	battery	NN	_	_	_	RSTR
+2167-3	life	life	NN	_	_	_	RSTR
+
+2199-2	shipping	shipping	NN	_	_	_	ACT-arg
+2200-3	costs	cost	NNS	_	_	_	ACT-arg
+
+2259-2	tax	tax	NN	_	_	_	RSTR
+2260-3	rolls	roll	NNS	_	_	_	RSTR
+
+2268-2	rescue	rescue	NN	_	_	_	RSTR
+2269-3	teams	team	NNS	_	_	_	RSTR
+
+2283-2	brain	brain	NN	_	_	_	RSTR
+2284-3	hormone	hormone	NN	_	_	_	RSTR
+
+2301-2	construction	construction	NN	_	_	_	REG
+2302-3	work	work	NN	_	_	_	REG
+
+2304-2	FAMILY	family	NN	_	_	_	RSTR
+2305-3	PETS	pet	NNS	_	_	_	RSTR
+
+2325-2	earnings	earnings	NNS	_	_	_	REG
+2326-3	numbers	number	NNS	_	_	_	REG
+
+2343-2	S&L	s&l	NN	_	_	_	RSTR
+2344-3	rescue	rescue	NN	_	_	_	RSTR
+
+2355-2	franchise	franchise	NN	_	_	_	RSTR
+2356-3	tax	tax	NN	_	_	_	RSTR
+
+2397-2	massage	massage	NN	_	_	_	RSTR
+2398-3	therapists	therapist	NNS	_	_	_	RSTR
+
+2415-2	earnings	earnings	NNS	_	_	_	PAT-arg
+2416-3	upturn	upturn	NN	_	_	_	PAT-arg
+
+2430-2	market	market	NN	_	_	_	ACT-arg
+2431-3	rebound	rebound	NN	_	_	_	ACT-arg
+
+2433-2	trade	trade	NN	_	_	_	PAT-arg
+2434-3	negotiators	negotiator	NNS	_	_	_	PAT-arg
+
+2538-2	employer	employer	NN	_	_	_	APP
+2539-3	share	share	NN	_	_	_	APP
+
+2553-2	call	call	NN	_	_	_	PAT-arg
+2554-3	processor	processor	NN	_	_	_	PAT-arg
+
+2646-2	refugee-assistance	refugee-assistance	NN	_	_	_	RSTR
+2647-3	center	center	NN	_	_	_	RSTR
+
+2667-2	underwriting	underwriting	NN	_	_	_	RSTR
+2668-3	business	business	NN	_	_	_	RSTR
+
+2718-2	shipping	shipping	NN	_	_	_	RSTR
+2719-3	firms	firm	NNS	_	_	_	RSTR
+
+2778-2	open-door	open-door	JJ	_	_	_	RSTR
+2779-3	policy	policy	NN	_	_	_	RSTR
+
+2802-2	dart	dart	NN	_	_	_	RSTR
+2803-3	throwers	thrower	NNS	_	_	_	RSTR
+
+2811-2	trade	trade	NN	_	_	_	REG
+2812-3	debate	debate	NN	_	_	_	REG
+
+2886-2	microbe	microbe	NN	_	_	_	PAT-arg
+2887-3	hunters	hunter	NNS	_	_	_	PAT-arg
+
+2925-2	block	block	NN	_	_	_	RSTR
+2926-3	trader	trader	NN	_	_	_	RSTR
+
+2967-2	Casino	Casino	NNP	_	_	_	APP
+2968-3	revenues	revenue	NNS	_	_	_	APP
+
+3018-2	personnel	personnel	NNS	_	_	_	PAT-arg
+3019-3	training	training	NN	_	_	_	PAT-arg
+
+3024-2	equipment	equipment	NN	_	_	_	PAT-arg
+3025-3	sales	sale	NNS	_	_	_	PAT-arg
+
+3039-2	drug	drug	NN	_	_	_	RSTR
+3040-3	use	use	NN	_	_	_	RSTR
+
+3081-2	bestseller	bestseller	NN	_	_	_	MAT
+3082-3	lists	list	NNS	_	_	_	MAT
+
+3144-2	thigh	thigh	NN	_	_	_	RSTR
+3145-3	muscles	muscle	NNS	_	_	_	RSTR
+
+3168-2	asset	asset	NN	_	_	_	PAT-arg
+3169-3	manager	manager	NN	_	_	_	PAT-arg
+
+3174-2	island	island	NN	_	_	_	RSTR
+3175-3	geography	geography	NN	_	_	_	RSTR
+
+3198-2	wine	wine	NN	_	_	_	RSTR
+3199-3	market	market	NN	_	_	_	RSTR
+
+3201-2	transportation	transportation	NN	_	_	_	PAT-arg
+3202-3	law	law	NN	_	_	_	PAT-arg
+
+3207-2	investment	investment	NN	_	_	_	REG
+3208-3	companies	company	NNS	_	_	_	REG
+
+3270-2	psyllium	psyllium	NN	_	_	_	PAT-arg
+3271-3	prices	price	NNS	_	_	_	PAT-arg
+
+3288-2	staying	stay	VBG	_	_	_	RSTR
+3289-3	power	power	NN	_	_	_	RSTR
+
+3306-2	pension	pension	NN	_	_	_	RSTR
+3307-3	insurance	insurance	NN	_	_	_	RSTR
+
+3309-2	international-operations	international-operations	JJ	_	_	_	RSTR
+3310-3	headquarters	headquarters	NN	_	_	_	RSTR
+
+3312-2	safety	safety	NN	_	_	_	REG
+3313-3	features	feature	NNS	_	_	_	REG
+
+3351-2	baseball	baseball	NN	_	_	_	RSTR
+3352-3	history	history	NN	_	_	_	RSTR
+
+3372-2	electronics	electronics	NNS	_	_	_	RSTR
+3373-3	parts	part	NNS	_	_	_	RSTR
+
+3435-2	down	down	JJ	_	_	_	RSTR
+3436-3	market	market	NN	_	_	_	RSTR
+
+3438-2	acquisition	acquisition	NN	_	_	_	RSTR
+3439-3	group	group	NN	_	_	_	RSTR
+
+3441-2	cigarette	cigarette	NN	_	_	_	PAT-arg
+3442-3	smoking	smoking	NN	_	_	_	PAT-arg
+
+3447-2	president	president	NN	_	_	_	RSTR
+3448-3	judge	judge	NN	_	_	_	RSTR
+
+3459-2	inflation	inflation	NN	_	_	_	REG
+3460-3	problem	problem	NN	_	_	_	REG
+
+3534-2	order-imbalance	order-imbalance	NN	_	_	_	RSTR
+3535-3	problem	problem	NN	_	_	_	RSTR
+
+3537-2	research	research	NN	_	_	_	PAT-arg
+3538-3	program	program	NN	_	_	_	PAT-arg
+
+3549-2	information	information	NN	_	_	_	RSTR
+3550-3	service	service	NN	_	_	_	RSTR
+
+3561-2	student	student	NN	_	_	_	APP
+3562-3	discipline	discipline	NN	_	_	_	APP
+
+3585-2	third-quarter	third-quarter	JJ	_	_	_	THL
+3586-3	performance	performance	NN	_	_	_	THL
+
+3591-2	oil	oil	NN	_	_	_	PAT-arg
+3592-3	refinery	refinery	NN	_	_	_	PAT-arg
+
+3630-2	apparel	apparel	NN	_	_	_	PAT-arg
+3631-3	sales	sale	NNS	_	_	_	PAT-arg
+
+3672-2	heart	heart	NN	_	_	_	RSTR
+3673-3	disease	disease	NN	_	_	_	RSTR
+
+3675-2	Class	class	NN	_	_	_	RSTR
+3676-3	B	b	NN	_	_	_	RSTR
+
+3774-2	world	world	NN	_	_	_	RSTR
+3775-3	environment	environment	NN	_	_	_	RSTR
+
+3783-2	labor-management	labor-management	JJ	_	_	_	RSTR
+3784-3	buy-out	buy-out	NN	_	_	_	RSTR
+
+3819-2	consuming	consuming	JJ	_	_	_	RSTR
+3820-3	industries	industry	NNS	_	_	_	RSTR
+
+3855-2	operating	operating	NN	_	_	_	RSTR
+3856-3	centers	center	NNS	_	_	_	RSTR
+
+4011-2	market	market	NN	_	_	_	RSTR
+4012-3	incentives	incentive	NNS	_	_	_	RSTR
+
+4023-2	quake	quake	NN	_	_	_	RSTR
+4024-3	ad	ad	NN	_	_	_	RSTR
+
+4032-2	television	television	NN	_	_	_	MEANS
+4033-3	ads	ad	NNS	_	_	_	MEANS
+
+4071-2	committee	committee	NN	_	_	_	RSTR
+4072-3	approval	approval	NN	_	_	_	RSTR
+
+4086-2	image	image	NN	_	_	_	PAT-arg
+4087-3	polishing	polishing	NN	_	_	_	PAT-arg
+
+4110-2	sales	sale	NNS	_	_	_	PAT-arg
+4111-3	losses	loss	NNS	_	_	_	PAT-arg
+
+4113-2	life	life	NN	_	_	_	PAT-arg
+4114-3	insurer	insurer	NN	_	_	_	PAT-arg
+
+4125-2	Treasury	Treasury	NNP	_	_	_	RSTR
+4126-3	counterparts	counterpart	NNS	_	_	_	RSTR
+
+4134-2	TV	tv	NN	_	_	_	RSTR
+4135-3	business	business	NN	_	_	_	RSTR
+
+4161-2	tax	tax	NN	_	_	_	PAT-arg
+4162-3	reductions	reduction	NNS	_	_	_	PAT-arg
+
+4188-2	ski-industry	ski-industry	NN	_	_	_	RSTR
+4189-3	executive	executive	NN	_	_	_	RSTR
+
+4254-2	group	group	NN	_	_	_	ACT-arg
+4255-3	sales	sale	NNS	_	_	_	ACT-arg
+
+4290-2	dairy	dairy	NN	_	_	_	RSTR
+4291-3	products	product	NNS	_	_	_	RSTR
+
+4302-2	contract	contract	NN	_	_	_	RSTR
+4303-3	appeals	appeal	NNS	_	_	_	RSTR
+
+4305-2	heart	heart	NN	_	_	_	APP
+4306-3	rate	rate	NN	_	_	_	APP
+
+4308-2	Copyright	copyright	NN	_	_	_	PAT-arg
+4309-3	specialist	specialist	NN	_	_	_	PAT-arg
+
+4353-2	computer	computer	NN	_	_	_	PAT-arg
+4354-3	retailers	retailer	NNS	_	_	_	PAT-arg
+
+4377-2	exchange	exchange	NN	_	_	_	RSTR
+4378-3	rules	rule	NNS	_	_	_	RSTR
+
+4380-2	trial	trial	NN	_	_	_	RSTR
+4381-3	dates	date	NNS	_	_	_	RSTR
+
+4401-2	Yankee	Yankee	NNP	_	_	_	RSTR
+4402-3	look	look	NN	_	_	_	RSTR
+
+4425-2	commission	commission	NN	_	_	_	ACT-arg
+4426-3	costs	cost	NNS	_	_	_	ACT-arg
+
+4476-2	clothing	clothing	NN	_	_	_	PAT-arg
+4477-3	maker	maker	NN	_	_	_	PAT-arg
+
+4515-2	replacement	replacement	NN	_	_	_	APP
+4516-3	cost	cost	NN	_	_	_	APP
+
+4530-2	settlement	settlement	NN	_	_	_	RSTR
+4531-3	talks	talk	NNS	_	_	_	RSTR
+
+4536-2	bankruptcy-law	bankruptcy-law	NN	_	_	_	CRIT
+4537-3	protection	protection	NN	_	_	_	CRIT
+
+4578-2	court	court	NN	_	_	_	RSTR
+4579-3	system	system	NN	_	_	_	RSTR
+
+4581-2	entertainment	entertainment	NN	_	_	_	RSTR
+4582-3	powerhouse	powerhouse	NN	_	_	_	RSTR
+
+4584-2	safety	safety	NN	_	_	_	PAT-arg
+4585-3	violations	violation	NNS	_	_	_	PAT-arg
+
+4641-2	collateral	collateral	NN	_	_	_	RSTR
+4642-3	polices	police	NNS	_	_	_	RSTR
+
+4647-2	transportation	transportation	NN	_	_	_	RSTR
+4648-3	system	system	NN	_	_	_	RSTR
+
+4650-2	passport	passport	NN	_	_	_	RSTR
+4651-3	number	number	NN	_	_	_	RSTR
+
+4701-2	trading	trading	NN	_	_	_	RSTR
+4702-3	days	day	NNS	_	_	_	RSTR
+
+4728-2	psyllium	psyllium	NN	_	_	_	RSTR
+4729-3	boom	boom	NN	_	_	_	RSTR
+
+4731-2	power-surge	power-surge	JJ	_	_	_	RSTR
+4732-3	protectors	protector	NNS	_	_	_	RSTR
+
+4740-2	information	information	NN	_	_	_	RSTR
+4741-3	mode	mode	NN	_	_	_	RSTR
+
+4773-2	news	news	NN	_	_	_	PAT-arg
+4774-3	summary	summary	NN	_	_	_	PAT-arg
+
+4782-2	lieutenant	lieutenant	NN	_	_	_	RSTR
+4783-3	governor	governor	NN	_	_	_	RSTR
+
+4794-2	information-services	information-service	NNS	_	_	_	RSTR
+4795-3	company	company	NN	_	_	_	RSTR
+
+4887-2	company	company	NN	_	_	_	APP
+4888-3	affairs	affair	NNS	_	_	_	APP
+
+4908-2	personal-computer	personal-computer	NN	_	_	_	PAT-arg
+4909-3	market	market	NN	_	_	_	PAT-arg
+
+4914-2	appropriations	appropriation	NNS	_	_	_	RSTR
+4915-3	clause	clause	NN	_	_	_	RSTR
+
+4953-2	cosmetics	cosmetic	NNS	_	_	_	RSTR
+4954-3	retailing	retailing	NN	_	_	_	RSTR
+
+5001-2	marketing	marketing	NN	_	_	_	RSTR
+5002-3	manager	manager	NN	_	_	_	RSTR
+
+5019-2	cattle	cattle	NNS	_	_	_	RSTR
+5020-3	inventory	inventory	NN	_	_	_	RSTR
+
+5025-2	production	production	NN	_	_	_	PAT-arg
+5026-3	halt	halt	NN	_	_	_	PAT-arg
+
+5031-2	securities	security	NNS	_	_	_	PAT-arg
+5032-3	analysis	analysis	NN	_	_	_	PAT-arg
+
+5037-2	summer	summer	NN	_	_	_	TWHEN
+5038-3	doldrums	doldrums	NN	_	_	_	TWHEN
+
+5043-2	purchase	purchase	NN	_	_	_	PAT-arg
+5044-3	options	option	NNS	_	_	_	PAT-arg
+
+5067-2	share	share	NN	_	_	_	PAT-arg
+5068-3	sales	sale	NNS	_	_	_	PAT-arg
+
+5079-2	diamond	diamond	NN	_	_	_	RSTR
+5080-3	mines	mine	NNS	_	_	_	RSTR
+
+5082-2	brokerage	brokerage	NN	_	_	_	RSTR
+5083-3	group	group	NN	_	_	_	RSTR
+
+5160-2	drawing	drawing	NN	_	_	_	RSTR
+5161-3	rights	rights	NNS	_	_	_	RSTR
+
+5163-2	enforcement	enforcement	NN	_	_	_	AIM
+5164-3	teams	team	NNS	_	_	_	AIM
+
+5196-2	housing	housing	NN	_	_	_	REG
+5197-3	problem	problem	NN	_	_	_	REG
+
+5205-2	profitability	profitability	NN	_	_	_	RSTR
+5206-3	test	test	NN	_	_	_	RSTR
+
+5238-2	consumption	consumption	NN	_	_	_	RSTR
+5239-3	tax	tax	NN	_	_	_	RSTR
+
+5274-2	bridge	bridge	NN	_	_	_	ACT-arg
+5275-3	collapse	collapse	NN	_	_	_	ACT-arg
+
+5322-2	natural-gas	natural-gas	NN	_	_	_	PAT-arg
+5323-3	sales	sale	NNS	_	_	_	PAT-arg
+
+5370-2	reinsurance	reinsurance	NN	_	_	_	PAT-arg
+5371-3	mechanism	mechanism	NN	_	_	_	PAT-arg
+
+5385-2	stock	stock	NN	_	_	_	ACT-arg
+5386-3	activity	activity	NN	_	_	_	ACT-arg
+
+5397-2	revenue	revenue	NN	_	_	_	PAT-arg
+5398-3	contribution	contribution	NN	_	_	_	PAT-arg
+
+5406-2	spirits	spirit	NNS	_	_	_	AIM
+5407-3	division	division	NN	_	_	_	AIM
+
+5418-2	life	life	NN	_	_	_	RSTR
+5419-3	expectancy	expectancy	NN	_	_	_	RSTR
+
+5463-2	washing	wash	VBG	_	_	_	RSTR
+5464-3	machine	machine	NN	_	_	_	RSTR
+
+5475-2	plant	plant	NN	_	_	_	PAT-arg
+5476-3	delay	delay	NN	_	_	_	PAT-arg
+
+5517-2	landing	landing	NN	_	_	_	PAT-arg
+5518-3	rights	rights	NNS	_	_	_	PAT-arg
+
+5532-2	investment	investment	NN	_	_	_	ORIG-arg
+5533-3	returns	return	NNS	_	_	_	ORIG-arg
+
+5541-2	auto-industry	auto-industry	NN	_	_	_	RSTR
+5542-3	union	union	NN	_	_	_	RSTR
+
+5547-2	construction	construction	NN	_	_	_	RSTR
+5548-3	contracts	contract	NNS	_	_	_	RSTR
+
+5550-2	engine	engine	NN	_	_	_	APP
+5551-3	life	life	NN	_	_	_	APP
+
+5592-2	tobacco	tobacco	NN	_	_	_	AIM
+5593-3	conglomerate	conglomerate	NN	_	_	_	AIM
+
+5601-2	road	road	NN	_	_	_	PAT-arg
+5602-3	maintenance	maintenance	NN	_	_	_	PAT-arg
+
+5631-2	university	university	NN	_	_	_	RSTR
+5632-3	official	official	NN	_	_	_	RSTR
+
+5634-2	new-product	new-product	NN	_	_	_	PAT-arg
+5635-3	development	development	NN	_	_	_	PAT-arg
+
+5724-2	steel	steel	NN	_	_	_	PAT-arg
+5725-3	shipments	shipment	NNS	_	_	_	PAT-arg
+
+5763-2	fund	fund	NN	_	_	_	RSTR
+5764-3	share	share	NN	_	_	_	RSTR
+
+5826-2	financing	financing	NN	_	_	_	RSTR
+5827-3	structure	structure	NN	_	_	_	RSTR
+
+5862-2	patent	patent	NN	_	_	_	REG
+5863-3	disputes	dispute	NNS	_	_	_	REG
+
+5901-2	handling	handling	NN	_	_	_	RSTR
+5902-3	equipment	equipment	NN	_	_	_	RSTR
+
+5910-2	investor	investor	NN	_	_	_	ACT-arg
+5911-3	demand	demand	NN	_	_	_	ACT-arg
+
+5922-2	bank	bank	NN	_	_	_	REG
+5923-3	secrecy	secrecy	NN	_	_	_	REG
+
+5958-2	cash	cash	NN	_	_	_	RSTR
+5959-3	bonuses	bonus	NNS	_	_	_	RSTR
+
+5988-2	radar	radar	NN	_	_	_	RSTR
+5989-3	signals	signal	NNS	_	_	_	RSTR
+
+6021-2	restructuring	restructuring	NN	_	_	_	REG
+6022-3	agreement	agreement	NN	_	_	_	REG
+
+6054-2	field	field	NN	_	_	_	RSTR
+6055-3	workers	worker	NNS	_	_	_	RSTR
+
+6060-2	employee	employee	NN	_	_	_	BEN
+6061-3	stake	stake	NN	_	_	_	BEN
+
+6072-2	forest	forest	NN	_	_	_	RSTR
+6073-3	fires	fire	NNS	_	_	_	RSTR
+
+6081-2	specialty	specialty	NN	_	_	_	REG
+6082-3	shops	shop	NNS	_	_	_	REG
+
+6096-2	program	program	NN	_	_	_	RSTR
+6097-3	operation	operation	NN	_	_	_	RSTR
+
+6102-2	accounting	accounting	NN	_	_	_	RSTR
+6103-3	practice	practice	NN	_	_	_	RSTR
+
+6111-2	health	health	NN	_	_	_	REG
+6112-3	concerns	concern	NNS	_	_	_	REG
+
+6180-2	royalty	royalty	NN	_	_	_	RSTR
+6181-3	income	income	NN	_	_	_	RSTR
+
+6192-2	packaging	packaging	NN	_	_	_	RSTR
+6193-3	company	company	NN	_	_	_	RSTR
+
+6237-2	mood	mood	NN	_	_	_	ACT-arg
+6238-3	changes	change	NNS	_	_	_	ACT-arg
+
+6285-2	housing	housing	NN	_	_	_	APP
+6286-3	stock	stock	NN	_	_	_	APP
+
+6306-2	real-estate	real-estate	NN	_	_	_	PAT-arg
+6307-3	reforms	reform	NNS	_	_	_	PAT-arg
+
+6342-2	chemicals-industry	chemicals-industry	NN	_	_	_	PAT-arg
+6343-3	analyst	analyst	NN	_	_	_	PAT-arg
+
+6348-2	District	District	NNP	_	_	_	RSTR
+6349-3	police	police	NN	_	_	_	RSTR
+
+6357-2	countermeasures	countermeasure	NNS	_	_	_	REG
+6358-3	system	system	NN	_	_	_	REG
+
+6360-2	shipbuilding	shipbuilding	NN	_	_	_	RSTR
+6361-3	operations	operation	NNS	_	_	_	RSTR
+
+6375-2	quake	quake	NN	_	_	_	ADDR-arg
+6376-3	exposure	exposure	NN	_	_	_	ADDR-arg
+
+6387-2	reporting	reporting	NN	_	_	_	PAT-arg
+6388-3	requirement	requirement	NN	_	_	_	PAT-arg
+
+6426-2	adjudicator	adjudicator	NN	_	_	_	RSTR
+6427-3	system	system	NN	_	_	_	RSTR
+
+6429-2	sporting-goods	sporting-goods	NNS	_	_	_	RSTR
+6430-3	store	store	NN	_	_	_	RSTR
+
+6495-2	writing	write	VBG	_	_	_	RSTR
+6496-3	style	style	NN	_	_	_	RSTR
+
+6588-2	apparel	apparel	NN	_	_	_	RSTR
+6589-3	stores	store	NNS	_	_	_	RSTR
+
+6597-2	capital-gains	capital-gain	NNS	_	_	_	PAT-arg
+6598-3	provision	provision	NN	_	_	_	PAT-arg
+
+6603-2	drug	drug	NN	_	_	_	PAT-arg
+6604-3	manufacturers	manufacturer	NNS	_	_	_	PAT-arg
+
+6693-2	credit-rating	credit-rating	JJ	_	_	_	REG
+6694-3	business	business	NN	_	_	_	REG
+
+6699-2	quarterback	quarterback	NN	_	_	_	RSTR
+6700-3	sack	sack	NN	_	_	_	RSTR
+
+6702-2	campaign	campaign	NN	_	_	_	PAT-arg
+6703-3	manager	manager	NN	_	_	_	PAT-arg
+
+6777-2	hog	hog	NN	_	_	_	REG
+6778-3	farms	farm	NNS	_	_	_	REG
+
+6801-2	class	class	NN	_	_	_	RSTR
+6802-3	action	action	NN	_	_	_	RSTR
+
+6816-2	intelligence	intelligence	NN	_	_	_	RSTR
+6817-3	operations	operation	NNS	_	_	_	RSTR
+
+6828-2	guarantee	guarantee	NN	_	_	_	APP
+6829-3	period	period	NN	_	_	_	APP
+
+6852-2	trading	trading	NN	_	_	_	RSTR
+6853-3	halts	halt	NNS	_	_	_	RSTR
+
+6882-2	share	share	NN	_	_	_	PAT-arg
+6883-3	repurchase	repurchase	NN	_	_	_	PAT-arg
+
+6897-2	insurance	insurance	NN	_	_	_	RSTR
+6898-3	division	division	NN	_	_	_	RSTR
+
+6927-2	banking	banking	NN	_	_	_	RSTR
+6928-3	debacles	debacle	NNS	_	_	_	RSTR
+
+6942-2	planning	planning	NN	_	_	_	RSTR
+6943-3	process	process	NN	_	_	_	RSTR
+
+6957-2	lobster	lobster	NN	_	_	_	PAT-arg
+6958-3	trap	trap	NN	_	_	_	PAT-arg
+
+6960-2	grant	grant	NN	_	_	_	APP
+6961-3	system	system	NN	_	_	_	APP
+
+7008-2	pesticide	pesticide	NN	_	_	_	PAT-arg
+7009-3	use	use	NN	_	_	_	PAT-arg
+
+7011-2	dialysis	dialysis	NN	_	_	_	RSTR
+7012-3	patients	patient	NNS	_	_	_	RSTR
+
+7026-2	credit	credit	NN	_	_	_	RSTR
+7027-3	service	service	NN	_	_	_	RSTR
+
+7050-2	credit	credit	NN	_	_	_	RSTR
+7051-3	market	market	NN	_	_	_	RSTR
+
+7065-2	veto	veto	NN	_	_	_	RSTR
+7066-3	strategy	strategy	NN	_	_	_	RSTR
+
+7152-2	provision	provision	NN	_	_	_	APP
+7153-3	rate	rate	NN	_	_	_	APP
+
+7155-2	road	road	NN	_	_	_	RSTR
+7156-3	show	show	NN	_	_	_	RSTR
+
+7197-2	equity	equity	NN	_	_	_	RSTR
+7198-3	partners	partner	NNS	_	_	_	RSTR
+
+7200-2	coaching	coaching	NN	_	_	_	RSTR
+7201-3	aids	aid	NNS	_	_	_	RSTR
+
+7236-2	limb	limb	NN	_	_	_	RSTR
+7237-3	function	function	NN	_	_	_	RSTR
+
+7245-2	software	software	NN	_	_	_	RSTR
+7246-3	vendor	vendor	NN	_	_	_	RSTR
+
+7248-2	truck	truck	NN	_	_	_	RSTR
+7249-3	engines	engine	NNS	_	_	_	RSTR
+
+7281-2	aviation	aviation	NN	_	_	_	RSTR
+7282-3	show	show	NN	_	_	_	RSTR
+
+7353-2	processing	processing	NN	_	_	_	AIM
+7354-3	plant	plant	NN	_	_	_	AIM
+
+7386-2	cash	cash	NN	_	_	_	RSTR
+7387-3	interpretation	interpretation	NN	_	_	_	RSTR
+
+7404-2	spring	spring	NN	_	_	_	TWHEN
+7405-3	conference	conference	NN	_	_	_	TWHEN
+
+7506-2	bond	bond	NN	_	_	_	RSTR
+7507-3	executive	executive	NN	_	_	_	RSTR
+
+7557-2	infertility	infertility	NN	_	_	_	REG
+7558-3	problems	problem	NNS	_	_	_	REG
+
+7560-2	hardware	hardware	NN	_	_	_	RSTR
+7561-3	business	business	NN	_	_	_	RSTR
+
+7572-2	entertainment	entertainment	NN	_	_	_	PAT-arg
+7573-3	choices	choice	NNS	_	_	_	PAT-arg
+
+7584-2	underwear	underwear	NN	_	_	_	RSTR
+7585-3	products	product	NNS	_	_	_	RSTR
+
+7593-2	airline	airline	NN	_	_	_	APP
+7594-3	bureaucracy	bureaucracy	NN	_	_	_	APP
+
+7620-2	sales	sale	NNS	_	_	_	ACT-arg
+7621-3	depression	depression	NN	_	_	_	ACT-arg
+
+7647-2	stock	stock	NN	_	_	_	APP
+7648-3	values	value	NNS	_	_	_	APP
+
+7650-2	debt	debt	NN	_	_	_	PAT-arg
+7651-3	issuer	issuer	NN	_	_	_	PAT-arg
+
+7668-2	state	state	NN	_	_	_	RSTR
+7669-3	spending	spending	NN	_	_	_	RSTR
+
+7671-2	auto	auto	NN	_	_	_	RSTR
+7672-3	loans	loan	NNS	_	_	_	RSTR
+
+7680-2	job	job	NN	_	_	_	PAT-arg
+7681-3	search	search	NN	_	_	_	PAT-arg
+
+7716-2	telephone	telephone	NN	_	_	_	RSTR
+7717-3	network	network	NN	_	_	_	RSTR
+
+7734-2	loss	loss	NN	_	_	_	PAT-arg
+7735-3	coverage	coverage	NN	_	_	_	PAT-arg
+
+7746-2	capital-punishment	capital-punishment	NN	_	_	_	RSTR
+7747-3	law	law	NN	_	_	_	RSTR
+
+7776-2	financing	financing	NN	_	_	_	RSTR
+7777-3	resources	resource	NNS	_	_	_	RSTR
+
+7782-2	tire	tire	NN	_	_	_	RSTR
+7783-3	unit	unit	NN	_	_	_	RSTR
+
+7794-2	tax	tax	NN	_	_	_	PAT-arg
+7795-3	laws	law	NNS	_	_	_	PAT-arg
+
+7824-2	dividend	dividend	NN	_	_	_	PAT-arg
+7825-3	cut	cut	NN	_	_	_	PAT-arg
+
+7830-2	tax	tax	NN	_	_	_	RSTR
+7831-3	charges	charge	NNS	_	_	_	RSTR
+
+7842-2	inflation-growth	inflation-growth	NN	_	_	_	REG
+7843-3	argument	argument	NN	_	_	_	REG
+
+7884-2	chlorine	chlorine	NN	_	_	_	RSTR
+7885-3	derivatives	derivative	NNS	_	_	_	RSTR
+
+7983-2	plaintiffs	plaintiff	NNS	_	_	_	APP
+7984-3	lawyer	lawyer	NN	_	_	_	APP
+
+8004-2	cereal	cereal	NN	_	_	_	PAT-arg
+8005-3	maker	maker	NN	_	_	_	PAT-arg
+
+8046-2	restaurant	restaurant	NN	_	_	_	RSTR
+8047-3	murders	murder	NNS	_	_	_	RSTR
+
+8067-2	vehicle	vehicle	NN	_	_	_	PAT-arg
+8068-3	interiors	interior	NNS	_	_	_	PAT-arg
+
+8154-2	fee	fee	NN	_	_	_	PAT-arg
+8155-3	seizures	seizure	NNS	_	_	_	PAT-arg
+
+8166-2	film	film	NN	_	_	_	REG
+8167-3	actress	actress	NN	_	_	_	REG
+
+8184-2	office-supplies	office-supplies	NNS	_	_	_	REG
+8185-3	discounter	discounter	NN	_	_	_	REG
+
+8256-2	cataract	cataract	NN	_	_	_	RSTR
+8257-3	patients	patient	NNS	_	_	_	RSTR
+
+8283-2	processing	processing	NN	_	_	_	RSTR
+8284-3	unit	unit	NN	_	_	_	RSTR
+
+8292-2	low-caliber	low-caliber	NN	_	_	_	RSTR
+8293-3	weapon	weapon	NN	_	_	_	RSTR
+
+8307-2	hotel	hotel	NN	_	_	_	RSTR
+8308-3	operations	operation	NNS	_	_	_	RSTR
+
+8337-2	road	road	NN	_	_	_	RSTR
+8338-3	system	system	NN	_	_	_	RSTR
+
+8364-2	textile	textile	NN	_	_	_	REG
+8365-3	business	business	NN	_	_	_	REG
+
+8367-2	profit	profit	NN	_	_	_	ACT-arg
+8368-3	surge	surge	NN	_	_	_	ACT-arg
+
+8379-2	ivory	ivory	NN	_	_	_	REG
+8380-3	trade	trade	NN	_	_	_	REG
+
+8385-2	rule-making	rule-making	NN	_	_	_	RSTR
+8386-3	body	body	NN	_	_	_	RSTR
+
+8388-2	property	property	NN	_	_	_	RSTR
+8389-3	right	right	NN	_	_	_	RSTR
+
+8397-2	equity	equity	NN	_	_	_	REG
+8398-3	decision	decision	NN	_	_	_	REG
+
+8445-2	transplantation	transplantation	NN	_	_	_	RSTR
+8446-3	field	field	NN	_	_	_	RSTR
+
+8454-2	consulting	consulting	NN	_	_	_	RSTR
+8455-3	business	business	NN	_	_	_	RSTR
+
+8475-2	import	import	NN	_	_	_	RSTR
+8476-3	trade	trade	NN	_	_	_	RSTR
+
+8487-2	business	business	NN	_	_	_	RSTR
+8488-3	realities	reality	NNS	_	_	_	RSTR
+
+8505-2	news	news	NN	_	_	_	RSTR
+8506-3	conference	conference	NN	_	_	_	RSTR
+
+8559-2	market	market	NN	_	_	_	APP
+8560-3	debacle	debacle	NN	_	_	_	APP
+
+8574-2	Overhead	overhead	NN	_	_	_	RSTR
+8575-3	costs	cost	NNS	_	_	_	RSTR
+
+8673-2	common-law	common-law	NN	_	_	_	RSTR
+8674-3	rule	rule	NN	_	_	_	RSTR
+
+8703-2	Rate	rate	NN	_	_	_	PAT-arg
+8704-3	settlements	settlement	NNS	_	_	_	PAT-arg
+
+8796-2	Third-quarter	third-quarter	JJ	_	_	_	TWHEN
+8797-3	spreads	spread	NNS	_	_	_	TWHEN
+
+8802-2	sales	sale	NNS	_	_	_	AIM
+8803-3	representative	representative	NN	_	_	_	AIM
+
+8814-2	Distribution	distribution	NN	_	_	_	RSTR
+8815-3	centers	center	NNS	_	_	_	RSTR
+
+8817-2	artillery	artillery	NN	_	_	_	RSTR
+8818-3	pieces	piece	NNS	_	_	_	RSTR
+
+8832-2	pawn	pawn	NN	_	_	_	PAT-arg
+8833-3	thrust	thrust	NN	_	_	_	PAT-arg
+
+8835-2	gasoline	gasoline	NN	_	_	_	RSTR
+8836-3	picture	picture	NN	_	_	_	RSTR
+
+8850-2	parent	parent	NN	_	_	_	RSTR
+8851-3	company	company	NN	_	_	_	RSTR
+
+8853-2	interest	interest	NN	_	_	_	RSTR
+8854-3	area	area	NN	_	_	_	RSTR
+
+8883-2	credit	credit	NN	_	_	_	RSTR
+8884-3	standards	standard	NNS	_	_	_	RSTR
+
+8895-2	customer	customer	NN	_	_	_	RSTR
+8896-3	groups	group	NNS	_	_	_	RSTR
+
+8901-2	lightning	lightning	NN	_	_	_	RSTR
+8902-3	speed	speed	NN	_	_	_	RSTR
+
+8949-2	plea	plea	NN	_	_	_	PAT-arg
+8950-3	settlement	settlement	NN	_	_	_	PAT-arg
+
+8970-2	negotiating	negotiate	VBG	_	_	_	REG
+8971-3	tactic	tactic	NN	_	_	_	REG
+
+9036-2	diamond	diamond	NN	_	_	_	PAT-arg
+9037-3	dig	dig	NN	_	_	_	PAT-arg
+
+9048-2	Industry	industry	NN	_	_	_	RSTR
+9049-3	sources	source	NNS	_	_	_	RSTR
+
+9072-2	employment	employment	NN	_	_	_	PAT-arg
+9073-3	data	datum	NNS	_	_	_	PAT-arg
+
+9096-2	merger	merger	NN	_	_	_	RSTR
+9097-3	mania	mania	NN	_	_	_	RSTR
+
+9108-2	college	college	NN	_	_	_	PAT-arg
+9109-3	planner	planner	NN	_	_	_	PAT-arg
+
+9120-2	futures	future	NNS	_	_	_	REG
+9121-3	research	research	NN	_	_	_	REG
+
+9126-2	microphone	microphone	NN	_	_	_	RSTR
+9127-3	patent	patent	NN	_	_	_	RSTR
+
+9135-2	takeover	takeover	NN	_	_	_	RSTR
+9136-3	speculators	speculator	NNS	_	_	_	RSTR
+
+9150-2	sugar	sugar	NN	_	_	_	PAT-arg
+9151-3	industry	industry	NN	_	_	_	PAT-arg
+
+9153-2	university	university	NN	_	_	_	RSTR
+9154-3	student	student	NN	_	_	_	RSTR
+
+9156-2	stair	stair	NN	_	_	_	RSTR
+9157-3	climbers	climber	NNS	_	_	_	RSTR
+
+9162-2	farm	farm	NN	_	_	_	RSTR
+9163-3	headquarters	headquarters	NN	_	_	_	RSTR
+
+9201-2	estrogen-replacement	estrogen-replacement	NN	_	_	_	RSTR
+9202-3	drug	drug	NN	_	_	_	RSTR
+
+9228-2	blood-cell	blood-cell	NN	_	_	_	REG
+9229-3	disorders	disorder	NNS	_	_	_	REG
+
+9231-2	wage	wage	NN	_	_	_	PAT-arg
+9232-3	boost	boost	NN	_	_	_	PAT-arg
+
+9273-2	crude	crude	JJ	_	_	_	PAT-arg
+9274-3	imports	import	NNS	_	_	_	PAT-arg
+
+9288-2	tax-loss	tax-loss	JJ	_	_	_	RSTR
+9289-3	carry-forward	carry-forward	NN	_	_	_	RSTR
+
+9363-2	plastics	plastic	NNS	_	_	_	RSTR
+9364-3	stocks	stock	NNS	_	_	_	RSTR
+
+9414-2	market	market	NN	_	_	_	APP
+9415-3	excesses	excess	NNS	_	_	_	APP
+
+9480-2	management	management	NN	_	_	_	PAT-arg
+9481-3	change	change	NN	_	_	_	PAT-arg
+
+9558-2	baseball	baseball	NN	_	_	_	REG
+9559-3	star	star	NN	_	_	_	REG
+
+9579-2	numbers	number	NNS	_	_	_	RSTR
+9580-3	game	game	NN	_	_	_	RSTR
+
+9618-2	hybrid	hybrid	NN	_	_	_	RSTR
+9619-3	seeds	seed	NNS	_	_	_	RSTR
+
+9630-2	merger	merger	NN	_	_	_	REG
+9631-3	deal	deal	NN	_	_	_	REG
+
+9636-2	Tax-loss	tax-loss	NN	_	_	_	RSTR
+9637-3	sellers	seller	NNS	_	_	_	RSTR
+
+9663-2	agriculture	agriculture	NN	_	_	_	REG
+9664-3	lawmakers	lawmaker	NNS	_	_	_	REG
+
+9702-2	computer	computer	NN	_	_	_	RSTR
+9703-3	controllers	controller	NNS	_	_	_	RSTR
+
+9756-2	poultry	poultry	NN	_	_	_	PAT-arg
+9757-3	producer	producer	NN	_	_	_	PAT-arg
+
+9765-2	sovereignty	sovereignty	NN	_	_	_	PAT-arg
+9766-3	issue	issue	NN	_	_	_	PAT-arg
+
+9816-2	contraceptive	contraceptive	JJ	_	_	_	RSTR
+9817-3	program	program	NN	_	_	_	RSTR
+
+9840-2	seniority-list	seniority-list	NN	_	_	_	APP
+9841-3	controversy	controversy	NN	_	_	_	APP
+
+9849-2	selling	selling	NN	_	_	_	MAT
+9850-3	flood	flood	NN	_	_	_	MAT
+
+9885-2	executive	executive	NN	_	_	_	RSTR
+9886-3	trustee	trustee	NN	_	_	_	RSTR
+
+9888-2	Investor	Investor	NNP	_	_	_	ACT-arg
+9889-3	focus	focus	NN	_	_	_	ACT-arg
+
+9894-2	retirement	retirement	NN	_	_	_	REG
+9895-3	plan	plan	NN	_	_	_	REG
+
+9933-2	intraday	intraday	NN	_	_	_	RSTR
+9934-3	lows	low	NNS	_	_	_	RSTR
+
+9951-2	customer	customer	NN	_	_	_	BEN
+9952-3	services	service	NNS	_	_	_	BEN
+
+10083-2	software	software	NN	_	_	_	PAT-arg
+10084-3	producers	producer	NNS	_	_	_	PAT-arg
+
+10110-2	futures	future	NNS	_	_	_	RSTR
+10111-3	industry	industry	NN	_	_	_	RSTR
+
+10152-2	program	program	NN	_	_	_	ACT-arg
+10153-3	performance	performance	NN	_	_	_	ACT-arg
+
+10164-2	night	night	NN	_	_	_	TWHEN
+10165-3	entertainment	entertainment	NN	_	_	_	TWHEN
+
+10170-2	civil-rights	civil-rights	NNS	_	_	_	REG
+10171-3	debates	debate	NNS	_	_	_	REG
+
+10197-2	buying	buying	NN	_	_	_	REG
+10198-3	habits	habit	NNS	_	_	_	REG
+
+10215-2	workstation	workstation	NN	_	_	_	REG
+10216-3	market	market	NN	_	_	_	REG
+
+10341-2	art	art	NN	_	_	_	RSTR
+10342-3	form	form	NN	_	_	_	RSTR
+
+10350-2	futures-exchange	futures-exchange	NN	_	_	_	RSTR
+10351-3	officials	official	NNS	_	_	_	RSTR
+
+10365-2	car	car	NN	_	_	_	RSTR
+10366-3	factories	factory	NNS	_	_	_	RSTR
+
+10422-2	crisis	crisis	NN	_	_	_	RSTR
+10423-3	mode	mode	NN	_	_	_	RSTR
+
+10428-2	combination	combination	NN	_	_	_	RSTR
+10429-3	packages	package	NNS	_	_	_	RSTR
+
+10446-2	personality	personality	NN	_	_	_	RSTR
+10447-3	development	development	NN	_	_	_	RSTR
+
+10470-2	profit	profit	NN	_	_	_	APP
+10471-3	rates	rate	NNS	_	_	_	APP
+
+10476-2	exchange	exchange	NN	_	_	_	RSTR
+10477-3	seat	seat	NN	_	_	_	RSTR
+
+10494-2	dividend	dividend	NN	_	_	_	RSTR
+10495-3	payout	payout	NN	_	_	_	RSTR
+
+10527-2	airline	airline	NN	_	_	_	RSTR
+10528-3	alliances	alliance	NNS	_	_	_	RSTR
+
+10533-2	citizen	citizen	NN	_	_	_	RSTR
+10534-3	referenda	referenda	NN	_	_	_	RSTR
+
+10581-2	debt	debt	NN	_	_	_	PAT-arg
+10582-3	offering	offering	NN	_	_	_	PAT-arg
+
+10590-2	oversight	oversight	NN	_	_	_	RSTR
+10591-3	board	board	NN	_	_	_	RSTR
+
+10593-2	consumer	consumer	NN	_	_	_	PAT-arg
+10594-3	research	research	NN	_	_	_	PAT-arg
+
+10662-2	managing	managing	NN	_	_	_	RSTR
+10663-3	editor	editor	NN	_	_	_	RSTR
+
+10677-2	sports	sport	NNS	_	_	_	RSTR
+10678-3	rights	rights	NNS	_	_	_	RSTR
+
+10689-2	paper	paper	NN	_	_	_	PAT-arg
+10690-3	makers	maker	NNS	_	_	_	PAT-arg
+
+10719-2	ground	ground	NN	_	_	_	RSTR
+10720-3	control	control	NN	_	_	_	RSTR
+
+10758-2	trading	trading	NN	_	_	_	RSTR
+10759-3	critics	critic	NNS	_	_	_	RSTR
+
+10779-2	corn	corn	NN	_	_	_	REG
+10780-3	contracts	contract	NNS	_	_	_	REG
+
+10785-2	electronics	electronics	NNS	_	_	_	RSTR
+10786-3	concerns	concern	NNS	_	_	_	RSTR
+
+10800-2	insider-trading	insider-trading	NN	_	_	_	RSTR
+10801-3	charges	charge	NNS	_	_	_	RSTR
+
+10830-2	portfolio	portfolio	NN	_	_	_	RSTR
+10831-3	strategist	strategist	NN	_	_	_	RSTR
+
+10854-2	government	government	NN	_	_	_	ACT-arg
+10855-3	effort	effort	NN	_	_	_	ACT-arg
+
+10869-2	conference	conference	NN	_	_	_	AIM
+10870-3	center	center	NN	_	_	_	AIM
+
+10908-2	production	production	NN	_	_	_	PAT-arg
+10909-3	tooling	tooling	NN	_	_	_	PAT-arg
+
+10974-2	title-insurance	title-insurance	JJ	_	_	_	RSTR
+10975-3	underwriter	underwriter	NN	_	_	_	RSTR
+
+10977-2	spot	spot	NN	_	_	_	RSTR
+10978-3	markets	market	NNS	_	_	_	RSTR
+
+10995-2	defense	defense	NN	_	_	_	RSTR
+10996-3	orders	order	NNS	_	_	_	RSTR
+
+11016-2	marketing	marketing	NN	_	_	_	PAT-arg
+11017-3	clout	clout	NN	_	_	_	PAT-arg
+
+11019-2	University	University	NNP	_	_	_	RSTR
+11020-3	professors	professor	NNS	_	_	_	RSTR
+
+11022-2	credit	credit	NN	_	_	_	PAT-arg
+11023-3	analysis	analysis	NN	_	_	_	PAT-arg
+
+11067-2	business	business	NN	_	_	_	RSTR
+11068-3	manager	manager	NN	_	_	_	RSTR
+
+11139-2	tax	tax	NN	_	_	_	RSTR
+11140-3	returns	return	NNS	_	_	_	RSTR
+
+11154-2	state	state	NN	_	_	_	RSTR
+11155-3	counsel	counsel	NN	_	_	_	RSTR
+
+11181-2	polysilicon	polysilicon	NN	_	_	_	PAT-arg
+11182-3	business	business	NN	_	_	_	PAT-arg
+
+11208-2	ceiling	ceiling	NN	_	_	_	PAT-arg
+11209-3	boost	boost	NN	_	_	_	PAT-arg
+
+11223-2	repayment	repayment	NN	_	_	_	RSTR
+11224-3	period	period	NN	_	_	_	RSTR
+
+11256-2	health-food	health-food	NN	_	_	_	RSTR
+11257-3	fad	fad	NN	_	_	_	RSTR
+
+11289-2	computer	computer	NN	_	_	_	RSTR
+11290-3	programming	programming	NN	_	_	_	RSTR
+
+11364-2	spin	spin	NN	_	_	_	RSTR
+11365-3	caster	caster	NN	_	_	_	RSTR
+
+11367-2	consent	consent	NN	_	_	_	RSTR
+11368-3	agreement	agreement	NN	_	_	_	RSTR
+
+11391-2	patent	patent	NN	_	_	_	REG
+11392-3	litigation	litigation	NN	_	_	_	REG
+
+11397-2	headcount-control	headcount-control	NN	_	_	_	REG
+11398-3	program	program	NN	_	_	_	REG
+
+11439-2	pay	pay	NN	_	_	_	PAT-arg
+11440-3	cut	cut	NN	_	_	_	PAT-arg
+
+11445-2	labor	labor	NN	_	_	_	REG
+11446-3	pool	pool	NN	_	_	_	REG
+
+11484-2	male	male	JJ	_	_	_	RSTR
+11485-3	voice	voice	NN	_	_	_	RSTR
+
+11502-2	negotiating	negotiating	NN	_	_	_	RSTR
+11503-3	table	table	NN	_	_	_	RSTR
+
+11532-2	dealer	dealer	NN	_	_	_	RSTR
+11533-3	incentives	incentive	NNS	_	_	_	RSTR
+
+11565-2	Commission	Commission	NNP	_	_	_	RSTR
+11566-3	income	income	NN	_	_	_	RSTR
+
+11574-2	materials	material	NNS	_	_	_	REG
+11575-3	management	management	NN	_	_	_	REG
+
+11583-2	petrochemical	petrochemical	NN	_	_	_	PAT-arg
+11584-3	manufacturer	manufacturer	NN	_	_	_	PAT-arg
+
+11643-2	estate	estate	NN	_	_	_	PAT-arg
+11644-3	owners	owner	NNS	_	_	_	PAT-arg
+
+11652-2	government	government	NN	_	_	_	APP
+11653-3	bureaucrat	bureaucrat	NN	_	_	_	APP
+
+11655-2	team	team	NN	_	_	_	RSTR
+11656-3	spirit	spirit	NN	_	_	_	RSTR
+
+11676-2	umbrella	umbrella	NN	_	_	_	RSTR
+11677-3	organization	organization	NN	_	_	_	RSTR
+
+11703-2	killer	killer	NN	_	_	_	RSTR
+11704-3	earthquake	earthquake	NN	_	_	_	RSTR
+
+11751-2	heat	heat	NN	_	_	_	RSTR
+11752-3	energy	energy	NN	_	_	_	RSTR
+
+11811-2	production	production	NN	_	_	_	RSTR
+11812-3	data	datum	NNS	_	_	_	RSTR
+
+11841-2	Air-traffic	air-traffic	NN	_	_	_	RSTR
+11842-3	problems	problem	NNS	_	_	_	RSTR
+
+11877-2	health-care	health-care	NN	_	_	_	REG
+11878-3	concern	concern	NN	_	_	_	REG
+
+11886-2	biotechnology	biotechnology	NN	_	_	_	RSTR
+11887-3	trade	trade	NN	_	_	_	RSTR
+
+11916-2	sabotage	sabotage	NN	_	_	_	RSTR
+11917-3	attack	attack	NN	_	_	_	RSTR
+
+11925-2	office	office	NN	_	_	_	RSTR
+11926-3	expenses	expense	NNS	_	_	_	RSTR
+
+11937-2	security	security	NN	_	_	_	RSTR
+11938-3	guards	guard	NNS	_	_	_	RSTR
+
+11976-2	merger	merger	NN	_	_	_	REG
+11977-3	specialist	specialist	NN	_	_	_	REG
+
+12000-2	trade	trade	NN	_	_	_	REG
+12001-3	offices	office	NNS	_	_	_	REG
+
+12009-2	oil	oil	NN	_	_	_	RSTR
+12010-3	filters	filter	NNS	_	_	_	RSTR
+
+12030-2	market	market	NN	_	_	_	APP
+12031-3	attribute	attribute	NN	_	_	_	APP
+
+12060-2	ruling	ruling	NN	_	_	_	RSTR
+12061-3	body	body	NN	_	_	_	RSTR
+
+12102-2	sports	sport	NNS	_	_	_	RSTR
+12103-3	stories	story	NNS	_	_	_	RSTR
+
+12105-2	art	art	NN	_	_	_	PAT-arg
+12106-3	restorer	restorer	NN	_	_	_	PAT-arg
+
+12153-2	employee	employee	NN	_	_	_	RSTR
+12154-3	groups	group	NNS	_	_	_	RSTR
+
+12171-2	property	property	NN	_	_	_	PAT-arg
+12172-3	damage	damage	NN	_	_	_	PAT-arg
+
+12195-2	discount	discount	NN	_	_	_	RSTR
+12196-3	purchase	purchase	NN	_	_	_	RSTR
+
+12213-2	shoestring	shoestring	NN	_	_	_	RSTR
+12214-3	budget	budget	NN	_	_	_	RSTR
+
+12294-2	data	datum	NNS	_	_	_	PAT-arg
+12295-3	collection	collection	NN	_	_	_	PAT-arg
+
+12300-2	obligation	obligation	NN	_	_	_	APP
+12301-3	ceiling	ceiling	NN	_	_	_	APP
+
+12444-2	literature	literature	NN	_	_	_	RSTR
+12445-3	displays	display	NNS	_	_	_	RSTR
+
+12489-2	standing	standing	NN	_	_	_	RSTR
+12490-3	price	price	NN	_	_	_	RSTR
+
+12501-2	company	company	NN	_	_	_	APP
+12502-3	tradition	tradition	NN	_	_	_	APP
+
+12522-2	housing	housing	NN	_	_	_	PAT-arg
+12523-3	production	production	NN	_	_	_	PAT-arg
+
+12525-2	market	market	NN	_	_	_	RSTR
+12526-3	concern	concern	NN	_	_	_	RSTR
+
+12528-2	IL-4	il-4	NN	_	_	_	PAT-arg
+12529-3	receptor	receptor	NN	_	_	_	PAT-arg
+
+12546-2	food	food	NN	_	_	_	RSTR
+12547-3	concern	concern	NN	_	_	_	RSTR
+
+12561-2	restaurant	restaurant	NN	_	_	_	PAT-arg
+12562-3	closings	closing	NNS	_	_	_	PAT-arg
+
+12573-2	Crude	crude	JJ	_	_	_	RSTR
+12574-3	prices	price	NNS	_	_	_	RSTR
+
+12582-2	proposal	proposal	NN	_	_	_	PAT-arg
+12583-3	deadlines	deadline	NNS	_	_	_	PAT-arg
+
+12624-2	cigarette	cigarette	NN	_	_	_	PAT-arg
+12625-3	prices	price	NNS	_	_	_	PAT-arg
+
+12630-2	immigration	immigration	NN	_	_	_	REG
+12631-3	authorities	authority	NNS	_	_	_	REG
+
+12687-2	stable	stable	JJ	_	_	_	PAT-arg
+12688-3	owner	owner	NN	_	_	_	PAT-arg
+
+12738-2	telephone	telephone	NN	_	_	_	RSTR
+12739-3	consultations	consultation	NNS	_	_	_	RSTR
+
+12765-2	trading	trading	NN	_	_	_	PAT-arg
+12766-3	manager	manager	NN	_	_	_	PAT-arg
+
+12795-2	supply	supply	NN	_	_	_	ACT-arg
+12796-3	crunch	crunch	NN	_	_	_	ACT-arg
+
+12819-2	return	return	NN	_	_	_	REG
+12820-3	deadlines	deadline	NNS	_	_	_	REG
+
+12834-2	question	question	NN	_	_	_	RSTR
+12835-3	marks	mark	NNS	_	_	_	RSTR
+
+12867-2	transport	transport	NN	_	_	_	REG
+12868-3	officials	official	NNS	_	_	_	REG
+
+12876-2	specialty	specialty	NN	_	_	_	RSTR
+12877-3	items	item	NNS	_	_	_	RSTR
+
+12936-2	income	income	NN	_	_	_	RSTR
+12937-3	taxes	tax	NNS	_	_	_	RSTR
+
+12939-2	disarmament	disarmament	NN	_	_	_	RSTR
+12940-3	talks	talk	NNS	_	_	_	RSTR
+
+12966-2	fourth-quarter	fourth-quarter	JJ	_	_	_	TWHEN
+12967-3	charge	charge	NN	_	_	_	TWHEN
+
+12996-2	quarter	quarter	NN	_	_	_	RSTR
+12997-3	profit	profit	NN	_	_	_	RSTR
+
+13047-2	interest	interest	NN	_	_	_	PAT-arg
+13048-3	amendments	amendment	NNS	_	_	_	PAT-arg
+
+13062-2	state	state	NN	_	_	_	RSTR
+13063-3	enterprises	enterprise	NNS	_	_	_	RSTR
+
+13077-2	trial	trial	NN	_	_	_	RSTR
+13078-3	attorney	attorney	NN	_	_	_	RSTR
+
+13086-2	labor	labor	NN	_	_	_	PAT-arg
+13087-3	disruptions	disruption	NNS	_	_	_	PAT-arg
+
+13128-2	stamp	stamp	NN	_	_	_	PAT-arg
+13129-3	cancellations	cancellation	NNS	_	_	_	PAT-arg
+
+13164-2	polyethylene	polyethylene	NN	_	_	_	PAT-arg
+13165-3	producer	producer	NN	_	_	_	PAT-arg
+
+13185-2	water	water	NN	_	_	_	PAT-arg
+13186-3	treatment	treatment	NN	_	_	_	PAT-arg
+
+13224-2	transportation	transportation	NN	_	_	_	RSTR
+13225-3	category	category	NN	_	_	_	RSTR
+
+13233-2	flea	flea	NN	_	_	_	RSTR
+13234-3	seed	seed	NN	_	_	_	RSTR
+
+13269-2	sports	sport	NNS	_	_	_	RSTR
+13270-3	complexes	complex	NNS	_	_	_	RSTR
+
+13293-2	oil	oil	NN	_	_	_	REG
+13294-3	concern	concern	NN	_	_	_	REG
+
+13305-2	manufacturing	manufacturing	NN	_	_	_	RSTR
+13306-3	expertise	expertise	NN	_	_	_	RSTR
+
+13338-2	Spirits	spirit	NNS	_	_	_	PAT-arg
+13339-3	exports	export	NNS	_	_	_	PAT-arg
+
+13362-2	government	government	NN	_	_	_	ACT-arg
+13363-3	corruption	corruption	NN	_	_	_	ACT-arg
+
+13368-2	background	background	NN	_	_	_	RSTR
+13369-3	music	music	NN	_	_	_	RSTR
+
+13383-2	franchisee	franchisee	NN	_	_	_	RSTR
+13384-3	community	community	NN	_	_	_	RSTR
+
+13398-2	publishing	publishing	NN	_	_	_	REG
+13399-3	concern	concern	NN	_	_	_	REG
+
+13446-2	safety	safety	NN	_	_	_	REG
+13447-3	codes	code	NNS	_	_	_	REG
+
+13458-2	suspension	suspension	NN	_	_	_	RSTR
+13459-3	systems	system	NNS	_	_	_	RSTR
+
+13461-2	carrier	carrier	NN	_	_	_	RSTR
+13462-3	fleet	fleet	NN	_	_	_	RSTR
+
+13506-2	contract	contract	NN	_	_	_	APP
+13507-3	costs	cost	NNS	_	_	_	APP
+
+13509-2	broadcast	broadcast	NN	_	_	_	RSTR
+13510-3	stations	station	NNS	_	_	_	RSTR
+
+13545-2	balancing	balancing	NN	_	_	_	RSTR
+13546-3	act	act	NN	_	_	_	RSTR
+
+13569-2	general-practitioner	general-practitioner	NN	_	_	_	RSTR
+13570-3	services	service	NNS	_	_	_	RSTR
+
+13656-2	junk-mail	junk-mail	NN	_	_	_	REG
+13657-3	titans	titan	NNS	_	_	_	REG
+
+13707-2	transport	transport	NN	_	_	_	RSTR
+13708-3	helicopter	helicopter	NN	_	_	_	RSTR
+
+13740-2	software	software	NN	_	_	_	RSTR
+13741-3	company	company	NN	_	_	_	RSTR
+
+13758-2	customs	custom	NNS	_	_	_	APP
+13759-3	official	official	NN	_	_	_	APP
+
+13761-2	depository	depository	NN	_	_	_	RSTR
+13762-3	institutions	institution	NNS	_	_	_	RSTR
+
+13782-2	house	house	NN	_	_	_	RSTR
+13783-3	loans	loan	NNS	_	_	_	RSTR
+
+13824-2	earthquake	earthquake	NN	_	_	_	REG
+13825-3	cleanup	cleanup	NN	_	_	_	REG
+
+13836-2	margin	margin	NN	_	_	_	RSTR
+13837-3	pressures	pressure	NNS	_	_	_	RSTR
+
+13848-2	research	research	NN	_	_	_	REG
+13849-3	institution	institution	NN	_	_	_	REG
+
+13890-2	market	market	NN	_	_	_	ACT-arg
+13891-3	liquidity	liquidity	NN	_	_	_	ACT-arg
+
+13902-2	Oil	oil	NN	_	_	_	RSTR
+13903-3	stocks	stock	NNS	_	_	_	RSTR
+
+13905-2	Factory	factory	NN	_	_	_	RSTR
+13906-3	payrolls	payroll	NNS	_	_	_	RSTR
+
+13926-2	Grace	Grace	NNP	_	_	_	RSTR
+13927-3	periods	period	NNS	_	_	_	RSTR
+
+13965-2	plainclothes	plainclothes	NNS	_	_	_	RSTR
+13966-3	police	police	NN	_	_	_	RSTR
+
+13971-2	export	export	NN	_	_	_	REG
+13972-3	commitments	commitment	NNS	_	_	_	REG
+
+13989-2	oil	oil	NN	_	_	_	RSTR
+13990-3	paintings	painting	NNS	_	_	_	RSTR
+
+14001-2	pension	pension	NN	_	_	_	RSTR
+14002-3	shortfall	shortfall	NN	_	_	_	RSTR
+
+14010-2	film	film	NN	_	_	_	REG
+14011-3	festival	festival	NN	_	_	_	REG
+
+14013-2	city	city	NN	_	_	_	APP
+14014-3	subsidies	subsidy	NNS	_	_	_	APP
+
+14025-2	jury	jury	NN	_	_	_	RSTR
+14026-3	panel	panel	NN	_	_	_	RSTR
+
+14040-2	casino	casino	NN	_	_	_	PAT-arg
+14041-3	operator	operator	NN	_	_	_	PAT-arg
+
+14046-2	customer	customer	NN	_	_	_	RSTR
+14047-3	orders	order	NNS	_	_	_	RSTR
+
+14067-2	cash	cash	NN	_	_	_	PAT-arg
+14068-3	equivalents	equivalent	NNS	_	_	_	PAT-arg
+
+14076-2	insurance	insurance	NN	_	_	_	RSTR
+14077-3	buyers	buyer	NNS	_	_	_	RSTR
+
+14097-2	labor	labor	NN	_	_	_	REG
+14098-3	talks	talk	NNS	_	_	_	REG
+
+14115-2	winter	winter	NN	_	_	_	TWHEN
+14116-3	excursions	excursion	NNS	_	_	_	TWHEN
+
+14121-2	real-estate	real-estate	NN	_	_	_	REG
+14122-3	experts	expert	NNS	_	_	_	REG
+
+14199-2	default	default	NN	_	_	_	RSTR
+14200-3	rates	rate	NNS	_	_	_	RSTR
+
+14202-2	City	City	NNP	_	_	_	RSTR
+14203-3	fathers	father	NNS	_	_	_	RSTR
+
+14241-2	crisis	crisis	NN	_	_	_	RSTR
+14242-3	manager	manager	NN	_	_	_	RSTR
+
+14277-2	market	market	NN	_	_	_	MAT
+14278-3	sectors	sector	NNS	_	_	_	MAT
+
+14295-2	mountain-bike	mountain-bike	NN	_	_	_	RSTR
+14296-3	accessories	accessory	NNS	_	_	_	RSTR
+
+14301-2	breaking	breaking	NN	_	_	_	APP
+14302-3	point	point	NN	_	_	_	APP
+
+14313-2	opposition	opposition	NN	_	_	_	RSTR
+14314-3	rally	rally	NN	_	_	_	RSTR
+
+14334-2	power	power	NN	_	_	_	PAT-arg
+14335-3	producers	producer	NNS	_	_	_	PAT-arg
+
+14349-2	evaluation	evaluation	NN	_	_	_	APP
+14350-3	purposes	purpose	NNS	_	_	_	APP
+
+14373-2	member	member	NN	_	_	_	APP
+14374-3	seats	seat	NNS	_	_	_	APP
+
+14385-2	fund	fund	NN	_	_	_	PAT-arg
+14386-3	exchanges	exchange	NNS	_	_	_	PAT-arg
+
+14415-2	export	export	NN	_	_	_	PAT-arg
+14416-3	push	push	NN	_	_	_	PAT-arg
+
+14436-2	sulfur-dioxide	sulfur-dioxide	NN	_	_	_	PAT-arg
+14437-3	emissions	emission	NNS	_	_	_	PAT-arg
+
+14472-2	morning	morning	NN	_	_	_	TWHEN
+14473-3	routine	routine	NN	_	_	_	TWHEN
+
+14475-2	cogeneration	cogeneration	NN	_	_	_	PAT-arg
+14476-3	projects	project	NNS	_	_	_	PAT-arg
+
+14481-2	hedging	hedging	NN	_	_	_	RSTR
+14482-3	tools	tool	NNS	_	_	_	RSTR
+
+14526-2	bankruptcy	bankruptcy	NN	_	_	_	REG
+14527-3	candidates	candidate	NNS	_	_	_	REG
+
+14529-2	communications	communication	NNS	_	_	_	RSTR
+14530-3	division	division	NN	_	_	_	RSTR
+
+14553-2	taxpayer	taxpayer	NN	_	_	_	ACT-arg
+14554-3	support	support	NN	_	_	_	ACT-arg
+
+14568-2	headline	headline	NN	_	_	_	RSTR
+14569-3	space	space	NN	_	_	_	RSTR
+
+14577-2	fraud	fraud	NN	_	_	_	REG
+14578-3	capital	capital	NN	_	_	_	REG
+
+14628-2	motion	motion	NN	_	_	_	PAT-arg
+14629-3	detectors	detector	NNS	_	_	_	PAT-arg
+
+14637-2	business	business	NN	_	_	_	RSTR
+14638-3	products	product	NNS	_	_	_	RSTR
+
+14643-2	editorial	editorial	NN	_	_	_	RSTR
+14644-3	page	page	NN	_	_	_	RSTR
+
+14718-2	rerun	rerun	NN	_	_	_	RSTR
+14719-3	syndication	syndication	NN	_	_	_	RSTR
+
+14721-2	buy-out	buy-out	NN	_	_	_	PAT-arg
+14722-3	rumor	rumor	NN	_	_	_	PAT-arg
+
+14748-2	hit	hit	NN	_	_	_	RSTR
+14749-3	miniseries	miniseries	NN	_	_	_	RSTR
+
+14769-2	high-growth	high-growth	NN	_	_	_	RSTR
+14770-3	business	business	NN	_	_	_	RSTR
+
+14838-2	fighting	fight	VBG	_	_	_	RSTR
+14839-3	machine	machine	NN	_	_	_	RSTR
+
+14841-2	ramp	ramp	NN	_	_	_	LOC
+14842-3	workers	worker	NNS	_	_	_	LOC
+
+14856-2	steel	steel	NN	_	_	_	RSTR
+14857-3	profits	profit	NNS	_	_	_	RSTR
+
+14904-2	bankruptcy	bankruptcy	NN	_	_	_	REG
+14905-3	claims	claim	NNS	_	_	_	REG
+
+14925-2	property	property	NN	_	_	_	PAT-arg
+14926-3	destruction	destruction	NN	_	_	_	PAT-arg
+
+14970-2	market	market	NN	_	_	_	RSTR
+14971-3	efficiency	efficiency	NN	_	_	_	RSTR
+
+14973-2	party	party	NN	_	_	_	PAT-arg
+14974-3	leaders	leader	NNS	_	_	_	PAT-arg
+
+15030-2	tobacco	tobacco	NN	_	_	_	PAT-arg
+15031-3	stores	store	NNS	_	_	_	PAT-arg
+
+15036-2	fixed-income	fixed-income	NN	_	_	_	RSTR
+15037-3	analyst	analyst	NN	_	_	_	RSTR
+
+15039-2	tobacco	tobacco	NN	_	_	_	RSTR
+15040-3	prices	price	NNS	_	_	_	RSTR
+
+15072-2	stock	stock	NN	_	_	_	REG
+15073-3	story	story	NN	_	_	_	REG
+
+15090-2	stock	stock	NN	_	_	_	PAT-arg
+15091-3	selling	selling	NN	_	_	_	PAT-arg
+
+15123-2	defamation	defamation	NN	_	_	_	CAUS
+15124-3	suit	suit	NN	_	_	_	CAUS
+
+15126-2	budget	budget	NN	_	_	_	RSTR
+15127-3	impact	impact	NN	_	_	_	RSTR
+
+15138-2	insurance	insurance	NN	_	_	_	RSTR
+15139-3	segment	segment	NN	_	_	_	RSTR
+
+15144-2	management	management	NN	_	_	_	ACT-arg
+15145-3	breakdown	breakdown	NN	_	_	_	ACT-arg
+
+15297-2	service	service	NN	_	_	_	RSTR
+15298-3	charges	charge	NNS	_	_	_	RSTR
+
+15351-2	waterfront	waterfront	NN	_	_	_	RSTR
+15352-3	highway	highway	NN	_	_	_	RSTR
+
+15372-2	problem	problem	NN	_	_	_	RSTR
+15373-3	assets	asset	NNS	_	_	_	RSTR
+
+15378-2	training	training	NN	_	_	_	RSTR
+15379-3	center	center	NN	_	_	_	RSTR
+
+15417-2	fraud	fraud	NN	_	_	_	RSTR
+15418-3	actions	action	NNS	_	_	_	RSTR
+
+15531-2	franking	franking	NN	_	_	_	RSTR
+15532-3	privilege	privilege	NN	_	_	_	RSTR
+
+15552-2	city	city	NN	_	_	_	APP
+15553-3	councilman	councilman	NN	_	_	_	APP
+
+15603-2	stock	stock	NN	_	_	_	RSTR
+15604-3	fluctuations	fluctuation	NNS	_	_	_	RSTR
+
+15627-2	massacre	massacre	NN	_	_	_	APP
+15628-3	pattern	pattern	NN	_	_	_	APP
+
+15633-2	replacement	replacement	NN	_	_	_	RSTR
+15634-3	tires	tire	NNS	_	_	_	RSTR
+
+15663-2	merger	merger	NN	_	_	_	PAT-arg
+15664-3	talks	talk	NNS	_	_	_	PAT-arg
+
+15666-2	freight	freight	NN	_	_	_	RSTR
+15667-3	ground-handling	ground-handling	NNS	_	_	_	RSTR
+
+15693-2	employment	employment	NN	_	_	_	REG
+15694-3	practices	practice	NNS	_	_	_	REG
+
+15753-2	baggage	baggage	NN	_	_	_	PAT-arg
+15754-3	handlers	handler	NNS	_	_	_	PAT-arg
+
+15786-2	service	service	NN	_	_	_	RSTR
+15787-3	surplus	surplus	NN	_	_	_	RSTR
+
+15792-2	merchandising	merchandising	NN	_	_	_	REG
+15793-3	responsibilities	responsibility	NNS	_	_	_	REG
+
+15804-2	district	district	NN	_	_	_	RSTR
+15805-3	auditor	auditor	NN	_	_	_	RSTR
+
+15819-2	patent-law	patent-law	NN	_	_	_	RSTR
+15820-3	backgrounds	background	NNS	_	_	_	RSTR
+
+15864-2	sales	sale	NNS	_	_	_	PAT-arg
+15865-3	practices	practice	NNS	_	_	_	PAT-arg
+
+15873-2	export	export	NN	_	_	_	REG
+15874-3	statistics	statistics	NNS	_	_	_	REG
+
+15924-2	campaign	campaign	NN	_	_	_	RSTR
+15925-3	records	record	NNS	_	_	_	RSTR
+
+15945-2	S&L	s&l	NN	_	_	_	PAT-arg
+15946-3	sales	sale	NNS	_	_	_	PAT-arg
+
+15948-2	business	business	NN	_	_	_	RSTR
+15949-3	investment	investment	NN	_	_	_	RSTR
+
+15978-2	credit	credit	NN	_	_	_	RSTR
+15979-3	history	history	NN	_	_	_	RSTR
+
+15996-2	baseball	baseball	NN	_	_	_	RSTR
+15997-3	commissioner	commissioner	NN	_	_	_	RSTR
+
+16005-2	apparel	apparel	NN	_	_	_	RSTR
+16006-3	market	market	NN	_	_	_	RSTR
+
+16089-2	trade	trade	NN	_	_	_	RSTR
+16090-3	magazine	magazine	NN	_	_	_	RSTR
+
+16110-2	loan	loan	NN	_	_	_	APP
+16111-3	portion	portion	NN	_	_	_	APP
+
+16128-2	skiing	skiing	NN	_	_	_	RSTR
+16129-3	season	season	NN	_	_	_	RSTR
+
+16140-2	Expansion	expansion	NN	_	_	_	PAT-arg
+16141-3	plans	plan	NNS	_	_	_	PAT-arg
+
+16254-2	government	government	NN	_	_	_	RSTR
+16255-3	watchdog	watchdog	NN	_	_	_	RSTR
+
+16263-2	weekend	weekend	NN	_	_	_	TWHEN
+16264-3	jaunts	jaunt	NNS	_	_	_	TWHEN
+
+16275-2	labor-shortage	labor-shortage	JJ	_	_	_	PAT-arg
+16276-3	warnings	warning	NNS	_	_	_	PAT-arg
+
+16281-2	value-assessment	value-assessment	NN	_	_	_	RSTR
+16282-3	system	system	NN	_	_	_	RSTR
+
+16290-2	communist	communist	JJ	_	_	_	ACT-arg
+16291-3	domination	domination	NN	_	_	_	ACT-arg
+
+16314-2	U.K.	U.K.	NNP	_	_	_	LOC
+16315-3	traders	trader	NNS	_	_	_	LOC
+
+16341-2	cassette	cassette	NN	_	_	_	RSTR
+16342-3	players	player	NNS	_	_	_	RSTR
+
+16359-2	store	store	NN	_	_	_	LOC
+16360-3	sites	site	NNS	_	_	_	LOC
+
+16383-2	housing	housing	NN	_	_	_	RSTR
+16384-3	starts	start	NNS	_	_	_	RSTR
+
+16467-2	computer	computer	NN	_	_	_	RSTR
+16468-3	research	research	NN	_	_	_	RSTR
+
+16620-2	sewer	sewer	NN	_	_	_	RSTR
+16621-3	system	system	NN	_	_	_	RSTR
+
+16632-2	limited-partnership	limited-partnership	NN	_	_	_	RSTR
+16633-3	offering	offering	NN	_	_	_	RSTR
+
+16641-2	exchange-rate	exchange-rate	NN	_	_	_	RSTR
+16642-3	system	system	NN	_	_	_	RSTR
+
+16656-2	newspaper-printing	newspaper-printing	NN	_	_	_	AIM
+16657-3	press	press	NN	_	_	_	AIM
+
+16659-2	school	school	NN	_	_	_	RSTR
+16660-3	boards	board	NNS	_	_	_	RSTR
+
+16665-2	physician	physician	NN	_	_	_	ACT-arg
+16666-3	services	service	NNS	_	_	_	ACT-arg
+
+16683-2	afternoon	afternoon	NN	_	_	_	TWHEN
+16684-3	rain	rain	NN	_	_	_	TWHEN
+
+16710-2	potato	potato	NN	_	_	_	REG
+16711-3	farmer	farmer	NN	_	_	_	REG
+
+16713-2	nation	nation	NN	_	_	_	RSTR
+16714-3	status	status	NN	_	_	_	RSTR
+
+16761-2	Property	property	NN	_	_	_	APP
+16762-3	values	value	NNS	_	_	_	APP
+
+16782-2	employee	employee	NN	_	_	_	APP
+16783-3	benefits	benefit	NNS	_	_	_	APP
+
+16794-2	HDTV	hdtv	NN	_	_	_	REG
+16795-3	business	business	NN	_	_	_	REG
+
+16845-2	propane	propane	NN	_	_	_	PAT-arg
+16846-3	burner	burner	NN	_	_	_	PAT-arg
+
+16854-2	brokerage	brokerage	NN	_	_	_	RSTR
+16855-3	officials	official	NNS	_	_	_	RSTR
+
+16872-2	balance-of-payments	balance-of-payments	JJ	_	_	_	RSTR
+16873-3	statistics	statistics	NNS	_	_	_	RSTR
+
+16878-2	volume	volume	NN	_	_	_	ACT-arg
+16879-3	trend	trend	NN	_	_	_	ACT-arg
+
+16881-2	apparel	apparel	NN	_	_	_	PAT-arg
+16882-3	maker	maker	NN	_	_	_	PAT-arg
+
+16899-2	credit-information	credit-information	NN	_	_	_	REG
+16900-3	concern	concern	NN	_	_	_	REG
+
+16935-2	office	office	NN	_	_	_	LOC
+16936-3	lobbies	lobby	NNS	_	_	_	LOC
+
+16965-2	junk-bond	junk-bond	NN	_	_	_	PAT-arg
+16966-3	financings	financing	NNS	_	_	_	PAT-arg
+
+16989-2	career	career	NN	_	_	_	REG
+16990-3	advice	advice	NN	_	_	_	REG
+
+17007-2	compliance	compliance	NN	_	_	_	RSTR
+17008-3	choices	choice	NNS	_	_	_	RSTR
+
+17010-2	litigation	litigation	NN	_	_	_	RSTR
+17011-3	group	group	NN	_	_	_	RSTR
+
+17040-2	banking	banking	NN	_	_	_	RSTR
+17041-3	specialist	specialist	NN	_	_	_	RSTR
+
+17073-2	television	television	NN	_	_	_	RSTR
+17074-3	footage	footage	NN	_	_	_	RSTR
+
+17076-2	retailing	retailing	NN	_	_	_	REG
+17077-3	network	network	NN	_	_	_	REG
+
+17097-2	wastepaper	wastepaper	NN	_	_	_	AIM
+17098-3	baskets	basket	NNS	_	_	_	AIM
+
+17121-2	Eurodollar	eurodollar	NN	_	_	_	RSTR
+17122-3	rate	rate	NN	_	_	_	RSTR
+
+17169-2	telephone	telephone	NN	_	_	_	PAT-arg
+17170-3	interests	interest	NNS	_	_	_	PAT-arg
+
+17205-2	research	research	NN	_	_	_	RSTR
+17206-3	network	network	NN	_	_	_	RSTR
+
+17223-2	spending	spending	NN	_	_	_	RSTR
+17224-3	measures	measure	NNS	_	_	_	RSTR
+
+17250-2	beauty	beauty	NN	_	_	_	RSTR
+17251-3	product	product	NN	_	_	_	RSTR
+
+17289-2	preparation	preparation	NN	_	_	_	RSTR
+17290-3	work	work	NN	_	_	_	RSTR
+
+17349-2	charity	charity	NN	_	_	_	RSTR
+17350-3	benefit	benefit	NN	_	_	_	RSTR
+
+17361-2	duck	duck	NN	_	_	_	RSTR
+17362-3	feet	foot	NNS	_	_	_	RSTR
+
+17430-2	passenger	passenger	NN	_	_	_	RSTR
+17431-3	planes	plane	NNS	_	_	_	RSTR
+
+17466-2	operating	operating	NN	_	_	_	RSTR
+17467-3	profit	profit	NN	_	_	_	RSTR
+
+17484-2	Bond	bond	NN	_	_	_	APP
+17485-3	prices	price	NNS	_	_	_	APP
+
+17487-2	thrift	thrift	NN	_	_	_	RSTR
+17488-3	stocks	stock	NNS	_	_	_	RSTR
+
+17490-2	party	party	NN	_	_	_	APP
+17491-3	chief	chief	NN	_	_	_	APP
+
+17502-2	restaurant	restaurant	NN	_	_	_	APP
+17503-3	manager	manager	NN	_	_	_	APP
+
+17547-2	tourist	tourist	NN	_	_	_	RSTR
+17548-3	officials	official	NNS	_	_	_	RSTR
+
+17562-2	loan	loan	NN	_	_	_	RSTR
+17563-3	losses	loss	NNS	_	_	_	RSTR
+
+17571-2	casino	casino	NN	_	_	_	RSTR
+17572-3	regulators	regulator	NNS	_	_	_	RSTR
+
+17580-2	airline	airline	NN	_	_	_	ACT-arg
+17581-3	profits	profit	NNS	_	_	_	ACT-arg
+
+17643-2	car	car	NN	_	_	_	PAT-arg
+17644-3	prices	price	NNS	_	_	_	PAT-arg
+
+17646-2	stock	stock	NN	_	_	_	RSTR
+17647-3	bargains	bargain	NNS	_	_	_	RSTR
+
+17649-2	matchmaking	matchmaking	NN	_	_	_	PAT-arg
+17650-3	service	service	NN	_	_	_	PAT-arg
+
+17682-2	labor	labor	NN	_	_	_	RSTR
+17683-3	agreement	agreement	NN	_	_	_	RSTR
+
+17688-2	contingency	contingency	NN	_	_	_	PAT-arg
+17689-3	analysis	analysis	NN	_	_	_	PAT-arg
+
+17691-2	junk-bond	junk-bond	NN	_	_	_	APP
+17692-3	prices	price	NNS	_	_	_	APP
+
+17718-2	vice	vice	NN	_	_	_	RSTR
+17719-3	minister	minister	NN	_	_	_	RSTR
+
+17763-2	purchase	purchase	NN	_	_	_	RSTR
+17764-3	decisions	decision	NNS	_	_	_	RSTR
+
+17808-2	conference	conference	NN	_	_	_	RSTR
+17809-3	panel	panel	NN	_	_	_	RSTR
+
+17817-2	age	age	NN	_	_	_	RSTR
+17818-3	bracket	bracket	NN	_	_	_	RSTR
+
+17826-2	product	product	NN	_	_	_	PAT-arg
+17827-3	planners	planner	NNS	_	_	_	PAT-arg
+
+17844-2	junk-bond	junk-bond	NN	_	_	_	RSTR
+17845-3	investment	investment	NN	_	_	_	RSTR
+
+17862-2	sales	sale	NNS	_	_	_	RSTR
+17863-3	picture	picture	NN	_	_	_	RSTR
+
+17874-2	social-affairs	social-affair	NNS	_	_	_	RSTR
+17875-3	ministers	minister	NNS	_	_	_	RSTR
+
+17913-2	conference	conference	NN	_	_	_	LOC
+17914-3	manifestos	manifesto	NNS	_	_	_	LOC
+
+17937-2	newspaper	newspaper	NN	_	_	_	AIM
+17938-3	group	group	NN	_	_	_	AIM
+
+17982-2	timber	timber	NN	_	_	_	PAT-arg
+17983-3	growers	grower	NNS	_	_	_	PAT-arg
+
+17997-2	bankruptcy	bankruptcy	NN	_	_	_	RSTR
+17998-3	investor	investor	NN	_	_	_	RSTR
+
+18009-2	yield	yield	NN	_	_	_	PAT-arg
+18010-3	estimate	estimate	NN	_	_	_	PAT-arg
+
+18018-2	wage	wage	NN	_	_	_	REG
+18019-3	talks	talk	NNS	_	_	_	REG
+
+18024-2	panic	panic	NN	_	_	_	MANN
+18025-3	reaction	reaction	NN	_	_	_	MANN
+
+18069-2	autumn	autumn	NN	_	_	_	TWHEN
+18070-3	rush	rush	NN	_	_	_	TWHEN
+
+18108-2	sports	sport	NNS	_	_	_	RSTR
+18109-3	buffs	buff	NNS	_	_	_	RSTR
+
+18150-2	engine	engine	NN	_	_	_	PAT-arg
+18151-3	orders	order	NNS	_	_	_	PAT-arg
+
+18168-2	drug	drug	NN	_	_	_	PAT-arg
+18169-3	market	market	NN	_	_	_	PAT-arg
+
+18186-2	government	government	NN	_	_	_	RSTR
+18187-3	documents	document	NNS	_	_	_	RSTR
+
+18216-2	widget	widget	NN	_	_	_	RSTR
+18217-3	prices	price	NNS	_	_	_	RSTR
+
+18231-2	fuel-services	fuel-service	NNS	_	_	_	RSTR
+18232-3	director	director	NN	_	_	_	RSTR
+
+18234-2	health	health	NN	_	_	_	RSTR
+18235-3	officer	officer	NN	_	_	_	RSTR
+
+18240-2	publishing	publishing	NN	_	_	_	RSTR
+18241-3	firm	firm	NN	_	_	_	RSTR
+
+18258-2	profit	profit	NN	_	_	_	PAT-arg
+18259-3	performance	performance	NN	_	_	_	PAT-arg
+
+18279-2	design	design	NN	_	_	_	PAT-arg
+18280-3	requirements	requirement	NNS	_	_	_	PAT-arg
+
+18324-2	transportation	transportation	NN	_	_	_	RSTR
+18325-3	rates	rate	NNS	_	_	_	RSTR
+
+18327-2	program	program	NN	_	_	_	PAT-arg
+18328-3	producer	producer	NN	_	_	_	PAT-arg
+
+18345-2	appropriation	appropriation	NN	_	_	_	PAT-arg
+18346-3	resolution	resolution	NN	_	_	_	PAT-arg
+
+18357-2	crude-oil	crude-oil	NN	_	_	_	RSTR
+18358-3	pipeline	pipeline	NN	_	_	_	RSTR
+
+18384-2	steel	steel	NN	_	_	_	REG
+18385-3	segment	segment	NN	_	_	_	REG
+
+18390-2	nursing-home	nursing-home	NN	_	_	_	RSTR
+18391-3	care	care	NN	_	_	_	RSTR
+
+18426-2	Bank	Bank	NNP	_	_	_	APP
+18427-3	officials	official	NNS	_	_	_	APP
+
+18438-2	shareholder	shareholder	NN	_	_	_	RSTR
+18439-3	support	support	NN	_	_	_	RSTR
+
+18453-2	pasta	pasta	NN	_	_	_	PAT-arg
+18454-3	market	market	NN	_	_	_	PAT-arg
+
+18495-2	oil	oil	NN	_	_	_	RSTR
+18496-3	supplies	supplies	NNS	_	_	_	RSTR
+
+18534-2	shareholding	shareholding	NN	_	_	_	RSTR
+18535-3	structure	structure	NN	_	_	_	RSTR
+
+18552-2	computer	computer	NN	_	_	_	REG
+18553-3	brand	brand	NN	_	_	_	REG
+
+18600-2	grain	grain	NN	_	_	_	PAT-arg
+18601-3	buying	buying	NN	_	_	_	PAT-arg
+
+18624-2	fund	fund	NN	_	_	_	RSTR
+18625-3	management	management	NN	_	_	_	RSTR
+
+18660-2	miners	miner	NNS	_	_	_	ACT-arg
+18661-3	strike	strike	NN	_	_	_	ACT-arg
+
+18663-2	equity	equity	NN	_	_	_	RSTR
+18664-3	positions	position	NNS	_	_	_	RSTR
+
+18669-2	calling	call	VBG	_	_	_	PAT-arg
+18670-3	plan	plan	NN	_	_	_	PAT-arg
+
+18684-2	software	software	NN	_	_	_	RSTR
+18685-3	applications	application	NNS	_	_	_	RSTR
+
+18702-2	advertising	advertising	NN	_	_	_	RSTR
+18703-3	agencies	agency	NNS	_	_	_	RSTR
+
+18717-2	earring	earring	NN	_	_	_	APP
+18718-3	styles	style	NNS	_	_	_	APP
+
+18723-2	junk	junk	NN	_	_	_	PAT-arg
+18724-3	buyers	buyer	NNS	_	_	_	PAT-arg
+
+18741-2	freeway	freeway	NN	_	_	_	APP
+18742-3	segment	segment	NN	_	_	_	APP
+
+18759-2	recession	recession	NN	_	_	_	RSTR
+18760-3	year	year	NN	_	_	_	RSTR
+
+18762-2	fashion	fashion	NN	_	_	_	RSTR
+18763-3	business	business	NN	_	_	_	RSTR
+
+18825-2	glass	glass	NN	_	_	_	RSTR
+18826-3	fiber	fiber	NN	_	_	_	RSTR
+
+18867-2	executive	executive	NN	_	_	_	RSTR
+18868-3	committee	committee	NN	_	_	_	RSTR
+
+18894-2	emergency	emergency	NN	_	_	_	RSTR
+18895-3	talks	talk	NNS	_	_	_	RSTR
+
+18912-2	chemical	chemical	NN	_	_	_	PAT-arg
+18913-3	manufacturing	manufacturing	NN	_	_	_	PAT-arg
+
+18960-2	government	government	NN	_	_	_	ACT-arg
+18961-3	investigation	investigation	NN	_	_	_	ACT-arg
+
+19050-2	consulting	consult	VBG	_	_	_	REG
+19051-3	company	company	NN	_	_	_	REG
+
+19077-2	animal	animal	NN	_	_	_	RSTR
+19078-3	rights	rights	NNS	_	_	_	RSTR
+
+19104-2	office	office	NN	_	_	_	RSTR
+19105-3	standards	standard	NNS	_	_	_	RSTR
+
+19158-2	cement	cement	NN	_	_	_	PAT-arg
+19159-3	maker	maker	NN	_	_	_	PAT-arg
+
+19263-2	colonial	colonial	NN	_	_	_	RSTR
+19264-3	rule	rule	NN	_	_	_	RSTR
+
+19278-2	driving	drive	VBG	_	_	_	RSTR
+19279-3	season	season	NN	_	_	_	RSTR
+
+19284-2	program-trading	program-trading	NN	_	_	_	RSTR
+19285-3	volatility	volatility	NN	_	_	_	RSTR
+
+19356-2	construction	construction	NN	_	_	_	RSTR
+19357-3	executive	executive	NN	_	_	_	RSTR
+
+19377-2	investment	investment	NN	_	_	_	REG
+19378-3	strategies	strategy	NNS	_	_	_	REG
+
+19383-2	freshman	freshman	NN	_	_	_	PAT-arg
+19384-3	admissions	admission	NNS	_	_	_	PAT-arg
+
+19389-2	Coffee-shop	coffee-shop	NN	_	_	_	RSTR
+19390-3	chatter	chatter	NN	_	_	_	RSTR
+
+19395-2	radiation	radiation	NN	_	_	_	RSTR
+19396-3	therapy	therapy	NN	_	_	_	RSTR
+
+19425-2	cement	cement	NN	_	_	_	RSTR
+19426-3	holdings	holding	NNS	_	_	_	RSTR
+
+19446-2	staff	staff	NN	_	_	_	RSTR
+19447-3	reductions	reduction	NNS	_	_	_	RSTR
+
+19455-2	growth	growth	NN	_	_	_	RSTR
+19456-3	potential	potential	NN	_	_	_	RSTR
+
+19464-2	public-relations	public-relation	NNS	_	_	_	MANN
+19465-3	attempt	attempt	NN	_	_	_	MANN
+
+19482-2	health-care	health-care	NN	_	_	_	APP
+19483-3	policy	policy	NN	_	_	_	APP
+
+19512-2	identity	identity	NN	_	_	_	APP
+19513-3	crisis	crisis	NN	_	_	_	APP
+
+19521-2	enforcement	enforcement	NN	_	_	_	RSTR
+19522-3	efforts	effort	NNS	_	_	_	RSTR
+
+19533-2	violin	violin	NN	_	_	_	RSTR
+19534-3	studies	study	NNS	_	_	_	RSTR
+
+19569-2	bank	bank	NN	_	_	_	RSTR
+19570-3	spokeswoman	spokeswoman	NN	_	_	_	RSTR
+
+19572-2	conversion	conversion	NN	_	_	_	APP
+19573-3	dates	date	NNS	_	_	_	APP
+
+19578-2	capital	capital	NN	_	_	_	RSTR
+19579-3	sentences	sentence	NNS	_	_	_	RSTR
+
+19605-2	bar	bar	NN	_	_	_	RSTR
+19606-3	association	association	NN	_	_	_	RSTR
+
+19644-2	database	database	NN	_	_	_	RSTR
+19645-3	analysis	analysis	NN	_	_	_	RSTR
+
+19713-2	group	group	NN	_	_	_	RSTR
+19714-3	homes	home	NNS	_	_	_	RSTR
+
+19716-2	disaster	disaster	NN	_	_	_	REG
+19717-3	loans	loan	NNS	_	_	_	REG
+
+19725-2	takeover-stock	takeover-stock	JJ	_	_	_	REG
+19726-3	traders	trader	NNS	_	_	_	REG
+
+19740-2	business	business	NN	_	_	_	RSTR
+19741-3	mix	mix	NN	_	_	_	RSTR
+
+19755-2	neutron	neutron	NN	_	_	_	PAT-arg
+19756-3	detectors	detector	NNS	_	_	_	PAT-arg
+
+19812-2	fraud	fraud	NN	_	_	_	RSTR
+19813-3	charges	charge	NNS	_	_	_	RSTR
+
+19824-2	board	board	NN	_	_	_	APP
+19825-3	members	member	NNS	_	_	_	APP
+
+19827-2	membership	membership	NN	_	_	_	MANN
+19828-3	ties	tie	NNS	_	_	_	MANN
+
+19884-2	swap	swap	NN	_	_	_	RSTR
+19885-3	dealings	dealings	NNS	_	_	_	RSTR
+
+19944-2	hazard	hazard	NN	_	_	_	RSTR
+19945-3	areas	area	NNS	_	_	_	RSTR
+
+19956-2	Union	Union	NNP	_	_	_	APP
+19957-3	sentiment	sentiment	NN	_	_	_	APP
+
+19965-2	security	security	NN	_	_	_	REG
+19966-3	apparatus	apparatus	NN	_	_	_	REG
+
+19974-2	ad	ad	NN	_	_	_	RSTR
+19975-3	plan	plan	NN	_	_	_	RSTR
+
+19986-2	cigarette	cigarette	NN	_	_	_	PAT-arg
+19987-3	demand	demand	NN	_	_	_	PAT-arg
+
+19995-2	motor	motor	NN	_	_	_	RSTR
+19996-3	vehicles	vehicle	NNS	_	_	_	RSTR
+
+20010-2	TV	tv	NN	_	_	_	REG
+20011-3	industry	industry	NN	_	_	_	REG
+
+20022-2	prime-time	prime-time	NN	_	_	_	RSTR
+20023-3	schedule	schedule	NN	_	_	_	RSTR
+
+20061-2	pool	pool	NN	_	_	_	REG
+20062-3	flap	flap	NN	_	_	_	REG
+
+20100-2	hearing	hearing	NN	_	_	_	RSTR
+20101-3	procedure	procedure	NN	_	_	_	RSTR
+
+20148-2	inflation	inflation	NN	_	_	_	PAT-arg
+20149-3	report	report	NN	_	_	_	PAT-arg
+
+20157-2	cell	cell	NN	_	_	_	ACT-arg
+20158-3	growth	growth	NN	_	_	_	ACT-arg
+
+20166-2	credit	credit	NN	_	_	_	PAT-arg
+20167-3	guarantees	guarantee	NNS	_	_	_	PAT-arg
+
+20175-2	airline	airline	NN	_	_	_	APP
+20176-3	flights	flight	NNS	_	_	_	APP
+
+20202-2	restructuring	restructuring	NN	_	_	_	PAT-arg
+20203-3	proposals	proposal	NNS	_	_	_	PAT-arg
+
+20217-2	heavy-truck	heavy-truck	NN	_	_	_	PAT-arg
+20218-3	makers	maker	NNS	_	_	_	PAT-arg
+
+20250-2	crude-oil	crude-oil	NN	_	_	_	APP
+20251-3	prices	price	NNS	_	_	_	APP
+
+20298-2	tropical-fruit	tropical-fruit	NN	_	_	_	RSTR
+20299-3	business	business	NN	_	_	_	RSTR
+
+20316-2	PHOTOGRAPH	photograph	NN	_	_	_	PAT-arg
+20317-3	COLLECTING	collecting	NN	_	_	_	PAT-arg
+
+20328-2	vehicle	vehicle	NN	_	_	_	PAT-arg
+20329-3	leasing	leasing	NN	_	_	_	PAT-arg
+
+20391-2	minerals	mineral	NNS	_	_	_	RSTR
+20392-3	concern	concern	NN	_	_	_	RSTR
+
+20418-2	sales	sale	NNS	_	_	_	ACT-arg
+20419-3	rise	rise	NN	_	_	_	ACT-arg
+
+20445-2	rescue	rescue	NN	_	_	_	RSTR
+20446-3	exercise	exercise	NN	_	_	_	RSTR
+
+20490-2	disaster	disaster	NN	_	_	_	RSTR
+20491-3	recovery	recovery	NN	_	_	_	RSTR
+
+20496-2	art	art	NN	_	_	_	PAT-arg
+20497-3	appreciation	appreciation	NN	_	_	_	PAT-arg
+
+20502-2	contract	contract	NN	_	_	_	RSTR
+20503-3	value	value	NN	_	_	_	RSTR
+
+20550-2	animal	animal	NN	_	_	_	RSTR
+20551-3	designs	design	NNS	_	_	_	RSTR
+
+20622-2	apparel	apparel	NN	_	_	_	PAT-arg
+20623-3	analyst	analyst	NN	_	_	_	PAT-arg
+
+20655-2	memory-chip	memory-chip	NN	_	_	_	REG
+20656-3	market	market	NN	_	_	_	REG
+
+20682-2	workstation	workstation	NN	_	_	_	PAT-arg
+20683-3	sales	sale	NNS	_	_	_	PAT-arg
+
+20688-2	oil	oil	NN	_	_	_	RSTR
+20689-3	products	product	NNS	_	_	_	RSTR
+
+20712-2	printing	printing	NN	_	_	_	RSTR
+20713-3	revenue	revenue	NN	_	_	_	RSTR
+
+20721-2	disclosure	disclosure	NN	_	_	_	PAT-arg
+20722-3	efforts	effort	NNS	_	_	_	PAT-arg
+
+20793-2	bargaining	bargaining	NN	_	_	_	RSTR
+20794-3	power	power	NN	_	_	_	RSTR
+
+20856-2	monthly	monthly	JJ	_	_	_	THL
+20857-3	rises	rise	NNS	_	_	_	THL
+
+20868-2	takeover	takeover	NN	_	_	_	PAT-arg
+20869-3	threat	threat	NN	_	_	_	PAT-arg
+
+20883-2	top	top	JJ	_	_	_	RSTR
+20884-3	trader	trader	NN	_	_	_	RSTR
+
+20928-2	bankruptcy-law	bankruptcy-law	NN	_	_	_	RSTR
+20929-3	proceeding	proceeding	NN	_	_	_	RSTR
+
+20952-2	police	police	NN	_	_	_	APP
+20953-3	chief	chief	NN	_	_	_	APP
+
+20958-2	motor-vehicle	motor-vehicle	NN	_	_	_	RSTR
+20959-3	sales	sale	NNS	_	_	_	RSTR
+
+20961-2	dealership	dealership	NN	_	_	_	MAT
+20962-3	network	network	NN	_	_	_	MAT
+
+21012-2	talking	talk	VBG	_	_	_	RSTR
+21013-3	point	point	NN	_	_	_	RSTR
+
+21021-2	neighborhood	neighborhood	NN	_	_	_	RSTR
+21022-3	demonstration	demonstration	NN	_	_	_	RSTR
+
+21027-2	junk-bond	junk-bond	NN	_	_	_	RSTR
+21028-3	jitters	jitters	NNS	_	_	_	RSTR
+
+21057-2	aid	aid	NN	_	_	_	AIM
+21058-3	money	money	NN	_	_	_	AIM
+
+21084-2	payroll	payroll	NN	_	_	_	RSTR
+21085-3	tax	tax	NN	_	_	_	RSTR
+
+21156-2	field	field	NN	_	_	_	RSTR
+21157-3	staff	staff	NN	_	_	_	RSTR
+
+21168-2	dollar	dollar	NN	_	_	_	MEANS
+21169-3	earnings	earnings	NNS	_	_	_	MEANS
+
+21177-2	disk-drive	disk-drive	NN	_	_	_	PAT-arg
+21178-3	maker	maker	NN	_	_	_	PAT-arg
+
+21180-2	death-penalty	death-penalty	NN	_	_	_	RSTR
+21181-3	debate	debate	NN	_	_	_	RSTR
+
+21216-2	companion	companion	NN	_	_	_	RSTR
+21217-3	tickets	ticket	NNS	_	_	_	RSTR
+
+21318-2	research	research	NN	_	_	_	REG
+21319-3	creativity	creativity	NN	_	_	_	REG
+
+21330-2	building	building	NN	_	_	_	PAT-arg
+21331-3	supply	supply	NN	_	_	_	PAT-arg
+
+21348-2	revenue	revenue	NN	_	_	_	RSTR
+21349-3	bonds	bond	NNS	_	_	_	RSTR
+
+21357-2	cabinet	cabinet	NN	_	_	_	APP
+21358-3	members	member	NNS	_	_	_	APP
+
+21369-2	executive	executive	JJ	_	_	_	RSTR
+21370-3	power	power	NN	_	_	_	RSTR
+
+21372-2	interstate	interstate	JJ	_	_	_	RSTR
+21373-3	transportation	transportation	NN	_	_	_	RSTR
+
+21402-2	interestrate	interestrate	NN	_	_	_	REG
+21403-3	trends	trend	NNS	_	_	_	REG
+
+21405-2	comedy	comedy	NN	_	_	_	RSTR
+21406-3	movies	movie	NNS	_	_	_	RSTR
+
+21426-2	acquisition	acquisition	NN	_	_	_	PAT-arg
+21427-3	candidates	candidate	NNS	_	_	_	PAT-arg
+
+21432-2	revenue	revenue	NN	_	_	_	PAT-arg
+21433-3	sources	source	NNS	_	_	_	PAT-arg
+
+21453-2	personnel	personnel	NNS	_	_	_	PAT-arg
+21454-3	managers	manager	NNS	_	_	_	PAT-arg
+
+21456-2	plastics	plastic	NNS	_	_	_	PAT-arg
+21457-3	market	market	NN	_	_	_	PAT-arg
+
+21504-2	television	television	NN	_	_	_	RSTR
+21505-3	sets	set	NNS	_	_	_	RSTR
+
+21513-2	advance	advance	NN	_	_	_	RSTR
+21514-3	warning	warning	NN	_	_	_	RSTR
+
+21558-2	prison	prison	NN	_	_	_	RSTR
+21559-3	services	service	NNS	_	_	_	RSTR
+
+21651-2	citizens	citizen	NNS	_	_	_	RSTR
+21652-3	lobby	lobby	NN	_	_	_	RSTR
+
+21663-2	government	government	NN	_	_	_	ACT-arg
+21664-3	permission	permission	NN	_	_	_	ACT-arg
+
+21666-2	chromosome	chromosome	NN	_	_	_	PAT-arg
+21667-3	damage	damage	NN	_	_	_	PAT-arg
+
+21708-2	lightning	lightning	NN	_	_	_	RSTR
+21709-3	plunge	plunge	NN	_	_	_	RSTR
+
+21759-2	movie	movie	NN	_	_	_	REG
+21760-3	business	business	NN	_	_	_	REG
+
+21774-2	closing	closing	NN	_	_	_	RSTR
+21775-3	time	time	NN	_	_	_	RSTR
+
+21798-2	combat	combat	NN	_	_	_	APP
+21799-3	commanders	commander	NNS	_	_	_	APP
+
+21801-2	product	product	NN	_	_	_	RSTR
+21802-3	design	design	NN	_	_	_	RSTR
+
+21816-2	microwave	microwave	NN	_	_	_	RSTR
+21817-3	receiver	receiver	NN	_	_	_	RSTR
+
+21819-2	rate	rate	NN	_	_	_	ACT-arg
+21820-3	rises	rise	NNS	_	_	_	ACT-arg
+
+21834-2	transportation	transportation	NN	_	_	_	REG
+21835-3	committee	committee	NN	_	_	_	REG
+
+21930-2	third-quarter	third-quarter	JJ	_	_	_	THL
+21931-3	profit	profit	NN	_	_	_	THL
+
+21972-2	operating	operate	VBG	_	_	_	RSTR
+21973-3	units	unit	NNS	_	_	_	RSTR
+
+21984-2	data-processing	data-processing	JJ	_	_	_	RSTR
+21985-3	systems	system	NNS	_	_	_	RSTR
+
+21993-2	fleet	fleet	NN	_	_	_	PAT-arg
+21994-3	plan	plan	NN	_	_	_	PAT-arg
+
+22029-2	customer	customer	NN	_	_	_	APP
+22030-3	accounts	account	NNS	_	_	_	APP
+
+22044-2	response	response	NN	_	_	_	RSTR
+22045-3	centers	center	NNS	_	_	_	RSTR
+
+22083-2	test	test	NN	_	_	_	RSTR
+22084-3	scores	score	NNS	_	_	_	RSTR
+
+22119-2	Storm	storm	NN	_	_	_	CAUS
+22120-3	flooding	flooding	NN	_	_	_	CAUS
+
+22137-2	mail	mail	NN	_	_	_	RSTR
+22138-3	service	service	NN	_	_	_	RSTR
+
+22149-2	chemicals	chemical	NNS	_	_	_	RSTR
+22150-3	concern	concern	NN	_	_	_	RSTR
+
+22185-2	sales	sale	NNS	_	_	_	PAT-arg
+22186-3	consultant	consultant	NN	_	_	_	PAT-arg
+
+22200-2	industry	industry	NN	_	_	_	PAT-arg
+22201-3	observers	observer	NNS	_	_	_	PAT-arg
+
+22218-2	bribery	bribery	NN	_	_	_	RSTR
+22219-3	scheme	scheme	NN	_	_	_	RSTR
+
+22254-2	price	price	NN	_	_	_	ACT-arg
+22255-3	break	break	NN	_	_	_	ACT-arg
+
+22272-2	funding	funding	NN	_	_	_	RSTR
+22273-3	mechanism	mechanism	NN	_	_	_	RSTR
+
+22311-2	construction	construction	NN	_	_	_	REG
+22312-3	orders	order	NNS	_	_	_	REG
+
+22320-2	yacht	yacht	NN	_	_	_	REG
+22321-3	club	club	NN	_	_	_	REG
+
+22353-2	consortium	consortium	NN	_	_	_	MANN
+22354-3	approach	approach	NN	_	_	_	MANN
+
+22395-2	arms-control	arms-control	NN	_	_	_	RSTR
+22396-3	officials	official	NNS	_	_	_	RSTR
+
+22419-2	river	river	NN	_	_	_	RSTR
+22420-3	level	level	NN	_	_	_	RSTR
+
+22425-2	research	research	NN	_	_	_	RSTR
+22426-3	scientist	scientist	NN	_	_	_	RSTR
+
+22431-2	customer	customer	NN	_	_	_	RSTR
+22432-3	traffic	traffic	NN	_	_	_	RSTR
+
+22461-2	classified-ad	classified-ad	JJ	_	_	_	MAT
+22462-3	volume	volume	NN	_	_	_	MAT
+
+22464-2	abortion-rights	abortion-rights	NNS	_	_	_	RSTR
+22465-3	movement	movement	NN	_	_	_	RSTR
+
+22479-2	minority	minority	NN	_	_	_	RSTR
+22480-3	shareholders	shareholder	NNS	_	_	_	RSTR
+
+22482-2	board	board	NN	_	_	_	RSTR
+22483-3	rule	rule	NN	_	_	_	RSTR
+
+22488-2	state	state	NN	_	_	_	APP
+22489-3	rules	rule	NNS	_	_	_	APP
+
+22503-2	Brand	brand	NN	_	_	_	RSTR
+22504-3	imagery	imagery	NN	_	_	_	RSTR
+
+22512-2	sports	sport	NNS	_	_	_	REG
+22513-3	column	column	NN	_	_	_	REG
+
+22635-2	bankruptcy	bankruptcy	NN	_	_	_	RSTR
+22636-3	charges	charge	NNS	_	_	_	RSTR
+
+22653-2	stock	stock	NN	_	_	_	RSTR
+22654-3	play	play	NN	_	_	_	RSTR
+
+22734-2	speech	speech	NN	_	_	_	PAT-arg
+22735-3	synthesizer	synthesizer	NN	_	_	_	PAT-arg
+
+22770-2	computer	computer	NN	_	_	_	RSTR
+22771-3	time	time	NN	_	_	_	RSTR
+
+22800-2	deficit-reduction	deficit-reduction	JJ	_	_	_	REG
+22801-3	agreement	agreement	NN	_	_	_	REG
+
+22809-2	bailout	bailout	NN	_	_	_	PAT-arg
+22810-3	legislation	legislation	NN	_	_	_	PAT-arg
+
+22827-2	contract	contract	NN	_	_	_	RSTR
+22828-3	agreement	agreement	NN	_	_	_	RSTR
+
+22848-2	clearing	clearing	NN	_	_	_	RSTR
+22849-3	house	house	NN	_	_	_	RSTR
+
+22875-2	earnings	earnings	NNS	_	_	_	RSTR
+22876-3	outlook	outlook	NN	_	_	_	RSTR
+
+22908-2	personnel	personnel	NNS	_	_	_	RSTR
+22909-3	consulting	consulting	NN	_	_	_	RSTR
+
+22914-2	abortion	abortion	NN	_	_	_	PAT-arg
+22915-3	law	law	NN	_	_	_	PAT-arg
+
+22932-2	credit	credit	NN	_	_	_	ACT-arg
+22933-3	downgrades	downgrade	NNS	_	_	_	ACT-arg
+
+22947-2	investment	investment	NN	_	_	_	RSTR
+22948-3	world	world	NN	_	_	_	RSTR
+
+22968-2	vehicle	vehicle	NN	_	_	_	PAT-arg
+22969-3	exports	export	NNS	_	_	_	PAT-arg
+
+23010-2	soda	soda	NN	_	_	_	PAT-arg
+23011-3	bottlers	bottler	NNS	_	_	_	PAT-arg
+
+23034-2	housing	housing	NN	_	_	_	REG
+23035-3	crunch	crunch	NN	_	_	_	REG
+
+23043-2	crime	crime	NN	_	_	_	RSTR
+23044-3	saga	saga	NN	_	_	_	RSTR
+
+23055-2	waste-treatment	waste-treatment	NN	_	_	_	RSTR
+23056-3	plant	plant	NN	_	_	_	RSTR
+
+23076-2	trade	trade	NN	_	_	_	RSTR
+23077-3	number	number	NN	_	_	_	RSTR
+
+23145-2	basket	basket	NN	_	_	_	RSTR
+23146-3	product	product	NN	_	_	_	RSTR
+
+23154-2	fourth-quarter	fourth-quarter	JJ	_	_	_	TWHEN
+23155-3	slump	slump	NN	_	_	_	TWHEN
+
+23184-2	Series	Series	NNP	_	_	_	RSTR
+23185-3	sweep	sweep	NN	_	_	_	RSTR
+
+23217-2	price	price	NN	_	_	_	ACT-arg
+23218-3	rise	rise	NN	_	_	_	ACT-arg
+
+23229-2	holiday	holiday	NN	_	_	_	RSTR
+23230-3	guests	guest	NNS	_	_	_	RSTR
+
+23259-2	morning	morning	NN	_	_	_	TWHEN
+23260-3	trading	trading	NN	_	_	_	TWHEN
+
+23292-2	disaster	disaster	NN	_	_	_	RSTR
+23293-3	assistance	assistance	NN	_	_	_	RSTR
+
+23301-2	project	project	NN	_	_	_	RSTR
+23302-3	loans	loan	NNS	_	_	_	RSTR
+
+23328-2	health	health	NN	_	_	_	REG
+23329-3	specialist	specialist	NN	_	_	_	REG
+
+23331-2	motor	motor	NN	_	_	_	AIM
+23332-3	system	system	NN	_	_	_	AIM
+
+23337-2	group	group	NN	_	_	_	RSTR
+23338-3	commander	commander	NN	_	_	_	RSTR
+
+23340-2	books	book	NNS	_	_	_	AIM
+23341-3	division	division	NN	_	_	_	AIM
+
+23364-2	employee	employee	NN	_	_	_	ACT-arg
+23365-3	ownership	ownership	NN	_	_	_	ACT-arg
+
+23370-2	natural-gas	natural-gas	NN	_	_	_	PAT-arg
+23371-3	transportation	transportation	NN	_	_	_	PAT-arg
+
+23376-2	grapevine	grapevine	NN	_	_	_	RSTR
+23377-3	idea	idea	NN	_	_	_	RSTR
+
+23403-2	night	night	NN	_	_	_	TWHEN
+23404-3	watchman	watchman	NN	_	_	_	TWHEN
+
+23469-2	brain	brain	NN	_	_	_	PAT-arg
+23470-3	studies	study	NNS	_	_	_	PAT-arg
+
+23538-2	investment	investment	NN	_	_	_	RSTR
+23539-3	purposes	purpose	NNS	_	_	_	RSTR
+
