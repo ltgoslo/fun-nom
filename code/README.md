@@ -6,7 +6,7 @@ the 2018 Conference on Empirical Methods in Natural Language Processing
 (EMNLP)_
 
 
-### [transfer.py](code/transfer.py)
+### [transfer.py](transfer.py)
 
 This script can be used to train both single-task learning (STL) models and
 transfer learning (TL) models.
@@ -56,7 +56,7 @@ Arguments:
 ```
 
 
-### [multitask.py](code/multitask.py)
+### [multitask.py](multitask.py)
 
 This script is used to train multi-task learning (MTL) models. 
 
