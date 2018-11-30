@@ -178,14 +178,21 @@ def main():
     best_model.compile(loss='categorical_crossentropy',
                        optimizer=args.optimizer, metrics=['accuracy']) 
 
-    print("Accuracy on dev: %s" % (best_model.evaluate([ndev_x], [ndev_y, fdev_y])))
+    if args.mode == 'nomfun':
+        print("Accuracy on dev: %s" % (best_model.evaluate([ndev_x], [ndev_y, fdev_y])))
+    elif args.mode == 'funnom':
+        print("Accuracy on dev: %s" % (best_model.evaluate([ndev_x], [fdev_y, ndev_y])))
 
     if args.test == True:
         n_true = np.argmax(ntest_y, axis=1)
         f_true = np.argmax(ftest_y, axis=1)
         predictions = best_model.predict([ntest_x])
-        n_preds = np.argmax(predictions[0], axis=1)
-        f_preds = np.argmax(predictions[1], axis=1)
+        if args.mode == 'nomfun':
+            n_preds = np.argmax(predictions[0], axis=1)
+            f_preds = np.argmax(predictions[1], axis=1)
+        elif args.mode == 'funnom':
+            n_preds = np.argmax(predictions[1], axis=1)
+            f_preds = np.argmax(predictions[0], axis=1)
         print("Nombank test accuracy: %f" % (accuracy_score(n_true, n_preds)))
         print("PCEDT test accuracy: %f" % (accuracy_score(f_true, f_preds)))
 
@@ -195,6 +202,7 @@ def main():
             # split
             ntest_y = ndev_y
             ftest_y = fdev_y
+            ftest_x = fdev_x
             ntest_x = ndev_x
 
         n_true = np.argmax(ntest_y, axis=1)
@@ -204,8 +212,13 @@ def main():
         f_gold = list(f_encoder.inverse_transform(f_true))
 
         predictions = best_model.predict([ntest_x])
-        n_preds = np.argmax(predictions[0], axis=1)
-        f_preds = np.argmax(predictions[1], axis=1)
+        if args.mode == 'nomfun':
+            n_preds = np.argmax(predictions[0], axis=1)
+            f_preds = np.argmax(predictions[1], axis=1)
+        elif args.mode == 'funnom':
+            n_preds = np.argmax(predictions[1], axis=1)
+            f_preds = np.argmax(predictions[0], axis=1)
+
         n_pred_classes = list(n_encoder.inverse_transform(n_preds))
         f_pred_classes = list(f_encoder.inverse_transform(f_preds))
 
