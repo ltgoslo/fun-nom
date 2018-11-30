@@ -44,12 +44,18 @@ def train_shared(mode, embedding_matrix, num_words, data, ax_data, batch_size,
                                 optimizer, str(trainable_embd), 
                                 str(random.randint(0,9999)), str(time.time()), 
                                 "hdf5"])
-        
-    model_checkpoint = ModelCheckpoint(weights_filepath,
-                                       monitor='val_output_acc', verbose=1,
-                                       mode='auto', save_best_only=True)
-    early_stopping = EarlyStopping(monitor='val_output_acc', min_delta=0,
-                                   patience=5, verbose=0, mode='auto') 
+    if mode == 'nomfun':    
+        model_checkpoint = ModelCheckpoint(weights_filepath,
+                                           monitor='val_output_acc', verbose=1,
+                                           mode='auto', save_best_only=True)
+        early_stopping = EarlyStopping(monitor='val_output_acc', min_delta=0,
+                                       patience=5, verbose=0, mode='auto') 
+    elif mode == 'funnom':
+        model_checkpoint = ModelCheckpoint(weights_filepath,
+                                           monitor='val_foutput_acc', verbose=1,
+                                           mode='auto', save_best_only=True)
+        early_stopping = EarlyStopping(monitor='val_foutput_acc', min_delta=0,
+                                       patience=5, verbose=0, mode='auto') 
 
     print("Fine-tuning: %s" % trainable_embd)
     embedding_layer = Embedding(num_words,
@@ -157,12 +163,8 @@ def main():
     embedding_index = prepare_embedding_matrix(embedding,
                                                nconstituent_index, dimension)
 
-    if args.mode == 'nomfun':
-        m_data = [ntrain_x, ntrain_y, ndev_x, ndev_y]
-        ax_data = [ftrain_x, ftrain_y, fdev_x, fdev_y]
-    elif args.mode == 'funnom':
-        ax_data = [ntrain_x, ntrain_y, ndev_x, ndev_y]
-        m_data = [ftrain_x, ftrain_y, fdev_x, fdev_y]
+    m_data = [ntrain_x, ntrain_y, ndev_x, ndev_y]
+    ax_data = [ftrain_x, ftrain_y, fdev_x, fdev_y]
 
     embedding_matrix_copy = embedding_index.copy()
 
@@ -178,21 +180,14 @@ def main():
     best_model.compile(loss='categorical_crossentropy',
                        optimizer=args.optimizer, metrics=['accuracy']) 
 
-    if args.mode == 'nomfun':
-        print("Accuracy on dev: %s" % (best_model.evaluate([ndev_x], [ndev_y, fdev_y])))
-    elif args.mode == 'funnom':
-        print("Accuracy on dev: %s" % (best_model.evaluate([ndev_x], [fdev_y, ndev_y])))
+    print("Accuracy on dev: %s" % (best_model.evaluate([ndev_x], [ndev_y, fdev_y])))
 
     if args.test == True:
         n_true = np.argmax(ntest_y, axis=1)
         f_true = np.argmax(ftest_y, axis=1)
         predictions = best_model.predict([ntest_x])
-        if args.mode == 'nomfun':
-            n_preds = np.argmax(predictions[0], axis=1)
-            f_preds = np.argmax(predictions[1], axis=1)
-        elif args.mode == 'funnom':
-            n_preds = np.argmax(predictions[1], axis=1)
-            f_preds = np.argmax(predictions[0], axis=1)
+        n_preds = np.argmax(predictions[0], axis=1)
+        f_preds = np.argmax(predictions[1], axis=1)
         print("Nombank test accuracy: %f" % (accuracy_score(n_true, n_preds)))
         print("PCEDT test accuracy: %f" % (accuracy_score(f_true, f_preds)))
 
@@ -212,23 +207,17 @@ def main():
         f_gold = list(f_encoder.inverse_transform(f_true))
 
         predictions = best_model.predict([ntest_x])
-        if args.mode == 'nomfun':
-            n_preds = np.argmax(predictions[0], axis=1)
-            f_preds = np.argmax(predictions[1], axis=1)
-        elif args.mode == 'funnom':
-            n_preds = np.argmax(predictions[1], axis=1)
-            f_preds = np.argmax(predictions[0], axis=1)
+        n_preds = np.argmax(predictions[0], axis=1)
+        f_preds = np.argmax(predictions[1], axis=1)
 
         n_pred_classes = list(n_encoder.inverse_transform(n_preds))
         f_pred_classes = list(f_encoder.inverse_transform(f_preds))
 
         error_file = open('.'.join(weights_path.split('.')[:-1]) + "-errors.txt", 'w')
-        #print("Nomabnk F1 score")
-        #print(f1_score(n_true, n_preds, average='weighted'))
+
         error_file.write("Nombank Accuracy\n")
         error_file.write(str(accuracy_score(n_true, n_preds)) + "\n")
-        #print("PCEDT F1 score")
-        #print(f1_score(f_true, f_preds, average='weighted'))
+
         error_file.write("PCEDT Accuracy\n")
         error_file.write(str(accuracy_score(f_true, f_preds)) + "\n")
 
