@@ -1,0 +1,167 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Noun–noun compound bracketing in PCEDT, PTB and DeepBank</title>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
+
+
+<style>
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+	</style>
+	
+	<script type="text/javascript" class="init">
+
+
+$(document).ready(function() {
+    // Setup - add a text input to each footer cell
+    $('#example tfoot th').each( function () {
+        var title = $(this).text();
+        $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
+    } );
+ 
+    // DataTable
+    var table = $('#example').DataTable( {
+        "ajax": './bracketinginspection.json',
+        "displayLength": 25,
+	  "dom": 'lrtip',
+	columns: [
+		{ title: "SentId", name: "sentid", className: "sentid" },
+		{ title: "Form" },
+		{ title: "PoS" },
+		{ title: "Sub" },
+		{ title: "Bracketing source" },
+		{ title: "From" },
+		{ title: "To", "orderable": false},
+		{ title: "Mod", "orderable": false},
+		{ title: "Head", "orderable": false},
+		{ title: "Length" },
+		{ title: "Difference" }
+        ]
+    } );
+ 
+    // Apply the search
+    table.columns().every( function () {
+        var that = this;
+ 
+        $( 'input', this.footer() ).on( 'keyup change', function () {
+            if ( that.search() !== this.value ) {
+                that
+                    .search( this.value )
+                    .draw();
+            }
+        } );
+    } );
+
+$('#example').on( 'click', 'td.sentid', function () {
+    table.columns().every( function () {
+        $('input').val("");
+        this.search("")
+	       .draw();});
+    table.columns(0).search( table.cell( this ).data() )
+    .draw()
+    $('input[placeholder="Search SentId"]').val( table.cell( this ).data() );
+});
+} );
+</script>
+	
+</head>
+<body>
+<xmp theme="united" style="display:none;">
+
+## Intro
+
+This page provides a tool to inspect the compound bracketing (dis)agreement in the [fun-nom compound dataset](https://github.com/ltgoslo/fun-nom). The bracketing annotations are extracted from three resources, namely:
+	
+* **PTB**: PTB NP annotation by Vadas & Curran 2007,
+* **PSD**: Prague Czech-English Dependency Treebank (PCEDT) , and
+* **DM**: DeepBank (DM).
+
+The bracketing in the last two (PSD & DM) were extracted based on the dependency relations in the dataset prepared for SDP 2015 ([SemEval 2015 Task 8](http://alt.qcri.org/semeval2015/task18/)). 
+
+The noun-noun compounds were automatically extracted from the WSJ corpus of the PTB (detailed in [Fares et al., 2015](http://tlt14.ipipan.waw.pl/files/4614/5063/3858/TLT14_proceedings.pdf#page=280) and [Fares 2016](https://www.aclweb.org/anthology/P16-3011)).
+
+## Comparison
+
+Of 6,244 compound instances, the three annotation schemes agree on the bracketing of 4,717 compounds (almost 75%). The table below shows the "discrepancies" in bracketing among the three annotation schemes. 
+
+The differences in bracketing can be grouped under two broad types: first the set of compounds that have the same form (i.e. same tokens) in the three annotations but differ in bracketing in at least one of the annotations. Second, the set of compounds that don't have the same form in the three sources (DM, PSD and PTB) – this set includes, among other cases, the sub-compounds of the compounds in the first set. Given this distinction, we encoded the differences in bracketing as follows:
+
+Same form, different bracketing:
+
+> - **0-DM**: Same bracketing in PTB and PSD, but DM's is different
+> - **0-PSD**: Same bracketing in DM and PTB, but PSD's is different
+> - **0-PTB**: Same bracketing in PSD and DM, but PTB's is different
+> - **000**: Three different bracketings
+
+Different form:
+
+> - **S0!DM**: Compound does not occur in DM
+> - **S0!PSD**: Compound does not occur in PSD
+> - **S0!PTB**: Compound does not occur in PTB
+> - **S0DM**: Compound occurs in DM only
+> - **S0PSD**: Compound occurs in PSD only
+> - **S0PTB**: Compound occurs in PTB only
+
+
+## How to inspect the data
+
+To inspect the data, you can start from the column named _Difference_ and use one of the values described above to filter the table entries. 
+
+Under each column there is a search box that allows you to filter the table entries based on the value of the columns separately. To see all the compounds that are bracketed differently in PTB, for example, you can write "PTB" in the search box below the _Difference_ column. In addition, the sentence id (SentId) cells are "clickable", by clicking on the SentId cell in any row, you can filter the entries based on the value in that cell.
+
+#### Example
+
+The table below includes the compound _U.S. high-technology firms_ (SentId: 0020006). PSD and PTB bracket this compound as follows: (U.S. (high-technology firms)) whereas DM brackets it as follows: ((U.S. high-technology) firms). These different bracketings, which can be read from the Mod and Head columns, lead to different sub-compounds, namely _high-technology firms_ in PTB and PSD and _U.S. high-technology_ in DM.
+
+## Data
+
+  <table id="example" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>SentId</th>
+                <th>Form</th>
+                <th>Lemma</th>
+                <th>Sub</th>
+                <th>Bracketing Source</th>
+                <th>From Id</th>
+		<th>To Id</th>
+		<th>Mod Id</th>
+		<th>Head Id</th>
+		<th>Length</th>
+		<th>Difference</th>
+            </tr>
+        </thead>
+<tfoot>
+            <tr>
+                <th>SentId</th>
+                <th>Form</th>
+                <th>Lemma</th>
+                <th>Sub</th>
+                <th>Bracketing Source</th>
+                <th>From Id</th>
+		<th>To Id</th>
+		<th>Mod Id</th>
+		<th>Head Id</th>
+		<th>Length</th>
+		<th>Difference</th>
+            </tr>
+        </tfoot>
+  </table>
+_Note that the number of entries shown at the bottom is simply the number of rows in the database, not the number of compounds with different bracketing._
+
+
+</xmp>
+<script src="https://strapdownjs.com/v/0.2/strapdown.js"></script>
+</body>
+
+</html>
